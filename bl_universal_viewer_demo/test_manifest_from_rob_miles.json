@@ -1,0 +1,192 @@
+{
+	"@context": "http://iiif.io/api/presentation/2/context.json",
+	"@id": "http://53494dd5-2031-4c76-8a1a-66bd28c136f4",
+	"@type": "sc:Manifest",
+	"label": "Amrita newspaper IIIF test",
+	"metadata": [
+		{
+			"label": "Title",
+			"value": "Amrita Bazar Patrika - custom field title added"
+		},
+		{
+			"label": "Label",
+			"value": {
+				"@value": "Language",
+				"@language": "English"
+			}
+		}
+	],
+	"description": [
+		{
+			"@value": "Test manifest using some images converted/hosted on EAP's AWS acount",
+			"@language": "en"
+		}
+	],
+	"license": "https://creativecommons.org/licenses/by/3.0/",
+	"attribution": "Endangered Archives Programme",
+	"sequences": [
+		{
+			"@id": "http://2a9a3f62-c434-4ece-bb11-b65b01916248",
+			"@type": "sc:Sequence",
+			"label": [
+				{
+					"@value": "Normal Sequence",
+					"@language": "en"
+				}
+			],
+			"canvases": [
+				{
+					"@id": "http://e97b6e56-293c-4aaa-a48c-c542b4eafb11",
+					"@type": "sc:Canvas",
+					"label": "Page 1 Amrita random issue",
+					"height": 9511,
+					"width": 5920,
+					"images": [
+						{
+							"@context": "http://iiif.io/api/presentation/2/context.json",
+							"@id": "http://658e5d0c-10e3-4aab-9605-149882f9934f",
+							"@type": "oa:Annotation",
+							"motivation": "sc:painting",
+							"resource": {
+								"@id": "https://images.eap.bl.uk/EAP000/EAP000_1_1/1.jp2/full/full/0/default.jpg",
+								"@type": "dctypes:Image",
+								"format": "image/jpeg",
+								"service": {
+									"@context": "http://iiif.io/api/image/2/context.json",
+									"@id": "https://images.eap.bl.uk/EAP000/EAP000_1_1/1.jp2",
+									"profile": [
+										"http://iiif.io/api/image/2/level1.json",
+										{
+											"formats": [
+												"jpg"
+											],
+											"qualities": [
+												"native",
+												"color",
+												"gray"
+											],
+											"supports": [
+												"regionByPct",
+												"regionSquare",
+												"sizeByForcedWh",
+												"sizeByWh",
+												"sizeAboveFull",
+												"rotationBy90s",
+												"mirroring"
+											]
+										}
+									]
+								},
+								"height": 9511,
+								"width": 5920
+							},
+							"on": "http://e97b6e56-293c-4aaa-a48c-c542b4eafb11"
+						}
+					],
+					"related": ""
+				},
+				{
+					"@id": "http://d9213b22-089f-4cf9-b10d-77975a6cd34f",
+					"@type": "sc:Canvas",
+					"label": "Page 2 Amrita random issue",
+					"height": 9511,
+					"width": 5920,
+					"images": [
+						{
+							"@context": "http://iiif.io/api/presentation/2/context.json",
+							"@id": "http://5a451fce-d093-4bbc-95e3-6086665c6d03",
+							"@type": "oa:Annotation",
+							"motivation": "sc:painting",
+							"resource": {
+								"@id": "https://images.eap.bl.uk/EAP000/EAP000_1_1/2.jp2/full/full/0/default.jpg",
+								"@type": "dctypes:Image",
+								"format": "image/jpeg",
+								"service": {
+									"@context": "http://iiif.io/api/image/2/context.json",
+									"@id": "https://images.eap.bl.uk/EAP000/EAP000_1_1/2.jp2",
+									"profile": [
+										"http://iiif.io/api/image/2/level1.json",
+										{
+											"formats": [
+												"jpg"
+											],
+											"qualities": [
+												"native",
+												"color",
+												"gray"
+											],
+											"supports": [
+												"regionByPct",
+												"regionSquare",
+												"sizeByForcedWh",
+												"sizeByWh",
+												"sizeAboveFull",
+												"rotationBy90s",
+												"mirroring"
+											]
+										}
+									]
+								},
+								"height": 9511,
+								"width": 5920
+							},
+							"on": "http://d9213b22-089f-4cf9-b10d-77975a6cd34f"
+						}
+					],
+					"related": ""
+				},
+				{
+					"@id": "http://7a510029-36be-43ea-bde0-8d4a092b0fe0",
+					"@type": "sc:Canvas",
+					"label": "Alexander BL promo",
+					"height": 628,
+					"width": 1200,
+					"images": [
+						{
+							"@context": "http://iiif.io/api/presentation/2/context.json",
+							"@id": "http://ee9e04c3-5b6a-421f-90ca-21f1ddfff498",
+							"@type": "oa:Annotation",
+							"motivation": "sc:painting",
+							"resource": {
+								"@id": "https://images.eap.bl.uk/EAP000/EAP000_1_1/3.jp2/full/full/0/default.jpg",
+								"@type": "dctypes:Image",
+								"format": "image/jpeg",
+								"service": {
+									"@context": "http://iiif.io/api/image/2/context.json",
+									"@id": "https://images.eap.bl.uk/EAP000/EAP000_1_1/3.jp2",
+									"profile": [
+										"http://iiif.io/api/image/2/level1.json",
+										{
+											"formats": [
+												"jpg"
+											],
+											"qualities": [
+												"native",
+												"color",
+												"gray"
+											],
+											"supports": [
+												"regionByPct",
+												"regionSquare",
+												"sizeByForcedWh",
+												"sizeByWh",
+												"sizeAboveFull",
+												"rotationBy90s",
+												"mirroring"
+											]
+										}
+									]
+								},
+								"height": 628,
+								"width": 1200
+							},
+							"on": "http://7a510029-36be-43ea-bde0-8d4a092b0fe0"
+						}
+					],
+					"related": ""
+				}
+			]
+		}
+	],
+	"structures": []
+}
