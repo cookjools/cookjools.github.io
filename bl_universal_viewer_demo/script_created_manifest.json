@@ -36,7 +36,7 @@
 			],
 			"canvases": [
 				{
-					"@id": "http://d9213b22-089f-4cf9-b10d-77975a6cd34f",
+					"@id": "http://e97b6e56-293c-4aaa-a48c-c542b4eafb11",
 					"@type": "sc:Canvas",
 					"label": "Default label for image number [1]",
 					"height": 9511,
@@ -44,7 +44,7 @@
 					"images": [
 						{
 							"@context": "http://iiif.io/api/presentation/2/context.json",
-							"@id": "http://5a451fce-d093-4bbc-95e3-6086665c6d03",
+							"@id": "http://658e5d0c-10e3-4aab-9605-149882f9934f",
 							"@type": "oa:Annotation",
 							"motivation": "sc:painting",
 							"resource": {
@@ -80,7 +80,7 @@
 								"height": 9511,
 								"width": 5920
 							},
-							"on": "http://d9213b22-089f-4cf9-b10d-77975a6cd34f"
+							"on": "http://e97b6e56-293c-4aaa-a48c-c542b4eafb11"
 						}
 					],
 					"related": ""
@@ -136,7 +136,7 @@
 					"related": ""
 				},
 					{
-					"@id": "http://d9213b22-089f-4cf9-b10d-77975a6cd34f",
+					"@id": "http://7a510029-36be-43ea-bde0-8d4a092b0fe0",
 					"@type": "sc:Canvas",
 					"label": "Default label for image number [3]",
 					"height": 628,
@@ -144,7 +144,7 @@
 					"images": [
 						{
 							"@context": "http://iiif.io/api/presentation/2/context.json",
-							"@id": "http://5a451fce-d093-4bbc-95e3-6086665c6d03",
+							"@id": "http://ee9e04c3-5b6a-421f-90ca-21f1ddfff498",
 							"@type": "oa:Annotation",
 							"motivation": "sc:painting",
 							"resource": {
@@ -180,14 +180,13 @@
 								"height": 628,
 								"width": 1200
 							},
-							"on": "http://d9213b22-089f-4cf9-b10d-77975a6cd34f"
+							"on": "http://7a510029-36be-43ea-bde0-8d4a092b0fe0"
 						}
 					],
 					"related": ""
 				}
-				]
+			]
 		}
 	],
 	"structures": []
 }
-	
