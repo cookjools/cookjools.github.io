@@ -1,4 +1,4 @@
-	{
+{
 	"@context": "http://iiif.io/api/presentation/2/context.json",
 	"@id": "http://53494dd5-2031-4c76-8a1a-66bd28c136f4",
 	"@type": "sc:Manifest",
@@ -184,7 +184,7 @@
 						}
 					],
 					"related": ""
-				},
+				}
 				]
 		}
 	],
