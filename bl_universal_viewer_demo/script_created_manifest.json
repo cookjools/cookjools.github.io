@@ -18,7 +18,7 @@
 	],
 	"description": [
 		{
-			"@value": "Manifest using some images converted/hosted on EAP's AWS acount",
+			"@value": "Script-created manifest using some images converted/hosted on EAP's AWS acount",
 			"@language": "en"
 		}
 	],
