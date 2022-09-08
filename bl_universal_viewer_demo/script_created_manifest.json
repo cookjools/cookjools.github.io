@@ -137,7 +137,7 @@
 				{
 					"@id": "canvas_1",
 					"@type": "sc:Canvas",
-					"label": "Default label for image number [1]",
+					"label": "Image [1]",
 					"height": 9511,
 					"width": 5920,
 					"images": [
@@ -187,7 +187,7 @@
 				{
 					"@id": "canvas_2",
 					"@type": "sc:Canvas",
-					"label": "Default label for image number [2]",
+					"label": "Image [2]",
 					"height": 9511,
 					"width": 5920,
 					"images": [
@@ -237,7 +237,7 @@
 				{
 					"@id": "canvas_3",
 					"@type": "sc:Canvas",
-					"label": "Default label for image number [3]",
+					"label": "Image [3]",
 					"height": 628,
 					"width": 1200,
 					"images": [
