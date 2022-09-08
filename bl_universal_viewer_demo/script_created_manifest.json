@@ -5,15 +5,36 @@
 	"label": "Simple manifest for some EAP image set",
 	"metadata": [
 		{
+			"label": "Identifier",
+			"value": "Shelfmark_here"
+		},
+		{
+			"label": "Held by",
+			"value": "<a href=\"https://www.bl.uk\">The British Library</a>"
+		},
+		{
 			"label": "Title",
 			"value": "Simple manifest for some EAP image set"
 		},
 		{
-			"label": "Label",
-			"value": {
-				"@value": "Language",
-				"@language": "English"
-			}
+			"label": "Creator",
+			"value": "Author(s)_here"
+		},
+		{
+			"label": "Date",
+			"value": "[1900-2000]"
+		},
+		{
+			"label": "Language",
+			"value": "Persian"
+		},
+		{
+			"label": "Catalogue record",
+			"value": "<a href=\"http://searcharchives.bl.uk/IAMS_VU2:IAMS040-001606150\">View the catalogue record</a>"
+		},
+		{
+			"label": "Citation",
+			"value": "<span>British Library Shelfmark_here, &lt;http://access.bl.uk/item/viewer/ark:/81055/vdc_100052141780.0x000001&gt;</span>"
 		}
 	],
 	"description": [
