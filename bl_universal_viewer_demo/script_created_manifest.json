@@ -188,5 +188,52 @@
 			]
 		}
 	],
-	"structures": []
+	"structures": [
+		{
+			"id": "range_r1",
+			"type": "Range",
+			"label": {
+				"en": [
+					"Table of Contents"
+				]
+			},
+			"items": [
+				{
+					"id": "range_r1_1",
+					"type": "Range",
+					"label": {
+						"en": [
+						  "Work 1"
+						]
+					},
+					"items": [
+						{
+							"id": "canvas_1",
+							"type": "Canvas"
+						},
+						{
+							"id": "canvas_2",
+							"type": "Canvas"
+						}
+					]
+				},
+				{
+					"id": "range_r1_2",
+					"type": "Range",
+					"label": {
+						"en": [
+							"Work 2"
+						]
+					},
+					"items": [
+						{
+							"id": "canvas_3",
+							"type": "Canvas"
+						}
+					]
+
+				}
+			]
+		}
+	]
 }
