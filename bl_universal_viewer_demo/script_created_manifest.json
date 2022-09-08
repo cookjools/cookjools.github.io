@@ -283,8 +283,7 @@
 						}
 					],
 					"related": ""
-				}
-			]
+				}			]
 		}
 	],
 	"structures": [
@@ -297,12 +296,13 @@
 				]
 			},
 			"items": [
+			
 				{
 					"id": "toc_range_r1_1",
 					"type": "Range",
 					"label": {
 						"en": [
-						  "Work 1"
+							"Work 1"
 						]
 					},
 					"items": [
@@ -330,7 +330,6 @@
 							"type": "Canvas"
 						}
 					]
-
 				}
 			]
 		}
