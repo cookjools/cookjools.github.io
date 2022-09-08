@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>
+	Demonstration of embedded Universal Viewer 
+</title>
+<head>
+</head>
+<body>
+<!-- run on localhost using: http://localhost/BRITISH_LIBRARY/universal_viewer_etc/BL Universal Viewer Modified/bl_uv_embedded_non_eap_with_script_created_manifest.html-->
+<!-- run on Github pages using: https://cookjools.github.io/bl_universal_viewer_demo/bl_uv_embedded_non_eap_with_script_created_manifest?v=99 (change the version number to force refresh) -->
+
+<p><small>Hint: change the version number (?v=...) query parameter to force refresh</small></p>
+
+
+
+
+<p>Embedded EAP viewer using a simple manifest generated from a sequence of info.json files associated with an image set ingested into the EAP IIIF server (on AWS) by Rob Miles. A simple manifest was created by script: create_tei_facsimile_element_from_info_json_files.php (after another script had grabbed the info.json files). That script-created file manifest.json was copied and renamed as script_created_manifest.json in C:\BRITISH_LIBRARY\universal_viewer_etc\Github clone\cookjools.github.io\bl_universal_viewer_demo. The current HTML page with embedded viewer resides in the same folder. Github Desktop is used to push these files onto JC's Github Pages (https://cookjools.github.io).</p>
+
+<div class="uv" data-locale="en-GB:English (GB),cy-GB:Cymraeg" data-config="https://eap.bl.uk/modules/custom/cogapp_uv/uv/en-GB-config.json" data-uri="https://cookjools.github.io/bl_universal_viewer_demo/script_created_manifest.json" data-collectionindex="0" data-manifestindex="0" data-sequenceindex="0" data-canvasindex="0" data-zoom="-777,-268,7780,5341" data-rotation="0" style="width:560px; height:420px; background-color: #000"></div><script type="text/javascript" id="embedUV" src="https://access.bl.uk/UVR7/build/uv-2.0.2/lib/embed.js"></script><script type="text/javascript">/* wordpress fix */</script>
+
+
+
+
+
+</body>
+</html>
