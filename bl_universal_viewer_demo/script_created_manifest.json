@@ -50,35 +50,6 @@
 			"label": "View at The British Library"
 		}
 	],
-	"service": [
-		{
-			"@context": "http://iiif.io/api/auth/0/context.json",
-			"@id": "https://api.bl.uk/auth/iiif/login",
-			"profile": "http://iiif.io/api/auth/0/login",
-			"description": "Some content may only be available to registered readers or staff. Please log-in to The British Library to continue.",
-			"header": "Please Log-In",
-			"label": "Login to The British Library",
-			"service": {
-				"@id": "https://api.bl.uk/auth/iiif/token",
-				"profile": "http://iiif.io/api/auth/0/token"
-			}
-		},
-		{
-			"@context": "http://universalviewer.io/context.json",
-			"@id": "http://access.bl.uk/item/share/ark:/81055/vdc_100052141780.0x000001",
-			"profile": "http://universalviewer.io/share-extensions-profile"
-		},
-		{
-			"@context": "http://universalviewer.io/context.json",
-			"@id": "http://access.bl.uk/item/feedback/ark:/81055/vdc_100052141780.0x000001",
-			"profile": "http://universalviewer.io/feedback-extensions-profile"
-		},
-		{
-			"@context": "http://universalviewer.io/context.json",
-			"@id": "http://access.bl.uk/item/print/ark:/81055/vdc_100052141780.0x000001",
-			"profile": "http://universalviewer.io/print-extensions-profile"
-		}
-	],
 	"logo": "https://www.bl.uk/images/bl_logo_100.gif",
 	"license": "https://creativecommons.org/licenses/by/3.0/",
 	"attribution": "The British Library",
