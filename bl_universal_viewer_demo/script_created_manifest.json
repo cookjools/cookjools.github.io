@@ -39,7 +39,7 @@
 	],
 	"description": [
 		{
-			"@value": "Script-created manifest using some images converted/hosted on EAP's AWS acount",
+			"@value": "<span>Provide here a summary of the contents of the manuscript for which this script-created IIIF manifest was built (in association with a set of images ingested onto EAP's AWS server).</span>",
 			"@language": "en"
 		}
 	],
