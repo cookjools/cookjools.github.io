@@ -1,6 +1,6 @@
 {
 	"@context": "http://iiif.io/api/presentation/2/context.json",
-	"@id": "http://53494dd5-2031-4c76-8a1a-66bd28c136f4",
+	"@id": "manifest_0",
 	"@type": "sc:Manifest",
 	"label": "Simple manifest for some EAP image set",
 	"metadata": [
@@ -24,17 +24,8 @@
 	],
 	"license": "https://creativecommons.org/licenses/by/3.0/",
 	"attribution": "Endangered Archives Programme",
-	"sequences": [
-		{
-			"@id": "http://2a9a3f62-c434-4ece-bb11-b65b01916248",
-			"@type": "sc:Sequence",
-			"label": [
-				{
-					"@value": "Normal Sequence",
-					"@language": "en"
-				}
-			],
-			"canvases": [
+	"items": [
+
 				{
 					"@id": "canvas_1",
 					"@type": "sc:Canvas",
@@ -185,12 +176,10 @@
 					],
 					"related": ""
 				}
-			]
-		}
 	],
 	"structures": [
 		{
-			"id": "range_r1",
+			"id": "toc_range_r1",
 			"type": "Range",
 			"label": {
 				"en": [
@@ -199,7 +188,7 @@
 			},
 			"items": [
 				{
-					"id": "range_r1_1",
+					"id": "toc_range_r1_1",
 					"type": "Range",
 					"label": {
 						"en": [
@@ -218,7 +207,7 @@
 					]
 				},
 				{
-					"id": "range_r1_2",
+					"id": "toc_range_r1_2",
 					"type": "Range",
 					"label": {
 						"en": [
