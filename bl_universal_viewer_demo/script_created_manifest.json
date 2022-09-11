@@ -40405,6 +40405,16 @@
 							"Work 1 (images 1-100)"
 						]
 					},
+					"metadata":[
+						{
+							"label":"Identifier",
+							"value":"Work 1 (images 1-100)"
+						},
+						{
+							"label":"Description",
+							"value":"<span>Description of work 1...</span>"
+						}
+					],
 					"items": [
 						{
 							"id": "http://f8645d32-e2b5-48a3-a46d-21c39e8ed829/canvas_1",
@@ -40816,6 +40826,16 @@
 							"Work 2 (images 101-805)"
 						]
 					},
+					"metadata":[
+						{
+							"label":"Identifier",
+							"value":"Work 2 (images 101-805)"
+						},
+						{
+							"label":"Description",
+							"value":"<span>Description of work 2...</span>"
+						}
+					],
 					"items": [
 						{
 							"id": "http://f8645d32-e2b5-48a3-a46d-21c39e8ed829/canvas_101",
