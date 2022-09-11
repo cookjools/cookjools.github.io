@@ -102,7 +102,7 @@ href="https://access.bl.uk/item/viewer/ark:/81055/vdc_100052141780.0x000001">htt
 <p class=MsoNormal>&nbsp;</p>
 
 <h2>BL UV Viewer (HTML page with embedded BL UV) but now customized so as to
-point to our own manifest on our Github Pages</h2>
+point to our own manifest</h2>
 
 <p class=MsoNormal>See <a
 href="https://cookjools.github.io/bl_universal_viewer_demo/BL_embedded_UV_viewer_Add_MS_35021_minimally_customized_for_github_pages.html">https://cookjools.github.io/bl_universal_viewer_demo/BL_embedded_UV_viewer_Add_MS_35021_minimally_customized_for_github_pages.html</a></p>
@@ -114,10 +114,8 @@ e.g. for the thumbnail)</p>
 
 <p class=MsoNormal>This works more or less as intended but for some the
 range-related info does not display bottom right and neither is there an Index with
-items corresponding to the ranges we set up in the manifest displayed as a tab
-alongside the Thumbnails tab [under an overarching THUMBNAILS title] (yet by
-contrasts the Bach ms successfully displays these in the unmodified version see
-above)</p>
+items corresponding to the ranges we set up in the manifest (yet by contrasts
+the Bach ms successfully displays these in the unmodified version see above)</p>
 
 <h2>&nbsp;</h2>
 
