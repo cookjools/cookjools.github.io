@@ -40393,17 +40393,17 @@
 					"type": "sc:Range",
 					"label": {
 						"en": [
-							"Work 1"
+							"Work 1 (images 1-100)"
 						]
 					},
 					"metadata":[
 						{
 							"label":"Identifier",
-							"value":"Work 1"
+							"value":"Work 1 (images 1-100)"
 						},
 						{
 							"label":"Description",
-							"value":"<span>Description of range Work 1 to be placed here</span>"
+							"value":"<span>Description of work 1...</span>"
 						}
 					],
 					"canvases": [
@@ -40514,17 +40514,17 @@
 					"type": "sc:Range",
 					"label": {
 						"en": [
-							"Work 2"
+							"Work 2 (images 101-805)"
 						]
 					},
 					"metadata":[
 						{
 							"label":"Identifier",
-							"value":"Work 2"
+							"value":"Work 2 (images 101-805)"
 						},
 						{
 							"label":"Description",
-							"value":"<span>Description of range Work 2 to be placed here</span>"
+							"value":"<span>Description of work 2...</span>"
 						}
 					],
 					"canvases": [
