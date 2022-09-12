@@ -4,7 +4,7 @@
     "@type": "sc:Manifest",
     "label": "Label manifest here",
     "behavior": [
-        "pages"
+        "paged"
     ],
     "description": [
         {
