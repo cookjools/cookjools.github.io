@@ -3,6 +3,9 @@
 	"@id": "https://f8645d32-e2b5-48a3-a46d-21c39e8ed829/manifest_0",
 	"@type": "sc:Manifest",
 	"label": "Label manifest here",
+	"behavior": [
+		"individuals"
+	],
 	"description": [
 		{
 			"@value": "<span>Provide here a summary of the contents of the manuscript for which this script-created IIIF manifest was built (in association with a set of images ingested onto EAP's AWS server).</span>",
