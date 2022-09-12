@@ -6,6 +6,8 @@
     "behavior": [
         "individuals"
     ],
+    "viewingHint": "individuals",
+    "viewingDirection": "left-to-right",
     "description": [
         {
             "@value": "<span>Provide here a summary of the contents of the manuscript for which this script-created IIIF manifest was built (in association with a set of images ingested onto EAP's AWS server).</span>",
@@ -83,8 +85,6 @@
         }
     ],
     "logo": "https://www.bl.uk/images/bl_logo_100.gif",
-    "viewingHint": "individuals",
-    "viewingDirection": "left-to-right",
     "license": "https://creativecommons.org/licenses/by/3.0/",
     "attribution": "The British Library",
     "thumbnail": {
