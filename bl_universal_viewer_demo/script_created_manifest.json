@@ -146,6 +146,7 @@
                     "@language": "en"
                 }
             ],
+            "viewingHint": "paged",
             "viewingDirection": "left-to-right",
             "startCanvas": "https://f8645d32-e2b5-48a3-a46d-21c39e8ed829/canvas_1",
             "canvases": [
