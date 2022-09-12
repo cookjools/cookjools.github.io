@@ -587,7 +587,7 @@
 				{
 					"@id": "https://f8645d32-e2b5-48a3-a46d-21c39e8ed829/canvas_10",
 					"@type": "sc:Canvas",
-					"label": "f.3r",
+					"label": "f.3r (illust.)",
 					"height": 2129,
 					"width": 8421,
 					"images": [
@@ -637,7 +637,7 @@
 				{
 					"@id": "https://f8645d32-e2b5-48a3-a46d-21c39e8ed829/canvas_11",
 					"@type": "sc:Canvas",
-					"label": "f.3v",
+					"label": "f.3v (illust.)",
 					"height": 2103,
 					"width": 8547,
 					"images": [
@@ -687,7 +687,7 @@
 				{
 					"@id": "https://f8645d32-e2b5-48a3-a46d-21c39e8ed829/canvas_12",
 					"@type": "sc:Canvas",
-					"label": "f.4r",
+					"label": "f.4r (illust.)",
 					"height": 2183,
 					"width": 8421,
 					"images": [
@@ -937,7 +937,7 @@
 				{
 					"@id": "https://f8645d32-e2b5-48a3-a46d-21c39e8ed829/canvas_17",
 					"@type": "sc:Canvas",
-					"label": "f.6v",
+					"label": "f.6v (illust.)",
 					"height": 2136,
 					"width": 8421,
 					"images": [
@@ -1137,7 +1137,7 @@
 				{
 					"@id": "https://f8645d32-e2b5-48a3-a46d-21c39e8ed829/canvas_21",
 					"@type": "sc:Canvas",
-					"label": "f.8v",
+					"label": "f.8v (illust.)",
 					"height": 2116,
 					"width": 8421,
 					"images": [
@@ -1187,7 +1187,7 @@
 				{
 					"@id": "https://f8645d32-e2b5-48a3-a46d-21c39e8ed829/canvas_22",
 					"@type": "sc:Canvas",
-					"label": "f.9r",
+					"label": "f.9r (illust.)",
 					"height": 2108,
 					"width": 8421,
 					"images": [
@@ -1287,7 +1287,7 @@
 				{
 					"@id": "https://f8645d32-e2b5-48a3-a46d-21c39e8ed829/canvas_24",
 					"@type": "sc:Canvas",
-					"label": "f.10r",
+					"label": "f.10r (illust.)",
 					"height": 2111,
 					"width": 8421,
 					"images": [
@@ -1337,7 +1337,7 @@
 				{
 					"@id": "https://f8645d32-e2b5-48a3-a46d-21c39e8ed829/canvas_25",
 					"@type": "sc:Canvas",
-					"label": "f.10v",
+					"label": "f.10v (illust.)",
 					"height": 2061,
 					"width": 8421,
 					"images": [
@@ -1387,7 +1387,7 @@
 				{
 					"@id": "https://f8645d32-e2b5-48a3-a46d-21c39e8ed829/canvas_26",
 					"@type": "sc:Canvas",
-					"label": "f.11r",
+					"label": "f.11r (illust.)",
 					"height": 2095,
 					"width": 8421,
 					"images": [
@@ -1587,7 +1587,7 @@
 				{
 					"@id": "https://f8645d32-e2b5-48a3-a46d-21c39e8ed829/canvas_30",
 					"@type": "sc:Canvas",
-					"label": "f.13r",
+					"label": "f.13r (illust.)",
 					"height": 2138,
 					"width": 8421,
 					"images": [
@@ -1637,7 +1637,7 @@
 				{
 					"@id": "https://f8645d32-e2b5-48a3-a46d-21c39e8ed829/canvas_31",
 					"@type": "sc:Canvas",
-					"label": "f.13v",
+					"label": "f.13v (illust.)",
 					"height": 2092,
 					"width": 8237,
 					"images": [
@@ -1737,7 +1737,7 @@
 				{
 					"@id": "https://f8645d32-e2b5-48a3-a46d-21c39e8ed829/canvas_33",
 					"@type": "sc:Canvas",
-					"label": "f.14v",
+					"label": "f.14v (illust.)",
 					"height": 2054,
 					"width": 8421,
 					"images": [
@@ -1787,7 +1787,7 @@
 				{
 					"@id": "https://f8645d32-e2b5-48a3-a46d-21c39e8ed829/canvas_34",
 					"@type": "sc:Canvas",
-					"label": "f.15r",
+					"label": "f.15r (illust.)",
 					"height": 2117,
 					"width": 8421,
 					"images": [
@@ -1937,7 +1937,7 @@
 				{
 					"@id": "https://f8645d32-e2b5-48a3-a46d-21c39e8ed829/canvas_37",
 					"@type": "sc:Canvas",
-					"label": "f.16v",
+					"label": "f.16v (illust.)",
 					"height": 2048,
 					"width": 8421,
 					"images": [
@@ -2187,7 +2187,7 @@
 				{
 					"@id": "https://f8645d32-e2b5-48a3-a46d-21c39e8ed829/canvas_42",
 					"@type": "sc:Canvas",
-					"label": "f.19r",
+					"label": "f.19r (illust.)",
 					"height": 2169,
 					"width": 8421,
 					"images": [
@@ -2387,7 +2387,7 @@
 				{
 					"@id": "https://f8645d32-e2b5-48a3-a46d-21c39e8ed829/canvas_46",
 					"@type": "sc:Canvas",
-					"label": "f.21r",
+					"label": "f.21r (illust.)",
 					"height": 2071,
 					"width": 8421,
 					"images": [
@@ -2537,7 +2537,7 @@
 				{
 					"@id": "https://f8645d32-e2b5-48a3-a46d-21c39e8ed829/canvas_49",
 					"@type": "sc:Canvas",
-					"label": "f.22v",
+					"label": "f.22v (illust.)",
 					"height": 2155,
 					"width": 8421,
 					"images": [
@@ -2687,7 +2687,7 @@
 				{
 					"@id": "https://f8645d32-e2b5-48a3-a46d-21c39e8ed829/canvas_52",
 					"@type": "sc:Canvas",
-					"label": "f.24r",
+					"label": "f.24r (illust.)",
 					"height": 2109,
 					"width": 8421,
 					"images": [
@@ -2937,7 +2937,7 @@
 				{
 					"@id": "https://f8645d32-e2b5-48a3-a46d-21c39e8ed829/canvas_57",
 					"@type": "sc:Canvas",
-					"label": "f.26v",
+					"label": "f.26v (illust.)",
 					"height": 2104,
 					"width": 8421,
 					"images": [
@@ -3887,7 +3887,7 @@
 				{
 					"@id": "https://f8645d32-e2b5-48a3-a46d-21c39e8ed829/canvas_76",
 					"@type": "sc:Canvas",
-					"label": "f.36r",
+					"label": "f.36r (illust.)",
 					"height": 2191,
 					"width": 8421,
 					"images": [
@@ -3987,7 +3987,7 @@
 				{
 					"@id": "https://f8645d32-e2b5-48a3-a46d-21c39e8ed829/canvas_78",
 					"@type": "sc:Canvas",
-					"label": "f.37r",
+					"label": "f.37r (illust.)",
 					"height": 2144,
 					"width": 8421,
 					"images": [
@@ -4137,7 +4137,7 @@
 				{
 					"@id": "https://f8645d32-e2b5-48a3-a46d-21c39e8ed829/canvas_81",
 					"@type": "sc:Canvas",
-					"label": "f.38v",
+					"label": "f.38v (illust.)",
 					"height": 2162,
 					"width": 8421,
 					"images": [
@@ -4237,7 +4237,7 @@
 				{
 					"@id": "https://f8645d32-e2b5-48a3-a46d-21c39e8ed829/canvas_83",
 					"@type": "sc:Canvas",
-					"label": "f.39v",
+					"label": "f.39v (illust.)",
 					"height": 2108,
 					"width": 8487,
 					"images": [
@@ -4537,7 +4537,7 @@
 				{
 					"@id": "https://f8645d32-e2b5-48a3-a46d-21c39e8ed829/canvas_89",
 					"@type": "sc:Canvas",
-					"label": "f.42v",
+					"label": "f.42v (illust.)",
 					"height": 2103,
 					"width": 8421,
 					"images": [
@@ -4737,7 +4737,7 @@
 				{
 					"@id": "https://f8645d32-e2b5-48a3-a46d-21c39e8ed829/canvas_93",
 					"@type": "sc:Canvas",
-					"label": "f.44v",
+					"label": "f.44v (illust.)",
 					"height": 2216,
 					"width": 8421,
 					"images": [
@@ -4887,7 +4887,7 @@
 				{
 					"@id": "https://f8645d32-e2b5-48a3-a46d-21c39e8ed829/canvas_96",
 					"@type": "sc:Canvas",
-					"label": "f.46r",
+					"label": "f.46r (illust.)",
 					"height": 2130,
 					"width": 8421,
 					"images": [
@@ -4987,7 +4987,7 @@
 				{
 					"@id": "https://f8645d32-e2b5-48a3-a46d-21c39e8ed829/canvas_98",
 					"@type": "sc:Canvas",
-					"label": "f.47r",
+					"label": "f.47r (illust.)",
 					"height": 2141,
 					"width": 8421,
 					"images": [
@@ -5137,7 +5137,7 @@
 				{
 					"@id": "https://f8645d32-e2b5-48a3-a46d-21c39e8ed829/canvas_101",
 					"@type": "sc:Canvas",
-					"label": "f.48v",
+					"label": "f.48v (illust.)",
 					"height": 2135,
 					"width": 8299,
 					"images": [
@@ -5487,7 +5487,7 @@
 				{
 					"@id": "https://f8645d32-e2b5-48a3-a46d-21c39e8ed829/canvas_108",
 					"@type": "sc:Canvas",
-					"label": "f.52r",
+					"label": "f.52r (illust.)",
 					"height": 2137,
 					"width": 8421,
 					"images": [
@@ -5837,7 +5837,7 @@
 				{
 					"@id": "https://f8645d32-e2b5-48a3-a46d-21c39e8ed829/canvas_115",
 					"@type": "sc:Canvas",
-					"label": "f.55v",
+					"label": "f.55v (illust.)",
 					"height": 2076,
 					"width": 8115,
 					"images": [
@@ -5887,7 +5887,7 @@
 				{
 					"@id": "https://f8645d32-e2b5-48a3-a46d-21c39e8ed829/canvas_116",
 					"@type": "sc:Canvas",
-					"label": "f.56r",
+					"label": "f.56r (illust.)",
 					"height": 2139,
 					"width": 8421,
 					"images": [
@@ -6537,7 +6537,7 @@
 				{
 					"@id": "https://f8645d32-e2b5-48a3-a46d-21c39e8ed829/canvas_129",
 					"@type": "sc:Canvas",
-					"label": "f.62v",
+					"label": "f.62v (illust.)",
 					"height": 2130,
 					"width": 8421,
 					"images": [
@@ -6737,7 +6737,7 @@
 				{
 					"@id": "https://f8645d32-e2b5-48a3-a46d-21c39e8ed829/canvas_133",
 					"@type": "sc:Canvas",
-					"label": "f.64v",
+					"label": "f.64v (illust.)",
 					"height": 2134,
 					"width": 8421,
 					"images": [
@@ -6987,7 +6987,7 @@
 				{
 					"@id": "https://f8645d32-e2b5-48a3-a46d-21c39e8ed829/canvas_138",
 					"@type": "sc:Canvas",
-					"label": "f.67r",
+					"label": "f.67r (illust.)",
 					"height": 2160,
 					"width": 8421,
 					"images": [
@@ -7037,7 +7037,7 @@
 				{
 					"@id": "https://f8645d32-e2b5-48a3-a46d-21c39e8ed829/canvas_139",
 					"@type": "sc:Canvas",
-					"label": "f.67v",
+					"label": "f.67v (illust.)",
 					"height": 2149,
 					"width": 8421,
 					"images": [
@@ -7237,7 +7237,7 @@
 				{
 					"@id": "https://f8645d32-e2b5-48a3-a46d-21c39e8ed829/canvas_143",
 					"@type": "sc:Canvas",
-					"label": "f.69v",
+					"label": "f.69v (illust.)",
 					"height": 2219,
 					"width": 8744,
 					"images": [
@@ -7387,7 +7387,7 @@
 				{
 					"@id": "https://f8645d32-e2b5-48a3-a46d-21c39e8ed829/canvas_146",
 					"@type": "sc:Canvas",
-					"label": "f.71r",
+					"label": "f.71r (illust.)",
 					"height": 2160,
 					"width": 8744,
 					"images": [
@@ -7537,7 +7537,7 @@
 				{
 					"@id": "https://f8645d32-e2b5-48a3-a46d-21c39e8ed829/canvas_149",
 					"@type": "sc:Canvas",
-					"label": "f.72v",
+					"label": "f.72v (illust.)",
 					"height": 2167,
 					"width": 8744,
 					"images": [
@@ -7637,7 +7637,7 @@
 				{
 					"@id": "https://f8645d32-e2b5-48a3-a46d-21c39e8ed829/canvas_151",
 					"@type": "sc:Canvas",
-					"label": "f.73v",
+					"label": "f.73v (illust.)",
 					"height": 2184,
 					"width": 8744,
 					"images": [
@@ -7787,7 +7787,7 @@
 				{
 					"@id": "https://f8645d32-e2b5-48a3-a46d-21c39e8ed829/canvas_154",
 					"@type": "sc:Canvas",
-					"label": "f.75r",
+					"label": "f.75r (illust.)",
 					"height": 2205,
 					"width": 8744,
 					"images": [
@@ -7937,7 +7937,7 @@
 				{
 					"@id": "https://f8645d32-e2b5-48a3-a46d-21c39e8ed829/canvas_157",
 					"@type": "sc:Canvas",
-					"label": "f.76v",
+					"label": "f.76v (illust.)",
 					"height": 2275,
 					"width": 8744,
 					"images": [
@@ -8037,7 +8037,7 @@
 				{
 					"@id": "https://f8645d32-e2b5-48a3-a46d-21c39e8ed829/canvas_159",
 					"@type": "sc:Canvas",
-					"label": "f.77v",
+					"label": "f.77v (illust.)",
 					"height": 2192,
 					"width": 8744,
 					"images": [
@@ -8437,7 +8437,7 @@
 				{
 					"@id": "https://f8645d32-e2b5-48a3-a46d-21c39e8ed829/canvas_167",
 					"@type": "sc:Canvas",
-					"label": "f.81v",
+					"label": "f.81v (illust.)",
 					"height": 2177,
 					"width": 8744,
 					"images": [
@@ -8687,7 +8687,7 @@
 				{
 					"@id": "https://f8645d32-e2b5-48a3-a46d-21c39e8ed829/canvas_172",
 					"@type": "sc:Canvas",
-					"label": "f.84r",
+					"label": "f.84r (illust.)",
 					"height": 2179,
 					"width": 8744,
 					"images": [
@@ -8737,7 +8737,7 @@
 				{
 					"@id": "https://f8645d32-e2b5-48a3-a46d-21c39e8ed829/canvas_173",
 					"@type": "sc:Canvas",
-					"label": "f.84v",
+					"label": "f.84v (illust.)",
 					"height": 2197,
 					"width": 8744,
 					"images": [
@@ -9037,7 +9037,7 @@
 				{
 					"@id": "https://f8645d32-e2b5-48a3-a46d-21c39e8ed829/canvas_179",
 					"@type": "sc:Canvas",
-					"label": "f.87v",
+					"label": "f.87v (illust.)",
 					"height": 2156,
 					"width": 8421,
 					"images": [
@@ -9137,7 +9137,7 @@
 				{
 					"@id": "https://f8645d32-e2b5-48a3-a46d-21c39e8ed829/canvas_181",
 					"@type": "sc:Canvas",
-					"label": "f.88v",
+					"label": "f.88v (illust.)",
 					"height": 2167,
 					"width": 8421,
 					"images": [
@@ -9187,7 +9187,7 @@
 				{
 					"@id": "https://f8645d32-e2b5-48a3-a46d-21c39e8ed829/canvas_182",
 					"@type": "sc:Canvas",
-					"label": "f.89r",
+					"label": "f.89r (illust.)",
 					"height": 2207,
 					"width": 8503,
 					"images": [
@@ -9237,7 +9237,7 @@
 				{
 					"@id": "https://f8645d32-e2b5-48a3-a46d-21c39e8ed829/canvas_183",
 					"@type": "sc:Canvas",
-					"label": "f.89v",
+					"label": "f.89v (illust.)",
 					"height": 2108,
 					"width": 8421,
 					"images": [
@@ -9337,7 +9337,7 @@
 				{
 					"@id": "https://f8645d32-e2b5-48a3-a46d-21c39e8ed829/canvas_185",
 					"@type": "sc:Canvas",
-					"label": "f.90v",
+					"label": "f.90v (illust.)",
 					"height": 2144,
 					"width": 8421,
 					"images": [
@@ -10387,7 +10387,7 @@
 				{
 					"@id": "https://f8645d32-e2b5-48a3-a46d-21c39e8ed829/canvas_206",
 					"@type": "sc:Canvas",
-					"label": "f.101r",
+					"label": "f.101r (illust.)",
 					"height": 2110,
 					"width": 8421,
 					"images": [
@@ -10437,7 +10437,7 @@
 				{
 					"@id": "https://f8645d32-e2b5-48a3-a46d-21c39e8ed829/canvas_207",
 					"@type": "sc:Canvas",
-					"label": "f.101v",
+					"label": "f.101v (illust.)",
 					"height": 2146,
 					"width": 8421,
 					"images": [
@@ -10587,7 +10587,7 @@
 				{
 					"@id": "https://f8645d32-e2b5-48a3-a46d-21c39e8ed829/canvas_210",
 					"@type": "sc:Canvas",
-					"label": "f.103r",
+					"label": "f.103r (illust.)",
 					"height": 2152,
 					"width": 8421,
 					"images": [
@@ -10887,7 +10887,7 @@
 				{
 					"@id": "https://f8645d32-e2b5-48a3-a46d-21c39e8ed829/canvas_216",
 					"@type": "sc:Canvas",
-					"label": "f.106r",
+					"label": "f.106r (illust.)",
 					"height": 2140,
 					"width": 8421,
 					"images": [
@@ -11187,7 +11187,7 @@
 				{
 					"@id": "https://f8645d32-e2b5-48a3-a46d-21c39e8ed829/canvas_222",
 					"@type": "sc:Canvas",
-					"label": "f.109r",
+					"label": "f.109r (illust.)",
 					"height": 2143,
 					"width": 8421,
 					"images": [
@@ -11287,7 +11287,7 @@
 				{
 					"@id": "https://f8645d32-e2b5-48a3-a46d-21c39e8ed829/canvas_224",
 					"@type": "sc:Canvas",
-					"label": "f.110r",
+					"label": "f.110r (illust.)",
 					"height": 2127,
 					"width": 8283,
 					"images": [
@@ -11487,7 +11487,7 @@
 				{
 					"@id": "https://f8645d32-e2b5-48a3-a46d-21c39e8ed829/canvas_228",
 					"@type": "sc:Canvas",
-					"label": "f.112r",
+					"label": "f.112r (illust.)",
 					"height": 2156,
 					"width": 8744,
 					"images": [
@@ -11737,7 +11737,7 @@
 				{
 					"@id": "https://f8645d32-e2b5-48a3-a46d-21c39e8ed829/canvas_233",
 					"@type": "sc:Canvas",
-					"label": "f.114v",
+					"label": "f.114v (illust.)",
 					"height": 2285,
 					"width": 8744,
 					"images": [
@@ -12087,7 +12087,7 @@
 				{
 					"@id": "https://f8645d32-e2b5-48a3-a46d-21c39e8ed829/canvas_240",
 					"@type": "sc:Canvas",
-					"label": "f.118r",
+					"label": "f.118r (illust.)",
 					"height": 2257,
 					"width": 8744,
 					"images": [
@@ -12137,7 +12137,7 @@
 				{
 					"@id": "https://f8645d32-e2b5-48a3-a46d-21c39e8ed829/canvas_241",
 					"@type": "sc:Canvas",
-					"label": "f.118v",
+					"label": "f.118v (illust.)",
 					"height": 2250,
 					"width": 8744,
 					"images": [
@@ -12487,7 +12487,7 @@
 				{
 					"@id": "https://f8645d32-e2b5-48a3-a46d-21c39e8ed829/canvas_248",
 					"@type": "sc:Canvas",
-					"label": "f.122r",
+					"label": "f.122r (illust.)",
 					"height": 2268,
 					"width": 8744,
 					"images": [
@@ -12837,7 +12837,7 @@
 				{
 					"@id": "https://f8645d32-e2b5-48a3-a46d-21c39e8ed829/canvas_255",
 					"@type": "sc:Canvas",
-					"label": "f.125v",
+					"label": "f.125v (illust.)",
 					"height": 2276,
 					"width": 8744,
 					"images": [
@@ -13387,7 +13387,7 @@
 				{
 					"@id": "https://f8645d32-e2b5-48a3-a46d-21c39e8ed829/canvas_266",
 					"@type": "sc:Canvas",
-					"label": "f.131r",
+					"label": "f.131r (illust.)",
 					"height": 2274,
 					"width": 8744,
 					"images": [
@@ -13537,7 +13537,7 @@
 				{
 					"@id": "https://f8645d32-e2b5-48a3-a46d-21c39e8ed829/canvas_269",
 					"@type": "sc:Canvas",
-					"label": "f.132v",
+					"label": "f.132v (illust.)",
 					"height": 2238,
 					"width": 8744,
 					"images": [
@@ -13637,7 +13637,7 @@
 				{
 					"@id": "https://f8645d32-e2b5-48a3-a46d-21c39e8ed829/canvas_271",
 					"@type": "sc:Canvas",
-					"label": "f.133v",
+					"label": "f.133v (illust.)",
 					"height": 2278,
 					"width": 8744,
 					"images": [
@@ -13687,7 +13687,7 @@
 				{
 					"@id": "https://f8645d32-e2b5-48a3-a46d-21c39e8ed829/canvas_272",
 					"@type": "sc:Canvas",
-					"label": "f.134r",
+					"label": "f.134r (illust.)",
 					"height": 2260,
 					"width": 8744,
 					"images": [
@@ -13737,7 +13737,7 @@
 				{
 					"@id": "https://f8645d32-e2b5-48a3-a46d-21c39e8ed829/canvas_273",
 					"@type": "sc:Canvas",
-					"label": "f.134v",
+					"label": "f.134v (illust.)",
 					"height": 2285,
 					"width": 8744,
 					"images": [
@@ -13787,7 +13787,7 @@
 				{
 					"@id": "https://f8645d32-e2b5-48a3-a46d-21c39e8ed829/canvas_274",
 					"@type": "sc:Canvas",
-					"label": "f.135r",
+					"label": "f.135r (illust.)",
 					"height": 2228,
 					"width": 8744,
 					"images": [
@@ -13837,7 +13837,7 @@
 				{
 					"@id": "https://f8645d32-e2b5-48a3-a46d-21c39e8ed829/canvas_275",
 					"@type": "sc:Canvas",
-					"label": "f.135v",
+					"label": "f.135v (illust.)",
 					"height": 2271,
 					"width": 8744,
 					"images": [
@@ -13887,7 +13887,7 @@
 				{
 					"@id": "https://f8645d32-e2b5-48a3-a46d-21c39e8ed829/canvas_276",
 					"@type": "sc:Canvas",
-					"label": "f.136r",
+					"label": "f.136r (illust.)",
 					"height": 2256,
 					"width": 8744,
 					"images": [
@@ -14037,7 +14037,7 @@
 				{
 					"@id": "https://f8645d32-e2b5-48a3-a46d-21c39e8ed829/canvas_279",
 					"@type": "sc:Canvas",
-					"label": "f.137v",
+					"label": "f.137v (illust.)",
 					"height": 2254,
 					"width": 8744,
 					"images": [
@@ -14137,7 +14137,7 @@
 				{
 					"@id": "https://f8645d32-e2b5-48a3-a46d-21c39e8ed829/canvas_281",
 					"@type": "sc:Canvas",
-					"label": "f.138v",
+					"label": "f.138v (illust.)",
 					"height": 2263,
 					"width": 8744,
 					"images": [
@@ -14187,7 +14187,7 @@
 				{
 					"@id": "https://f8645d32-e2b5-48a3-a46d-21c39e8ed829/canvas_282",
 					"@type": "sc:Canvas",
-					"label": "f.139r",
+					"label": "f.139r (illust.)",
 					"height": 2215,
 					"width": 8744,
 					"images": [
@@ -14887,7 +14887,7 @@
 				{
 					"@id": "https://f8645d32-e2b5-48a3-a46d-21c39e8ed829/canvas_296",
 					"@type": "sc:Canvas",
-					"label": "f.146r",
+					"label": "f.146r (illust.)",
 					"height": 2206,
 					"width": 8744,
 					"images": [
@@ -15337,7 +15337,7 @@
 				{
 					"@id": "https://f8645d32-e2b5-48a3-a46d-21c39e8ed829/canvas_305",
 					"@type": "sc:Canvas",
-					"label": "f.150v",
+					"label": "f.150v (illust.)",
 					"height": 2280,
 					"width": 8744,
 					"images": [
@@ -15487,7 +15487,7 @@
 				{
 					"@id": "https://f8645d32-e2b5-48a3-a46d-21c39e8ed829/canvas_308",
 					"@type": "sc:Canvas",
-					"label": "f.152r",
+					"label": "f.152r (illust.)",
 					"height": 2303,
 					"width": 8799,
 					"images": [
@@ -15587,7 +15587,7 @@
 				{
 					"@id": "https://f8645d32-e2b5-48a3-a46d-21c39e8ed829/canvas_310",
 					"@type": "sc:Canvas",
-					"label": "f.153r",
+					"label": "f.153r (illust.)",
 					"height": 2303,
 					"width": 8799,
 					"images": [
@@ -15837,7 +15837,7 @@
 				{
 					"@id": "https://f8645d32-e2b5-48a3-a46d-21c39e8ed829/canvas_315",
 					"@type": "sc:Canvas",
-					"label": "f.155v",
+					"label": "f.155v (illust.)",
 					"height": 2303,
 					"width": 8799,
 					"images": [
@@ -15887,7 +15887,7 @@
 				{
 					"@id": "https://f8645d32-e2b5-48a3-a46d-21c39e8ed829/canvas_316",
 					"@type": "sc:Canvas",
-					"label": "f.156r",
+					"label": "f.156r (illust.)",
 					"height": 2303,
 					"width": 8799,
 					"images": [
@@ -16237,7 +16237,7 @@
 				{
 					"@id": "https://f8645d32-e2b5-48a3-a46d-21c39e8ed829/canvas_323",
 					"@type": "sc:Canvas",
-					"label": "f.159v",
+					"label": "f.159v (illust.)",
 					"height": 2303,
 					"width": 8799,
 					"images": [
@@ -16337,7 +16337,7 @@
 				{
 					"@id": "https://f8645d32-e2b5-48a3-a46d-21c39e8ed829/canvas_325",
 					"@type": "sc:Canvas",
-					"label": "f.160v",
+					"label": "f.160v (illust.)",
 					"height": 2303,
 					"width": 8799,
 					"images": [
@@ -16437,7 +16437,7 @@
 				{
 					"@id": "https://f8645d32-e2b5-48a3-a46d-21c39e8ed829/canvas_327",
 					"@type": "sc:Canvas",
-					"label": "f.161v",
+					"label": "f.161v (illust.)",
 					"height": 2303,
 					"width": 8799,
 					"images": [
@@ -16887,7 +16887,7 @@
 				{
 					"@id": "https://f8645d32-e2b5-48a3-a46d-21c39e8ed829/canvas_336",
 					"@type": "sc:Canvas",
-					"label": "f.166r",
+					"label": "f.166r (illust.)",
 					"height": 2303,
 					"width": 8799,
 					"images": [
@@ -16987,7 +16987,7 @@
 				{
 					"@id": "https://f8645d32-e2b5-48a3-a46d-21c39e8ed829/canvas_338",
 					"@type": "sc:Canvas",
-					"label": "f.167r",
+					"label": "f.167r (illust.)",
 					"height": 2303,
 					"width": 8799,
 					"images": [
@@ -17187,7 +17187,7 @@
 				{
 					"@id": "https://f8645d32-e2b5-48a3-a46d-21c39e8ed829/canvas_342",
 					"@type": "sc:Canvas",
-					"label": "f.169r",
+					"label": "f.169r (illust.)",
 					"height": 2303,
 					"width": 8799,
 					"images": [
@@ -17387,7 +17387,7 @@
 				{
 					"@id": "https://f8645d32-e2b5-48a3-a46d-21c39e8ed829/canvas_346",
 					"@type": "sc:Canvas",
-					"label": "f.171r",
+					"label": "f.171r (illust.)",
 					"height": 2303,
 					"width": 8874,
 					"images": [
@@ -17837,7 +17837,7 @@
 				{
 					"@id": "https://f8645d32-e2b5-48a3-a46d-21c39e8ed829/canvas_355",
 					"@type": "sc:Canvas",
-					"label": "f.175v",
+					"label": "f.175v (illust.)",
 					"height": 2303,
 					"width": 8799,
 					"images": [
@@ -18087,7 +18087,7 @@
 				{
 					"@id": "https://f8645d32-e2b5-48a3-a46d-21c39e8ed829/canvas_360",
 					"@type": "sc:Canvas",
-					"label": "f.178r",
+					"label": "f.178r (illust.)",
 					"height": 2303,
 					"width": 8799,
 					"images": [
@@ -18137,7 +18137,7 @@
 				{
 					"@id": "https://f8645d32-e2b5-48a3-a46d-21c39e8ed829/canvas_361",
 					"@type": "sc:Canvas",
-					"label": "f.178v",
+					"label": "f.178v (illust.)",
 					"height": 2303,
 					"width": 8799,
 					"images": [
@@ -18287,7 +18287,7 @@
 				{
 					"@id": "https://f8645d32-e2b5-48a3-a46d-21c39e8ed829/canvas_364",
 					"@type": "sc:Canvas",
-					"label": "f.180r",
+					"label": "f.180r (illust.)",
 					"height": 2303,
 					"width": 8799,
 					"images": [
@@ -18387,7 +18387,7 @@
 				{
 					"@id": "https://f8645d32-e2b5-48a3-a46d-21c39e8ed829/canvas_366",
 					"@type": "sc:Canvas",
-					"label": "f.181r",
+					"label": "f.181r (illust.)",
 					"height": 2303,
 					"width": 8799,
 					"images": [
@@ -18437,7 +18437,7 @@
 				{
 					"@id": "https://f8645d32-e2b5-48a3-a46d-21c39e8ed829/canvas_367",
 					"@type": "sc:Canvas",
-					"label": "f.181v",
+					"label": "f.181v (illust.)",
 					"height": 2303,
 					"width": 8799,
 					"images": [
@@ -18537,7 +18537,7 @@
 				{
 					"@id": "https://f8645d32-e2b5-48a3-a46d-21c39e8ed829/canvas_369",
 					"@type": "sc:Canvas",
-					"label": "f.182v",
+					"label": "f.182v (illust.)",
 					"height": 2303,
 					"width": 8799,
 					"images": [
@@ -18587,7 +18587,7 @@
 				{
 					"@id": "https://f8645d32-e2b5-48a3-a46d-21c39e8ed829/canvas_370",
 					"@type": "sc:Canvas",
-					"label": "f.183r",
+					"label": "f.183r (illust.)",
 					"height": 2303,
 					"width": 8799,
 					"images": [
@@ -18637,7 +18637,7 @@
 				{
 					"@id": "https://f8645d32-e2b5-48a3-a46d-21c39e8ed829/canvas_371",
 					"@type": "sc:Canvas",
-					"label": "f.183v",
+					"label": "f.183v (illust.)",
 					"height": 2303,
 					"width": 8799,
 					"images": [
@@ -19087,7 +19087,7 @@
 				{
 					"@id": "https://f8645d32-e2b5-48a3-a46d-21c39e8ed829/canvas_380",
 					"@type": "sc:Canvas",
-					"label": "f.188r",
+					"label": "f.188r (illust.)",
 					"height": 2303,
 					"width": 8799,
 					"images": [
@@ -20287,7 +20287,7 @@
 				{
 					"@id": "https://f8645d32-e2b5-48a3-a46d-21c39e8ed829/canvas_404",
 					"@type": "sc:Canvas",
-					"label": "f.200r",
+					"label": "f.200r (illust.)",
 					"height": 2303,
 					"width": 8799,
 					"images": [
@@ -20387,7 +20387,7 @@
 				{
 					"@id": "https://f8645d32-e2b5-48a3-a46d-21c39e8ed829/canvas_406",
 					"@type": "sc:Canvas",
-					"label": "f.201r",
+					"label": "f.201r (illust.)",
 					"height": 2303,
 					"width": 8799,
 					"images": [
@@ -20587,7 +20587,7 @@
 				{
 					"@id": "https://f8645d32-e2b5-48a3-a46d-21c39e8ed829/canvas_410",
 					"@type": "sc:Canvas",
-					"label": "f.203r",
+					"label": "f.203r (illust.)",
 					"height": 2303,
 					"width": 8799,
 					"images": [
@@ -21037,7 +21037,7 @@
 				{
 					"@id": "https://f8645d32-e2b5-48a3-a46d-21c39e8ed829/canvas_419",
 					"@type": "sc:Canvas",
-					"label": "f.207v",
+					"label": "f.207v (illust.)",
 					"height": 2224,
 					"width": 8799,
 					"images": [
@@ -21387,7 +21387,7 @@
 				{
 					"@id": "https://f8645d32-e2b5-48a3-a46d-21c39e8ed829/canvas_426",
 					"@type": "sc:Canvas",
-					"label": "f.211r",
+					"label": "f.211r (illust.)",
 					"height": 2251,
 					"width": 8911,
 					"images": [
@@ -21537,7 +21537,7 @@
 				{
 					"@id": "https://f8645d32-e2b5-48a3-a46d-21c39e8ed829/canvas_429",
 					"@type": "sc:Canvas",
-					"label": "f.212v",
+					"label": "f.212v (illust.)",
 					"height": 2251,
 					"width": 8911,
 					"images": [
@@ -21837,7 +21837,7 @@
 				{
 					"@id": "https://f8645d32-e2b5-48a3-a46d-21c39e8ed829/canvas_435",
 					"@type": "sc:Canvas",
-					"label": "f.215v",
+					"label": "f.215v (illust.)",
 					"height": 2251,
 					"width": 8911,
 					"images": [
@@ -21937,7 +21937,7 @@
 				{
 					"@id": "https://f8645d32-e2b5-48a3-a46d-21c39e8ed829/canvas_437",
 					"@type": "sc:Canvas",
-					"label": "f.216v",
+					"label": "f.216v (illust.)",
 					"height": 2251,
 					"width": 8911,
 					"images": [
@@ -22737,7 +22737,7 @@
 				{
 					"@id": "https://f8645d32-e2b5-48a3-a46d-21c39e8ed829/canvas_453",
 					"@type": "sc:Canvas",
-					"label": "f.224v",
+					"label": "f.224v (illust.)",
 					"height": 2251,
 					"width": 8911,
 					"images": [
@@ -22987,7 +22987,7 @@
 				{
 					"@id": "https://f8645d32-e2b5-48a3-a46d-21c39e8ed829/canvas_458",
 					"@type": "sc:Canvas",
-					"label": "f.227r",
+					"label": "f.227r (illust.)",
 					"height": 2251,
 					"width": 8911,
 					"images": [
@@ -23137,7 +23137,7 @@
 				{
 					"@id": "https://f8645d32-e2b5-48a3-a46d-21c39e8ed829/canvas_461",
 					"@type": "sc:Canvas",
-					"label": "f.228v",
+					"label": "f.228v (illust.)",
 					"height": 2251,
 					"width": 8911,
 					"images": [
@@ -23287,7 +23287,7 @@
 				{
 					"@id": "https://f8645d32-e2b5-48a3-a46d-21c39e8ed829/canvas_464",
 					"@type": "sc:Canvas",
-					"label": "f.230r",
+					"label": "f.230r (illust.)",
 					"height": 2251,
 					"width": 8911,
 					"images": [
@@ -23537,7 +23537,7 @@
 				{
 					"@id": "https://f8645d32-e2b5-48a3-a46d-21c39e8ed829/canvas_469",
 					"@type": "sc:Canvas",
-					"label": "f.232v",
+					"label": "f.232v (illust.)",
 					"height": 2251,
 					"width": 8911,
 					"images": [
@@ -23737,7 +23737,7 @@
 				{
 					"@id": "https://f8645d32-e2b5-48a3-a46d-21c39e8ed829/canvas_473",
 					"@type": "sc:Canvas",
-					"label": "f.234v",
+					"label": "f.234v (illust.)",
 					"height": 2251,
 					"width": 8911,
 					"images": [
@@ -23837,7 +23837,7 @@
 				{
 					"@id": "https://f8645d32-e2b5-48a3-a46d-21c39e8ed829/canvas_475",
 					"@type": "sc:Canvas",
-					"label": "f.235v",
+					"label": "f.235v (illust.)",
 					"height": 2251,
 					"width": 8911,
 					"images": [
@@ -23887,7 +23887,7 @@
 				{
 					"@id": "https://f8645d32-e2b5-48a3-a46d-21c39e8ed829/canvas_476",
 					"@type": "sc:Canvas",
-					"label": "f.236r",
+					"label": "f.236r (illust.)",
 					"height": 2251,
 					"width": 8911,
 					"images": [
@@ -24337,7 +24337,7 @@
 				{
 					"@id": "https://f8645d32-e2b5-48a3-a46d-21c39e8ed829/canvas_485",
 					"@type": "sc:Canvas",
-					"label": "f.240v",
+					"label": "f.240v (illust.)",
 					"height": 2251,
 					"width": 8911,
 					"images": [
@@ -25337,7 +25337,7 @@
 				{
 					"@id": "https://f8645d32-e2b5-48a3-a46d-21c39e8ed829/canvas_505",
 					"@type": "sc:Canvas",
-					"label": "f.250v",
+					"label": "f.250v (illust.)",
 					"height": 2251,
 					"width": 8911,
 					"images": [
@@ -25937,7 +25937,7 @@
 				{
 					"@id": "https://f8645d32-e2b5-48a3-a46d-21c39e8ed829/canvas_517",
 					"@type": "sc:Canvas",
-					"label": "f.256v",
+					"label": "f.256v (illust.)",
 					"height": 2251,
 					"width": 8911,
 					"images": [
@@ -26537,7 +26537,7 @@
 				{
 					"@id": "https://f8645d32-e2b5-48a3-a46d-21c39e8ed829/canvas_529",
 					"@type": "sc:Canvas",
-					"label": "f.262v",
+					"label": "f.262v (illust.)",
 					"height": 2251,
 					"width": 8911,
 					"images": [
@@ -26587,7 +26587,7 @@
 				{
 					"@id": "https://f8645d32-e2b5-48a3-a46d-21c39e8ed829/canvas_530",
 					"@type": "sc:Canvas",
-					"label": "f.263r",
+					"label": "f.263r (illust.)",
 					"height": 2251,
 					"width": 8911,
 					"images": [
@@ -27887,7 +27887,7 @@
 				{
 					"@id": "https://f8645d32-e2b5-48a3-a46d-21c39e8ed829/canvas_556",
 					"@type": "sc:Canvas",
-					"label": "f.276r",
+					"label": "f.276r (illust.)",
 					"height": 2202,
 					"width": 8550,
 					"images": [
@@ -28087,7 +28087,7 @@
 				{
 					"@id": "https://f8645d32-e2b5-48a3-a46d-21c39e8ed829/canvas_560",
 					"@type": "sc:Canvas",
-					"label": "f.278r",
+					"label": "f.278r (illust.)",
 					"height": 2202,
 					"width": 8550,
 					"images": [
@@ -28537,7 +28537,7 @@
 				{
 					"@id": "https://f8645d32-e2b5-48a3-a46d-21c39e8ed829/canvas_569",
 					"@type": "sc:Canvas",
-					"label": "f.282v",
+					"label": "f.282v (illust.)",
 					"height": 2202,
 					"width": 8550,
 					"images": [
@@ -28787,7 +28787,7 @@
 				{
 					"@id": "https://f8645d32-e2b5-48a3-a46d-21c39e8ed829/canvas_574",
 					"@type": "sc:Canvas",
-					"label": "f.285r",
+					"label": "f.285r (illust.)",
 					"height": 2202,
 					"width": 8550,
 					"images": [
@@ -28887,7 +28887,7 @@
 				{
 					"@id": "https://f8645d32-e2b5-48a3-a46d-21c39e8ed829/canvas_576",
 					"@type": "sc:Canvas",
-					"label": "f.286r",
+					"label": "f.286r (illust.)",
 					"height": 2202,
 					"width": 8550,
 					"images": [
@@ -29137,7 +29137,7 @@
 				{
 					"@id": "https://f8645d32-e2b5-48a3-a46d-21c39e8ed829/canvas_581",
 					"@type": "sc:Canvas",
-					"label": "f.288v",
+					"label": "f.288v (illust.)",
 					"height": 2202,
 					"width": 8550,
 					"images": [
@@ -29437,7 +29437,7 @@
 				{
 					"@id": "https://f8645d32-e2b5-48a3-a46d-21c39e8ed829/canvas_587",
 					"@type": "sc:Canvas",
-					"label": "f.291v",
+					"label": "f.291v (illust.)",
 					"height": 2202,
 					"width": 8550,
 					"images": [
@@ -29587,7 +29587,7 @@
 				{
 					"@id": "https://f8645d32-e2b5-48a3-a46d-21c39e8ed829/canvas_590",
 					"@type": "sc:Canvas",
-					"label": "f.293r",
+					"label": "f.293r (illust.)",
 					"height": 2202,
 					"width": 8550,
 					"images": [
@@ -29887,7 +29887,7 @@
 				{
 					"@id": "https://f8645d32-e2b5-48a3-a46d-21c39e8ed829/canvas_596",
 					"@type": "sc:Canvas",
-					"label": "f.296r",
+					"label": "f.296r (illust.)",
 					"height": 2202,
 					"width": 8550,
 					"images": [
@@ -30087,7 +30087,7 @@
 				{
 					"@id": "https://f8645d32-e2b5-48a3-a46d-21c39e8ed829/canvas_600",
 					"@type": "sc:Canvas",
-					"label": "f.298r",
+					"label": "f.298r (illust.)",
 					"height": 2202,
 					"width": 8550,
 					"images": [
@@ -30237,7 +30237,7 @@
 				{
 					"@id": "https://f8645d32-e2b5-48a3-a46d-21c39e8ed829/canvas_603",
 					"@type": "sc:Canvas",
-					"label": "f.299v",
+					"label": "f.299v (illust.)",
 					"height": 2202,
 					"width": 8550,
 					"images": [
@@ -30837,7 +30837,7 @@
 				{
 					"@id": "https://f8645d32-e2b5-48a3-a46d-21c39e8ed829/canvas_615",
 					"@type": "sc:Canvas",
-					"label": "f.305v",
+					"label": "f.305v (illust.)",
 					"height": 2202,
 					"width": 8550,
 					"images": [
@@ -30887,7 +30887,7 @@
 				{
 					"@id": "https://f8645d32-e2b5-48a3-a46d-21c39e8ed829/canvas_616",
 					"@type": "sc:Canvas",
-					"label": "f.306r",
+					"label": "f.306r (illust.)",
 					"height": 2202,
 					"width": 8550,
 					"images": [
@@ -31087,7 +31087,7 @@
 				{
 					"@id": "https://f8645d32-e2b5-48a3-a46d-21c39e8ed829/canvas_620",
 					"@type": "sc:Canvas",
-					"label": "f.308r",
+					"label": "f.308r (illust.)",
 					"height": 2202,
 					"width": 8550,
 					"images": [
@@ -31287,7 +31287,7 @@
 				{
 					"@id": "https://f8645d32-e2b5-48a3-a46d-21c39e8ed829/canvas_624",
 					"@type": "sc:Canvas",
-					"label": "f.310r",
+					"label": "f.310r (illust.)",
 					"height": 2202,
 					"width": 8550,
 					"images": [
@@ -31787,7 +31787,7 @@
 				{
 					"@id": "https://f8645d32-e2b5-48a3-a46d-21c39e8ed829/canvas_634",
 					"@type": "sc:Canvas",
-					"label": "f.315r",
+					"label": "f.315r (illust.)",
 					"height": 2202,
 					"width": 8550,
 					"images": [
@@ -31837,7 +31837,7 @@
 				{
 					"@id": "https://f8645d32-e2b5-48a3-a46d-21c39e8ed829/canvas_635",
 					"@type": "sc:Canvas",
-					"label": "f.315v",
+					"label": "f.315v (illust.)",
 					"height": 2202,
 					"width": 8550,
 					"images": [
@@ -31937,7 +31937,7 @@
 				{
 					"@id": "https://f8645d32-e2b5-48a3-a46d-21c39e8ed829/canvas_637",
 					"@type": "sc:Canvas",
-					"label": "f.316v",
+					"label": "f.316v (illust.)",
 					"height": 2202,
 					"width": 8550,
 					"images": [
@@ -32237,7 +32237,7 @@
 				{
 					"@id": "https://f8645d32-e2b5-48a3-a46d-21c39e8ed829/canvas_643",
 					"@type": "sc:Canvas",
-					"label": "f.319v",
+					"label": "f.319v (illust.)",
 					"height": 2202,
 					"width": 8550,
 					"images": [
@@ -32437,7 +32437,7 @@
 				{
 					"@id": "https://f8645d32-e2b5-48a3-a46d-21c39e8ed829/canvas_647",
 					"@type": "sc:Canvas",
-					"label": "f.321v",
+					"label": "f.321v (illust.)",
 					"height": 2202,
 					"width": 8550,
 					"images": [
@@ -33187,7 +33187,7 @@
 				{
 					"@id": "https://f8645d32-e2b5-48a3-a46d-21c39e8ed829/canvas_662",
 					"@type": "sc:Canvas",
-					"label": "f.329r",
+					"label": "f.329r (illust.)",
 					"height": 2202,
 					"width": 8550,
 					"images": [
@@ -33387,7 +33387,7 @@
 				{
 					"@id": "https://f8645d32-e2b5-48a3-a46d-21c39e8ed829/canvas_666",
 					"@type": "sc:Canvas",
-					"label": "f.331r",
+					"label": "f.331r (illust.)",
 					"height": 2056,
 					"width": 8550,
 					"images": [
@@ -33787,7 +33787,7 @@
 				{
 					"@id": "https://f8645d32-e2b5-48a3-a46d-21c39e8ed829/canvas_674",
 					"@type": "sc:Canvas",
-					"label": "f.335r",
+					"label": "f.335r (illust.)",
 					"height": 2202,
 					"width": 8550,
 					"images": [
@@ -33837,7 +33837,7 @@
 				{
 					"@id": "https://f8645d32-e2b5-48a3-a46d-21c39e8ed829/canvas_675",
 					"@type": "sc:Canvas",
-					"label": "f.335v",
+					"label": "f.335v (illust.)",
 					"height": 2202,
 					"width": 8550,
 					"images": [
@@ -34887,7 +34887,7 @@
 				{
 					"@id": "https://f8645d32-e2b5-48a3-a46d-21c39e8ed829/canvas_696",
 					"@type": "sc:Canvas",
-					"label": "f.346r",
+					"label": "f.346r (illust.)",
 					"height": 2202,
 					"width": 8550,
 					"images": [
@@ -35237,7 +35237,7 @@
 				{
 					"@id": "https://f8645d32-e2b5-48a3-a46d-21c39e8ed829/canvas_703",
 					"@type": "sc:Canvas",
-					"label": "f.349v",
+					"label": "f.349v (illust.)",
 					"height": 2202,
 					"width": 8550,
 					"images": [
@@ -35337,7 +35337,7 @@
 				{
 					"@id": "https://f8645d32-e2b5-48a3-a46d-21c39e8ed829/canvas_705",
 					"@type": "sc:Canvas",
-					"label": "f.350v",
+					"label": "f.350v (illust.)",
 					"height": 2202,
 					"width": 8550,
 					"images": [
@@ -35387,7 +35387,7 @@
 				{
 					"@id": "https://f8645d32-e2b5-48a3-a46d-21c39e8ed829/canvas_706",
 					"@type": "sc:Canvas",
-					"label": "f.351r",
+					"label": "f.351r (illust.)",
 					"height": 2202,
 					"width": 8550,
 					"images": [
@@ -35487,7 +35487,7 @@
 				{
 					"@id": "https://f8645d32-e2b5-48a3-a46d-21c39e8ed829/canvas_708",
 					"@type": "sc:Canvas",
-					"label": "f.352r",
+					"label": "f.352r (illust.)",
 					"height": 2202,
 					"width": 8550,
 					"images": [
@@ -35537,7 +35537,7 @@
 				{
 					"@id": "https://f8645d32-e2b5-48a3-a46d-21c39e8ed829/canvas_709",
 					"@type": "sc:Canvas",
-					"label": "f.352v",
+					"label": "f.352v (illust.)",
 					"height": 2202,
 					"width": 8550,
 					"images": [
@@ -35737,7 +35737,7 @@
 				{
 					"@id": "https://f8645d32-e2b5-48a3-a46d-21c39e8ed829/canvas_713",
 					"@type": "sc:Canvas",
-					"label": "f.354v",
+					"label": "f.354v (illust.)",
 					"height": 2202,
 					"width": 8550,
 					"images": [
@@ -36787,7 +36787,7 @@
 				{
 					"@id": "https://f8645d32-e2b5-48a3-a46d-21c39e8ed829/canvas_734",
 					"@type": "sc:Canvas",
-					"label": "f.365r",
+					"label": "f.365r (illust.)",
 					"height": 2094,
 					"width": 8550,
 					"images": [
@@ -36837,7 +36837,7 @@
 				{
 					"@id": "https://f8645d32-e2b5-48a3-a46d-21c39e8ed829/canvas_735",
 					"@type": "sc:Canvas",
-					"label": "f.365v",
+					"label": "f.365v (illust.)",
 					"height": 2202,
 					"width": 8550,
 					"images": [
@@ -37237,7 +37237,7 @@
 				{
 					"@id": "https://f8645d32-e2b5-48a3-a46d-21c39e8ed829/canvas_743",
 					"@type": "sc:Canvas",
-					"label": "f.369v",
+					"label": "f.369v (illust.)",
 					"height": 2202,
 					"width": 8550,
 					"images": [
@@ -37387,7 +37387,7 @@
 				{
 					"@id": "https://f8645d32-e2b5-48a3-a46d-21c39e8ed829/canvas_746",
 					"@type": "sc:Canvas",
-					"label": "f.371r",
+					"label": "f.371r (illust.)",
 					"height": 2202,
 					"width": 8550,
 					"images": [
@@ -38187,7 +38187,7 @@
 				{
 					"@id": "https://f8645d32-e2b5-48a3-a46d-21c39e8ed829/canvas_762",
 					"@type": "sc:Canvas",
-					"label": "f.379r",
+					"label": "f.379r (illust.)",
 					"height": 2202,
 					"width": 8550,
 					"images": [
@@ -38337,7 +38337,7 @@
 				{
 					"@id": "https://f8645d32-e2b5-48a3-a46d-21c39e8ed829/canvas_765",
 					"@type": "sc:Canvas",
-					"label": "f.380v",
+					"label": "f.380v (illust.)",
 					"height": 2202,
 					"width": 8550,
 					"images": [
@@ -38437,7 +38437,7 @@
 				{
 					"@id": "https://f8645d32-e2b5-48a3-a46d-21c39e8ed829/canvas_767",
 					"@type": "sc:Canvas",
-					"label": "f.381v",
+					"label": "f.381v (illust.)",
 					"height": 2202,
 					"width": 8550,
 					"images": [
@@ -38787,7 +38787,7 @@
 				{
 					"@id": "https://f8645d32-e2b5-48a3-a46d-21c39e8ed829/canvas_774",
 					"@type": "sc:Canvas",
-					"label": "f.385r",
+					"label": "f.385r (illust.)",
 					"height": 2202,
 					"width": 8550,
 					"images": [
@@ -39187,7 +39187,7 @@
 				{
 					"@id": "https://f8645d32-e2b5-48a3-a46d-21c39e8ed829/canvas_782",
 					"@type": "sc:Canvas",
-					"label": "f.389r",
+					"label": "f.389r (illust.)",
 					"height": 2202,
 					"width": 8550,
 					"images": [
@@ -39387,7 +39387,7 @@
 				{
 					"@id": "https://f8645d32-e2b5-48a3-a46d-21c39e8ed829/canvas_786",
 					"@type": "sc:Canvas",
-					"label": "f.391r",
+					"label": "f.391r (illust.)",
 					"height": 2202,
 					"width": 8550,
 					"images": [
@@ -39537,7 +39537,7 @@
 				{
 					"@id": "https://f8645d32-e2b5-48a3-a46d-21c39e8ed829/canvas_789",
 					"@type": "sc:Canvas",
-					"label": "f.392v",
+					"label": "f.392v (illust.)",
 					"height": 2202,
 					"width": 8550,
 					"images": [
@@ -39637,7 +39637,7 @@
 				{
 					"@id": "https://f8645d32-e2b5-48a3-a46d-21c39e8ed829/canvas_791",
 					"@type": "sc:Canvas",
-					"label": "f.393v",
+					"label": "f.393v (illust.)",
 					"height": 2202,
 					"width": 8550,
 					"images": [
