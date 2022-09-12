@@ -1,6 +1,6 @@
 {
 	"@context": "http://iiif.io/api/presentation/2/context.json",
-	"@id": "manifest_0",
+	"@id": "https://f8645d32-e2b5-48a3-a46d-21c39e8ed829/manifest_0",
 	"@type": "sc:Manifest",
 	"label": "Label manifest here",
 	"description": [
@@ -125,7 +125,7 @@
 	},
 	"sequences": [
 		{
-			"@id": "sequence_0",
+			"@id": "https://f8645d32-e2b5-48a3-a46d-21c39e8ed829/sequence_0",
 			"@type": "sc:Sequence",
 			"label": [
 				{
