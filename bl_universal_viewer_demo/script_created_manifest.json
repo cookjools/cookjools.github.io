@@ -1,5 +1,5 @@
 {
-	"@context": "http://iiif.io/api/presentation/3/context.json",
+	"@context": "http://iiif.io/api/presentation/2/context.json",
 	"@id": "https://f8645d32-e2b5-48a3-a46d-21c39e8ed829/manifest_0",
 	"@type": "sc:Manifest",
 	"label": "Label manifest here",
@@ -86,7 +86,7 @@
 	"license": "https://creativecommons.org/licenses/by/3.0/",
 	"attribution": "The British Library",
 	"thumbnail": {
-		"@id": "https://images.eap.bl.uk/EAP000/EAP000_1_1/1.jp2/full/full/0/default.jpg",
+		"@id": "https://f8645d32-e2b5-48a3-a46d-21c39e8ed829/canvas_1",
 		"@type": "dctypes:Image",
 		"format": "image/jpg",
 		"service": {
