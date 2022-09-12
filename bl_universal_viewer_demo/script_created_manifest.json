@@ -1,5 +1,5 @@
 {
-	"@context": "http://iiif.io/api/presentation/2/context.json",
+	"@context": "http://iiif.io/api/presentation/3/context.json",
 	"@id": "https://f8645d32-e2b5-48a3-a46d-21c39e8ed829/manifest_0",
 	"@type": "sc:Manifest",
 	"label": "Label manifest here",
