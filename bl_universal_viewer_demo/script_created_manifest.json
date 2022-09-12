@@ -1,5 +1,5 @@
 {
-    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@context": "http://iiif.io/api/presentation/3/context.json",
     "@id": "https://f8645d32-e2b5-48a3-a46d-21c39e8ed829/manifest_0",
     "@type": "sc:Manifest",
     "label": "Label manifest here",
@@ -67796,24 +67796,24 @@
                     "related": ""
                 },
                 {
-                    "@id": "https://f8645d32-e2b5-48a3-a46d-21c39e8ed829/canvas_2",
+                    "@id": "https://f8645d32-e2b5-48a3-a46d-21c39e8ed829/canvas_805",
                     "@type": "sc:Canvas",
-                    "label": "control 2",
-                    "height": 3662,
-                    "width": 8550,
+                    "label": "whole 5",
+                    "height": 4988,
+                    "width": 6905,
                     "images": [
                         {
                             "@context": "http://iiif.io/api/presentation/2/context.json",
-                            "@id": "https://f8645d32-e2b5-48a3-a46d-21c39e8ed829/image_2",
+                            "@id": "https://f8645d32-e2b5-48a3-a46d-21c39e8ed829/image_805",
                             "@type": "oa:Annotation",
                             "motivation": "sc:painting",
                             "resource": {
-                                "@id": "https://images.eap.bl.uk/EAP000/EAP000_1_1/2.jp2/full/full/0/default.jpg",
+                                "@id": "https://images.eap.bl.uk/EAP000/EAP000_1_1/805.jp2/full/full/0/default.jpg",
                                 "@type": "dctypes:Image",
                                 "format": "image/jpg",
                                 "service": {
                                     "@context": "http://iiif.io/api/image/2/context.json",
-                                    "@id": "https://images.eap.bl.uk/EAP000/EAP000_1_1/2.jp2",
+                                    "@id": "https://images.eap.bl.uk/EAP000/EAP000_1_1/805.jp2",
                                     "protocol": "http://iiif.io/api/image",
                                     "profile": [
                                         "http://iiif.io/api/image/2/level1.json",
@@ -67848,33 +67848,28 @@
                                             4,
                                             8,
                                             16,
-                                            32,
-                                            64
+                                            32
                                         ]
                                     }
                                 ],
                                 "sizes": [
                                     {
-                                        "width": 133,
-                                        "height": 57
+                                        "width": 215,
+                                        "height": 155
                                     },
                                     {
-                                        "width": 267,
-                                        "height": 114
+                                        "width": 431,
+                                        "height": 311
                                     },
                                     {
-                                        "width": 534,
-                                        "height": 228
-                                    },
-                                    {
-                                        "width": 1068,
-                                        "height": 457
+                                        "width": 863,
+                                        "height": 623
                                     }
                                 ],
-                                "height": 3662,
-                                "width": 8550
+                                "height": 4988,
+                                "width": 6905
                             },
-                            "on": "https://f8645d32-e2b5-48a3-a46d-21c39e8ed829/canvas_2"
+                            "on": "https://f8645d32-e2b5-48a3-a46d-21c39e8ed829/canvas_805"
                         }
                     ],
                     "related": ""
