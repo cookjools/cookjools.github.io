@@ -67885,7 +67885,6 @@
             "@id": "https://f8645d32-e2b5-48a3-a46d-21c39e8ed829/range_1",
             "@type": "sc:Range",
             "label": "Entire codex (1-805)",
-            "viewingHint": "top",
             "metadata": [
                 {
                     "label": "Identifier",
@@ -67904,11 +67903,11 @@
         {
             "@id": "https://f8645d32-e2b5-48a3-a46d-21c39e8ed829/range_1_1",
             "@type": "sc:Range",
-            "label": "Work 1 with parent (1-100)",
+            "label": "Work 1 (1-100)",
             "metadata": [
                 {
                     "label": "Identifier",
-                    "value": "Work 1 with parent (1-100)"
+                    "value": "Work 1 (1-100)"
                 },
                 {
                     "label": "Description",
@@ -68021,15 +68020,34 @@
         {
             "@id": "https://f8645d32-e2b5-48a3-a46d-21c39e8ed829/range_1_2",
             "@type": "sc:Range",
-            "label": "Work 2 with parent (101-805)",
+            "label": "Work 2 two parts (101-805)",
             "metadata": [
                 {
                     "label": "Identifier",
-                    "value": "Work 2 with parent (101-805)"
+                    "value": "Work 2 two parts (101-805)"
                 },
                 {
                     "label": "Description",
-                    "value": "<span>Description of work 2...</span>"
+                    "value": "<span>Description of work 2 ...</span>"
+                }
+            ],
+            "ranges": [
+                "https://f8645d32-e2b5-48a3-a46d-21c39e8ed829/range_1_2_1",
+                "https://f8645d32-e2b5-48a3-a46d-21c39e8ed829/range_1_2_2"
+            ]
+        },
+        {
+            "@id": "https://f8645d32-e2b5-48a3-a46d-21c39e8ed829/range_1_2_1",
+            "@type": "sc:Range",
+            "label": "Work 2 part 1 (101-200)",
+            "metadata": [
+                {
+                    "label": "Identifier",
+                    "value": "Work 2 part 1 (101-200)"
+                },
+                {
+                    "label": "Description",
+                    "value": "<span>Description of work 2 pt 1 ...</span>"
                 }
             ],
             "canvases": [
@@ -68132,7 +68150,24 @@
                 "https://f8645d32-e2b5-48a3-a46d-21c39e8ed829/canvas_197",
                 "https://f8645d32-e2b5-48a3-a46d-21c39e8ed829/canvas_198",
                 "https://f8645d32-e2b5-48a3-a46d-21c39e8ed829/canvas_199",
-                "https://f8645d32-e2b5-48a3-a46d-21c39e8ed829/canvas_200",
+                "https://f8645d32-e2b5-48a3-a46d-21c39e8ed829/canvas_200"
+            ]
+        },
+        {
+            "@id": "https://f8645d32-e2b5-48a3-a46d-21c39e8ed829/range_1_2_2",
+            "@type": "sc:Range",
+            "label": "Work 2 part 2 (201-805)",
+            "metadata": [
+                {
+                    "label": "Identifier",
+                    "value": "Work 2 part 2 (201-805)"
+                },
+                {
+                    "label": "Description",
+                    "value": "<span>Description of work 2 pt 2...</span>"
+                }
+            ],
+            "canvases": [
                 "https://f8645d32-e2b5-48a3-a46d-21c39e8ed829/canvas_201",
                 "https://f8645d32-e2b5-48a3-a46d-21c39e8ed829/canvas_202",
                 "https://f8645d32-e2b5-48a3-a46d-21c39e8ed829/canvas_203",
