@@ -67885,6 +67885,7 @@
             "@id": "https://f8645d32-e2b5-48a3-a46d-21c39e8ed829/range_1",
             "@type": "sc:Range",
             "label": "Entire codex (1-805)",
+            "viewingHint": "individuals",
             "metadata": [
                 {
                     "label": "Identifier",
@@ -67904,6 +67905,7 @@
             "@id": "https://f8645d32-e2b5-48a3-a46d-21c39e8ed829/range_1_1",
             "@type": "sc:Range",
             "label": "Work 1 (1-100)",
+            "viewingHint": "individuals",
             "metadata": [
                 {
                     "label": "Identifier",
@@ -68021,6 +68023,7 @@
             "@id": "https://f8645d32-e2b5-48a3-a46d-21c39e8ed829/range_1_2",
             "@type": "sc:Range",
             "label": "Work 2 two parts (101-805)",
+            "viewingHint": "individuals",
             "metadata": [
                 {
                     "label": "Identifier",
@@ -68040,6 +68043,7 @@
             "@id": "https://f8645d32-e2b5-48a3-a46d-21c39e8ed829/range_1_2_1",
             "@type": "sc:Range",
             "label": "Work 2 part 1 (101-200)",
+            "viewingHint": "individuals",
             "metadata": [
                 {
                     "label": "Identifier",
@@ -68157,6 +68161,7 @@
             "@id": "https://f8645d32-e2b5-48a3-a46d-21c39e8ed829/range_1_2_2",
             "@type": "sc:Range",
             "label": "Work 2 part 2 (201-805)",
+            "viewingHint": "individuals",
             "metadata": [
                 {
                     "label": "Identifier",
