@@ -55278,11 +55278,11 @@
                 {
                     "@id": "https://f8645d32-e2b5-48a3-a46d-21c39e8ed829/canvas_614",
                     "@type": "sc:Canvas",
-                    "label": "f.305r",
+                    "label": "f.305r (illust.)",
                     "metadata": [
                         {
                             "label": "Identifier",
-                            "value": "f.305r"
+                            "value": "f.305r (illust.)"
                         }
                     ],
                     "height": 2202,
@@ -70938,11 +70938,11 @@
                 {
                     "@id": "https://f8645d32-e2b5-48a3-a46d-21c39e8ed829/canvas_788",
                     "@type": "sc:Canvas",
-                    "label": "f.392r",
+                    "label": "f.392r (illust.)",
                     "metadata": [
                         {
                             "label": "Identifier",
-                            "value": "f.392r"
+                            "value": "f.392r (illust.)"
                         }
                     ],
                     "height": 2202,
@@ -71028,11 +71028,11 @@
                 {
                     "@id": "https://f8645d32-e2b5-48a3-a46d-21c39e8ed829/canvas_789",
                     "@type": "sc:Canvas",
-                    "label": "f.392v (illust.)",
+                    "label": "f.392v",
                     "metadata": [
                         {
                             "label": "Identifier",
-                            "value": "f.392v (illust.)"
+                            "value": "f.392v"
                         }
                     ],
                     "height": 2202,
