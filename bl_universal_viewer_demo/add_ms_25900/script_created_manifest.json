@@ -58228,12 +58228,12 @@
         {
             "@id": "https://f8645d32-e2b5-48a3-a46d-21c39e8ed829/range_1_1",
             "@type": "sc:Range",
-            "label": "Part",
+            "label": "Main work",
             "viewingHint": "individuals",
             "metadata": [
                 {
                     "label": "Identifier",
-                    "value": "Part"
+                    "value": "Main work"
                 }
             ],
             "canvases": [
