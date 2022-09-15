@@ -58222,7 +58222,8 @@
             "label": "Table of Contents",
             "viewingHint": "top",
             "ranges": [
-                "https://f8645d32-e2b5-48a3-a46d-21c39e8ed829/range_1_1"
+                "https://f8645d32-e2b5-48a3-a46d-21c39e8ed829/range_1_1",
+                "https://f8645d32-e2b5-48a3-a46d-21c39e8ed829/range_1_2"
             ]
         },
         {
@@ -58237,18 +58238,6 @@
                 }
             ],
             "canvases": [
-                "https://f8645d32-e2b5-48a3-a46d-21c39e8ed829/canvas_1",
-                "https://f8645d32-e2b5-48a3-a46d-21c39e8ed829/canvas_2",
-                "https://f8645d32-e2b5-48a3-a46d-21c39e8ed829/canvas_3",
-                "https://f8645d32-e2b5-48a3-a46d-21c39e8ed829/canvas_4",
-                "https://f8645d32-e2b5-48a3-a46d-21c39e8ed829/canvas_5",
-                "https://f8645d32-e2b5-48a3-a46d-21c39e8ed829/canvas_6",
-                "https://f8645d32-e2b5-48a3-a46d-21c39e8ed829/canvas_7",
-                "https://f8645d32-e2b5-48a3-a46d-21c39e8ed829/canvas_8",
-                "https://f8645d32-e2b5-48a3-a46d-21c39e8ed829/canvas_9",
-                "https://f8645d32-e2b5-48a3-a46d-21c39e8ed829/canvas_10",
-                "https://f8645d32-e2b5-48a3-a46d-21c39e8ed829/canvas_11",
-                "https://f8645d32-e2b5-48a3-a46d-21c39e8ed829/canvas_12",
                 "https://f8645d32-e2b5-48a3-a46d-21c39e8ed829/canvas_13",
                 "https://f8645d32-e2b5-48a3-a46d-21c39e8ed829/canvas_14",
                 "https://f8645d32-e2b5-48a3-a46d-21c39e8ed829/canvas_15",
@@ -58882,7 +58871,63 @@
                 "https://f8645d32-e2b5-48a3-a46d-21c39e8ed829/canvas_643",
                 "https://f8645d32-e2b5-48a3-a46d-21c39e8ed829/canvas_644",
                 "https://f8645d32-e2b5-48a3-a46d-21c39e8ed829/canvas_645",
-                "https://f8645d32-e2b5-48a3-a46d-21c39e8ed829/canvas_646",
+                "https://f8645d32-e2b5-48a3-a46d-21c39e8ed829/canvas_646"
+            ]
+        },
+        {
+            "@id": "https://f8645d32-e2b5-48a3-a46d-21c39e8ed829/range_1_2",
+            "@type": "sc:Range",
+            "label": "Other images",
+            "viewingHint": "individuals",
+            "metadata": [
+                {
+                    "label": "Identifier",
+                    "value": "Other images"
+                }
+            ],
+            "ranges": [
+                "https://f8645d32-e2b5-48a3-a46d-21c39e8ed829/range_1_2_1",
+                "https://f8645d32-e2b5-48a3-a46d-21c39e8ed829/range_1_2_2"
+            ]
+        },
+        {
+            "@id": "https://f8645d32-e2b5-48a3-a46d-21c39e8ed829/range_1_2_1",
+            "@type": "sc:Range",
+            "label": "Other images pt 1",
+            "viewingHint": "individuals",
+            "metadata": [
+                {
+                    "label": "Identifier",
+                    "value": "Other images pt 1"
+                }
+            ],
+            "canvases": [
+                "https://f8645d32-e2b5-48a3-a46d-21c39e8ed829/canvas_1",
+                "https://f8645d32-e2b5-48a3-a46d-21c39e8ed829/canvas_2",
+                "https://f8645d32-e2b5-48a3-a46d-21c39e8ed829/canvas_3",
+                "https://f8645d32-e2b5-48a3-a46d-21c39e8ed829/canvas_4",
+                "https://f8645d32-e2b5-48a3-a46d-21c39e8ed829/canvas_5",
+                "https://f8645d32-e2b5-48a3-a46d-21c39e8ed829/canvas_6",
+                "https://f8645d32-e2b5-48a3-a46d-21c39e8ed829/canvas_7",
+                "https://f8645d32-e2b5-48a3-a46d-21c39e8ed829/canvas_8",
+                "https://f8645d32-e2b5-48a3-a46d-21c39e8ed829/canvas_9",
+                "https://f8645d32-e2b5-48a3-a46d-21c39e8ed829/canvas_10",
+                "https://f8645d32-e2b5-48a3-a46d-21c39e8ed829/canvas_11",
+                "https://f8645d32-e2b5-48a3-a46d-21c39e8ed829/canvas_12"
+            ]
+        },
+        {
+            "@id": "https://f8645d32-e2b5-48a3-a46d-21c39e8ed829/range_1_2_2",
+            "@type": "sc:Range",
+            "label": "Other images pt 2",
+            "viewingHint": "individuals",
+            "metadata": [
+                {
+                    "label": "Identifier",
+                    "value": "Other images pt 2"
+                }
+            ],
+            "canvases": [
                 "https://f8645d32-e2b5-48a3-a46d-21c39e8ed829/canvas_647",
                 "https://f8645d32-e2b5-48a3-a46d-21c39e8ed829/canvas_648",
                 "https://f8645d32-e2b5-48a3-a46d-21c39e8ed829/canvas_649",
