@@ -2,7 +2,7 @@
     "@context": "http://iiif.io/api/presentation/2/context.json",
     "@id": "https://f8645d32-e2b5-48a3-a46d-21c39e8ed829/manifest_0",
     "@type": "sc:Manifest",
-    "label": "Place manifest label manifest here",
+    "label": "Add. MS 25900 Ni\u1e93\u0101m\u012b Ganjav\u012b, Khamsah",
     "behavior": [
         "individuals"
     ],
@@ -10,14 +10,14 @@
     "viewingDirection": "left-to-right",
     "description": [
         {
-            "@value": "Place manifest description here",
+            "@value": "The five poems making up the Khamsah by Ni\u1e93\u0101m\u012b Ganjav\u012b (1140 or 41-1202 or 3), containing 19 whole-page miniatures, one (f. 41r) contemporary; 14 in the Herat later-Timurid style; and four (ff 234v, 245v, 250v and 271v) in the Tabriz/Safavid style of c. 1535-40. Three paintings ( ff. 121v, 161r and 231v) are attributed to Bihzad. Consists of: Add MS 25900, ff 5v-30v: Makhzan al-asr\u0101r Add MS 25900, ff 31v-100v: Khusraw u Sh\u012br\u012bnAdd MS 25900, ff 101v-150v: Layl\u0101 u Majn\u016bnAdd MS 25900, ff 151v-205r: Haft paykarAdd MS 25900, ff 206v-319v: Iskandarn\u0101mah",
             "@language": "en"
         }
     ],
     "metadata": [
         {
             "label": "Identifier",
-            "value": "Displayable shelfmark here"
+            "value": "Add. MS 25900"
         },
         {
             "label": "Held by",
@@ -25,32 +25,32 @@
         },
         {
             "label": "Title",
-            "value": "Work(s) title(s) here"
+            "value": "Khamsah"
         },
         {
             "label": "Creator",
-            "value": "Work(s) author(s) here"
+            "value": "Ni\u1e93\u0101m\u012b Ganjav\u012b"
         },
         {
             "label": "Date",
-            "value": "Date range here"
+            "value": "1442-1443"
         },
         {
             "label": "Language",
-            "value": "Language here"
+            "value": "Persian"
         },
         {
             "label": "Catalogue record",
-            "value": "<a href=\"http://searcharchives.bl.uk/IAMS_VU2:IAMSIAMS RecordId here\">View the catalogue record</a>"
+            "value": "<a href=\"http://searcharchives.bl.uk/IAMS_VU2:IAMS032-002030095\">View the catalogue record</a>"
         },
         {
             "label": "Citation",
-            "value": "<span>Displayable shelfmark here, &lt;http://access.bl.uk/item/viewer/ark:/81055/vdc_100052141780.0x000001&gt;</span>"
+            "value": "<span>Add. MS 25900, &lt;http://www.bl.uk/manuscripts/FullDisplay.aspx?ref=Add_MS_25900&gt;</span>"
         }
     ],
     "related": [
         {
-            "@id": "http://access.bl.uk/item/viewer/ark:/81055/vdc_100052141780.0x000001",
+            "@id": "http://www.bl.uk/manuscripts/FullDisplay.aspx?ref=Add_MS_25900",
             "format": "text/html",
             "label": "View at The British Library"
         }
