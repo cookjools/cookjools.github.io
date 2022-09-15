@@ -72719,7 +72719,8 @@
             "ranges": [
                 "https://f8645d32-e2b5-48a3-a46d-21c39e8ed829/range_1_1",
                 "https://f8645d32-e2b5-48a3-a46d-21c39e8ed829/range_1_2",
-                "https://f8645d32-e2b5-48a3-a46d-21c39e8ed829/range_1_3"
+                "https://f8645d32-e2b5-48a3-a46d-21c39e8ed829/range_1_3",
+                "https://f8645d32-e2b5-48a3-a46d-21c39e8ed829/range_1_4"
             ]
         },
         {
@@ -73816,6 +73817,74 @@
                 "https://f8645d32-e2b5-48a3-a46d-21c39e8ed829/canvas_784",
                 "https://f8645d32-e2b5-48a3-a46d-21c39e8ed829/canvas_785",
                 "https://f8645d32-e2b5-48a3-a46d-21c39e8ed829/canvas_786"
+            ]
+        },
+        {
+            "@id": "https://f8645d32-e2b5-48a3-a46d-21c39e8ed829/range_1_4",
+            "@type": "sc:Range",
+            "label": "Extra images",
+            "viewingHint": "individuals",
+            "metadata": [
+                {
+                    "label": "Identifier",
+                    "value": "Extra images"
+                }
+            ],
+            "ranges": [
+                "https://f8645d32-e2b5-48a3-a46d-21c39e8ed829/range_1_4_1",
+                "https://f8645d32-e2b5-48a3-a46d-21c39e8ed829/range_1_4_2"
+            ]
+        },
+        {
+            "@id": "https://f8645d32-e2b5-48a3-a46d-21c39e8ed829/range_1_4_1",
+            "@type": "sc:Range",
+            "label": "Extra images pt 1",
+            "viewingHint": "individuals",
+            "metadata": [
+                {
+                    "label": "Identifier",
+                    "value": "Extra images pt 1"
+                }
+            ],
+            "canvases": [
+                "https://f8645d32-e2b5-48a3-a46d-21c39e8ed829/canvas_1",
+                "https://f8645d32-e2b5-48a3-a46d-21c39e8ed829/canvas_2",
+                "https://f8645d32-e2b5-48a3-a46d-21c39e8ed829/canvas_3",
+                "https://f8645d32-e2b5-48a3-a46d-21c39e8ed829/canvas_4",
+                "https://f8645d32-e2b5-48a3-a46d-21c39e8ed829/canvas_5"
+            ]
+        },
+        {
+            "@id": "https://f8645d32-e2b5-48a3-a46d-21c39e8ed829/range_1_4_2",
+            "@type": "sc:Range",
+            "label": "Extra images pt 2",
+            "viewingHint": "individuals",
+            "metadata": [
+                {
+                    "label": "Identifier",
+                    "value": "Extra images pt 2"
+                }
+            ],
+            "canvases": [
+                "https://f8645d32-e2b5-48a3-a46d-21c39e8ed829/canvas_787",
+                "https://f8645d32-e2b5-48a3-a46d-21c39e8ed829/canvas_788",
+                "https://f8645d32-e2b5-48a3-a46d-21c39e8ed829/canvas_789",
+                "https://f8645d32-e2b5-48a3-a46d-21c39e8ed829/canvas_790",
+                "https://f8645d32-e2b5-48a3-a46d-21c39e8ed829/canvas_791",
+                "https://f8645d32-e2b5-48a3-a46d-21c39e8ed829/canvas_792",
+                "https://f8645d32-e2b5-48a3-a46d-21c39e8ed829/canvas_793",
+                "https://f8645d32-e2b5-48a3-a46d-21c39e8ed829/canvas_794",
+                "https://f8645d32-e2b5-48a3-a46d-21c39e8ed829/canvas_795",
+                "https://f8645d32-e2b5-48a3-a46d-21c39e8ed829/canvas_796",
+                "https://f8645d32-e2b5-48a3-a46d-21c39e8ed829/canvas_797",
+                "https://f8645d32-e2b5-48a3-a46d-21c39e8ed829/canvas_798",
+                "https://f8645d32-e2b5-48a3-a46d-21c39e8ed829/canvas_799",
+                "https://f8645d32-e2b5-48a3-a46d-21c39e8ed829/canvas_800",
+                "https://f8645d32-e2b5-48a3-a46d-21c39e8ed829/canvas_801",
+                "https://f8645d32-e2b5-48a3-a46d-21c39e8ed829/canvas_802",
+                "https://f8645d32-e2b5-48a3-a46d-21c39e8ed829/canvas_803",
+                "https://f8645d32-e2b5-48a3-a46d-21c39e8ed829/canvas_804",
+                "https://f8645d32-e2b5-48a3-a46d-21c39e8ed829/canvas_805"
             ]
         }
     ]
