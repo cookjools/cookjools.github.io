@@ -238,11 +238,11 @@
                 {
                     "@id": "https://f8645d32-e2b5-48a3-a46d-21c39e8ed829/canvas_2",
                     "@type": "sc:Canvas",
-                    "label": "f.1v",
+                    "label": "f.1v (illum.)",
                     "metadata": [
                         {
                             "label": "Identifier",
-                            "value": "f.1v"
+                            "value": "f.1v (illum.)"
                         }
                     ],
                     "height": 7230,
@@ -323,11 +323,11 @@
                 {
                     "@id": "https://f8645d32-e2b5-48a3-a46d-21c39e8ed829/canvas_3",
                     "@type": "sc:Canvas",
-                    "label": "f.2r",
+                    "label": "f.2r (illum.)",
                     "metadata": [
                         {
                             "label": "Identifier",
-                            "value": "f.2r"
+                            "value": "f.2r (illum.)"
                         }
                     ],
                     "height": 7230,
@@ -408,11 +408,11 @@
                 {
                     "@id": "https://f8645d32-e2b5-48a3-a46d-21c39e8ed829/canvas_4",
                     "@type": "sc:Canvas",
-                    "label": "f.2v",
+                    "label": "f.2v (illum.)",
                     "metadata": [
                         {
                             "label": "Identifier",
-                            "value": "f.2v"
+                            "value": "f.2v (illum.)"
                         }
                     ],
                     "height": 7230,
@@ -493,11 +493,11 @@
                 {
                     "@id": "https://f8645d32-e2b5-48a3-a46d-21c39e8ed829/canvas_5",
                     "@type": "sc:Canvas",
-                    "label": "f.3r",
+                    "label": "f.3r (illum.)",
                     "metadata": [
                         {
                             "label": "Identifier",
-                            "value": "f.3r"
+                            "value": "f.3r (illum.)"
                         }
                     ],
                     "height": 7230,
@@ -2618,11 +2618,11 @@
                 {
                     "@id": "https://f8645d32-e2b5-48a3-a46d-21c39e8ed829/canvas_30",
                     "@type": "sc:Canvas",
-                    "label": "f.15v",
+                    "label": "f.15v (illust.)",
                     "metadata": [
                         {
                             "label": "Identifier",
-                            "value": "f.15v"
+                            "value": "f.15v (illust.)"
                         }
                     ],
                     "height": 7230,
@@ -3043,11 +3043,11 @@
                 {
                     "@id": "https://f8645d32-e2b5-48a3-a46d-21c39e8ed829/canvas_35",
                     "@type": "sc:Canvas",
-                    "label": "f.18r",
+                    "label": "f.18r (illust.)",
                     "metadata": [
                         {
                             "label": "Identifier",
-                            "value": "f.18r"
+                            "value": "f.18r (illust.)"
                         }
                     ],
                     "height": 7230,
@@ -4488,11 +4488,11 @@
                 {
                     "@id": "https://f8645d32-e2b5-48a3-a46d-21c39e8ed829/canvas_52",
                     "@type": "sc:Canvas",
-                    "label": "f.26v",
+                    "label": "f.26v (illust.)",
                     "metadata": [
                         {
                             "label": "Identifier",
-                            "value": "f.26v"
+                            "value": "f.26v (illust.)"
                         }
                     ],
                     "height": 7230,
@@ -8228,11 +8228,11 @@
                 {
                     "@id": "https://f8645d32-e2b5-48a3-a46d-21c39e8ed829/canvas_96",
                     "@type": "sc:Canvas",
-                    "label": "f.48v",
+                    "label": "f.48v (illust.)",
                     "metadata": [
                         {
                             "label": "Identifier",
-                            "value": "f.48v"
+                            "value": "f.48v (illust.)"
                         }
                     ],
                     "height": 7230,
@@ -9078,11 +9078,11 @@
                 {
                     "@id": "https://f8645d32-e2b5-48a3-a46d-21c39e8ed829/canvas_106",
                     "@type": "sc:Canvas",
-                    "label": "f.53v",
+                    "label": "f.53v (illust.)",
                     "metadata": [
                         {
                             "label": "Identifier",
-                            "value": "f.53v"
+                            "value": "f.53v (illust.)"
                         }
                     ],
                     "height": 7230,
@@ -9758,11 +9758,11 @@
                 {
                     "@id": "https://f8645d32-e2b5-48a3-a46d-21c39e8ed829/canvas_114",
                     "@type": "sc:Canvas",
-                    "label": "f.57v",
+                    "label": "f.57v (illust.)",
                     "metadata": [
                         {
                             "label": "Identifier",
-                            "value": "f.57v"
+                            "value": "f.57v (illust.)"
                         }
                     ],
                     "height": 7230,
@@ -10268,11 +10268,11 @@
                 {
                     "@id": "https://f8645d32-e2b5-48a3-a46d-21c39e8ed829/canvas_120",
                     "@type": "sc:Canvas",
-                    "label": "f.60v",
+                    "label": "f.60v (illust.)",
                     "metadata": [
                         {
                             "label": "Identifier",
-                            "value": "f.60v"
+                            "value": "f.60v (illust.)"
                         }
                     ],
                     "height": 7230,
@@ -11288,11 +11288,11 @@
                 {
                     "@id": "https://f8645d32-e2b5-48a3-a46d-21c39e8ed829/canvas_132",
                     "@type": "sc:Canvas",
-                    "label": "f.66v",
+                    "label": "f.66v (illust.)",
                     "metadata": [
                         {
                             "label": "Identifier",
-                            "value": "f.66v"
+                            "value": "f.66v (illust.)"
                         }
                     ],
                     "height": 7230,
@@ -13158,11 +13158,11 @@
                 {
                     "@id": "https://f8645d32-e2b5-48a3-a46d-21c39e8ed829/canvas_154",
                     "@type": "sc:Canvas",
-                    "label": "f.77v",
+                    "label": "f.77v (illust.)",
                     "metadata": [
                         {
                             "label": "Identifier",
-                            "value": "f.77v"
+                            "value": "f.77v (illust.)"
                         }
                     ],
                     "height": 7230,
@@ -26928,11 +26928,11 @@
                 {
                     "@id": "https://f8645d32-e2b5-48a3-a46d-21c39e8ed829/canvas_316",
                     "@type": "sc:Canvas",
-                    "label": "f.157v",
+                    "label": "f.157v (illust.)",
                     "metadata": [
                         {
                             "label": "Identifier",
-                            "value": "f.157v"
+                            "value": "f.157v (illust.)"
                         }
                     ],
                     "height": 6942,
@@ -28373,11 +28373,11 @@
                 {
                     "@id": "https://f8645d32-e2b5-48a3-a46d-21c39e8ed829/canvas_333",
                     "@type": "sc:Canvas",
-                    "label": "f.166r",
+                    "label": "f.166r (illust.)",
                     "metadata": [
                         {
                             "label": "Identifier",
-                            "value": "f.166r"
+                            "value": "f.166r (illust.)"
                         }
                     ],
                     "height": 7230,
@@ -33303,11 +33303,11 @@
                 {
                     "@id": "https://f8645d32-e2b5-48a3-a46d-21c39e8ed829/canvas_391",
                     "@type": "sc:Canvas",
-                    "label": "f.195r",
+                    "label": "f.195r (illust.)",
                     "metadata": [
                         {
                             "label": "Identifier",
-                            "value": "f.195r"
+                            "value": "f.195r (illust.)"
                         }
                     ],
                     "height": 7230,
@@ -34578,11 +34578,11 @@
                 {
                     "@id": "https://f8645d32-e2b5-48a3-a46d-21c39e8ed829/canvas_406",
                     "@type": "sc:Canvas",
-                    "label": "f.202v",
+                    "label": "f.202v (illust.)",
                     "metadata": [
                         {
                             "label": "Identifier",
-                            "value": "f.202v"
+                            "value": "f.202v (illust.)"
                         }
                     ],
                     "height": 7230,
@@ -34748,11 +34748,11 @@
                 {
                     "@id": "https://f8645d32-e2b5-48a3-a46d-21c39e8ed829/canvas_408",
                     "@type": "sc:Canvas",
-                    "label": "f.203v",
+                    "label": "f.203v (illust.)",
                     "metadata": [
                         {
                             "label": "Identifier",
-                            "value": "f.203v"
+                            "value": "f.203v (illust.)"
                         }
                     ],
                     "height": 7230,
@@ -36023,11 +36023,11 @@
                 {
                     "@id": "https://f8645d32-e2b5-48a3-a46d-21c39e8ed829/canvas_423",
                     "@type": "sc:Canvas",
-                    "label": "f.211r",
+                    "label": "f.211r (illust.)",
                     "metadata": [
                         {
                             "label": "Identifier",
-                            "value": "f.211r"
+                            "value": "f.211r (illust.)"
                         }
                     ],
                     "height": 7230,
@@ -36363,11 +36363,11 @@
                 {
                     "@id": "https://f8645d32-e2b5-48a3-a46d-21c39e8ed829/canvas_427",
                     "@type": "sc:Canvas",
-                    "label": "f.213r",
+                    "label": "f.213r (illust.)",
                     "metadata": [
                         {
                             "label": "Identifier",
-                            "value": "f.213r"
+                            "value": "f.213r (illust.)"
                         }
                     ],
                     "height": 7230,
@@ -37808,11 +37808,11 @@
                 {
                     "@id": "https://f8645d32-e2b5-48a3-a46d-21c39e8ed829/canvas_444",
                     "@type": "sc:Canvas",
-                    "label": "f.221v",
+                    "label": "f.221v (illust.)",
                     "metadata": [
                         {
                             "label": "Identifier",
-                            "value": "f.221v"
+                            "value": "f.221v (illust.)"
                         }
                     ],
                     "height": 7230,
@@ -68841,11 +68841,28 @@
             "viewingHint": "top",
             "ranges": [
                 "https://f8645d32-e2b5-48a3-a46d-21c39e8ed829/range_1_1",
-                "https://f8645d32-e2b5-48a3-a46d-21c39e8ed829/range_1_2"
+                "https://f8645d32-e2b5-48a3-a46d-21c39e8ed829/range_1_2",
+                "https://f8645d32-e2b5-48a3-a46d-21c39e8ed829/range_1_3"
             ]
         },
         {
             "@id": "https://f8645d32-e2b5-48a3-a46d-21c39e8ed829/range_1_1",
+            "@type": "sc:Range",
+            "label": "Illuminations",
+            "viewingHint": "individuals",
+            "metadata": [
+                {
+                    "label": "Identifier",
+                    "value": "Illuminations"
+                }
+            ],
+            "canvases": [
+                "https://f8645d32-e2b5-48a3-a46d-21c39e8ed829/canvas_2",
+                "https://f8645d32-e2b5-48a3-a46d-21c39e8ed829/canvas_3"
+            ]
+        },
+        {
+            "@id": "https://f8645d32-e2b5-48a3-a46d-21c39e8ed829/range_1_2",
             "@type": "sc:Range",
             "label": "Texts",
             "viewingHint": "individuals",
@@ -68856,15 +68873,16 @@
                 }
             ],
             "ranges": [
-                "https://f8645d32-e2b5-48a3-a46d-21c39e8ed829/range_1_1_1",
-                "https://f8645d32-e2b5-48a3-a46d-21c39e8ed829/range_1_1_2",
-                "https://f8645d32-e2b5-48a3-a46d-21c39e8ed829/range_1_1_3",
-                "https://f8645d32-e2b5-48a3-a46d-21c39e8ed829/range_1_1_4",
-                "https://f8645d32-e2b5-48a3-a46d-21c39e8ed829/range_1_1_5"
+                "https://f8645d32-e2b5-48a3-a46d-21c39e8ed829/range_1_2_1",
+                "https://f8645d32-e2b5-48a3-a46d-21c39e8ed829/range_1_2_2",
+                "https://f8645d32-e2b5-48a3-a46d-21c39e8ed829/range_1_2_3",
+                "https://f8645d32-e2b5-48a3-a46d-21c39e8ed829/range_1_2_4",
+                "https://f8645d32-e2b5-48a3-a46d-21c39e8ed829/range_1_2_5",
+                "https://f8645d32-e2b5-48a3-a46d-21c39e8ed829/range_1_2_6"
             ]
         },
         {
-            "@id": "https://f8645d32-e2b5-48a3-a46d-21c39e8ed829/range_1_1_1",
+            "@id": "https://f8645d32-e2b5-48a3-a46d-21c39e8ed829/range_1_2_1",
             "@type": "sc:Range",
             "label": "[1] Makhzan al-asr\u0101r",
             "viewingHint": "individuals",
@@ -68875,6 +68893,20 @@
                 }
             ],
             "canvases": [
+                "https://f8645d32-e2b5-48a3-a46d-21c39e8ed829/canvas_4",
+                "https://f8645d32-e2b5-48a3-a46d-21c39e8ed829/canvas_5",
+                "https://f8645d32-e2b5-48a3-a46d-21c39e8ed829/canvas_6",
+                "https://f8645d32-e2b5-48a3-a46d-21c39e8ed829/canvas_7",
+                "https://f8645d32-e2b5-48a3-a46d-21c39e8ed829/canvas_8",
+                "https://f8645d32-e2b5-48a3-a46d-21c39e8ed829/canvas_9",
+                "https://f8645d32-e2b5-48a3-a46d-21c39e8ed829/canvas_10",
+                "https://f8645d32-e2b5-48a3-a46d-21c39e8ed829/canvas_11",
+                "https://f8645d32-e2b5-48a3-a46d-21c39e8ed829/canvas_12",
+                "https://f8645d32-e2b5-48a3-a46d-21c39e8ed829/canvas_13",
+                "https://f8645d32-e2b5-48a3-a46d-21c39e8ed829/canvas_14",
+                "https://f8645d32-e2b5-48a3-a46d-21c39e8ed829/canvas_15",
+                "https://f8645d32-e2b5-48a3-a46d-21c39e8ed829/canvas_16",
+                "https://f8645d32-e2b5-48a3-a46d-21c39e8ed829/canvas_17",
                 "https://f8645d32-e2b5-48a3-a46d-21c39e8ed829/canvas_18",
                 "https://f8645d32-e2b5-48a3-a46d-21c39e8ed829/canvas_19",
                 "https://f8645d32-e2b5-48a3-a46d-21c39e8ed829/canvas_20",
@@ -68925,23 +68957,22 @@
                 "https://f8645d32-e2b5-48a3-a46d-21c39e8ed829/canvas_65",
                 "https://f8645d32-e2b5-48a3-a46d-21c39e8ed829/canvas_66",
                 "https://f8645d32-e2b5-48a3-a46d-21c39e8ed829/canvas_67",
-                "https://f8645d32-e2b5-48a3-a46d-21c39e8ed829/canvas_68"
+                "https://f8645d32-e2b5-48a3-a46d-21c39e8ed829/canvas_68",
+                "https://f8645d32-e2b5-48a3-a46d-21c39e8ed829/canvas_69"
             ]
         },
         {
-            "@id": "https://f8645d32-e2b5-48a3-a46d-21c39e8ed829/range_1_1_2",
+            "@id": "https://f8645d32-e2b5-48a3-a46d-21c39e8ed829/range_1_2_2",
             "@type": "sc:Range",
-            "label": "[2] Khusraw u Sh\u012br\u012bn",
+            "label": "[2] Khusraw va Sh\u012br\u012bn",
             "viewingHint": "individuals",
             "metadata": [
                 {
                     "label": "Identifier",
-                    "value": "[2] Khusraw u Sh\u012br\u012bn"
+                    "value": "[2] Khusraw va Sh\u012br\u012bn"
                 }
             ],
             "canvases": [
-                "https://f8645d32-e2b5-48a3-a46d-21c39e8ed829/canvas_70",
-                "https://f8645d32-e2b5-48a3-a46d-21c39e8ed829/canvas_71",
                 "https://f8645d32-e2b5-48a3-a46d-21c39e8ed829/canvas_72",
                 "https://f8645d32-e2b5-48a3-a46d-21c39e8ed829/canvas_73",
                 "https://f8645d32-e2b5-48a3-a46d-21c39e8ed829/canvas_74",
@@ -69078,21 +69109,8 @@
                 "https://f8645d32-e2b5-48a3-a46d-21c39e8ed829/canvas_205",
                 "https://f8645d32-e2b5-48a3-a46d-21c39e8ed829/canvas_206",
                 "https://f8645d32-e2b5-48a3-a46d-21c39e8ed829/canvas_207",
-                "https://f8645d32-e2b5-48a3-a46d-21c39e8ed829/canvas_208"
-            ]
-        },
-        {
-            "@id": "https://f8645d32-e2b5-48a3-a46d-21c39e8ed829/range_1_1_3",
-            "@type": "sc:Range",
-            "label": "[3] Layl\u0101 u Majn\u016bn",
-            "viewingHint": "individuals",
-            "metadata": [
-                {
-                    "label": "Identifier",
-                    "value": "[3] Layl\u0101 u Majn\u016bn"
-                }
-            ],
-            "canvases": [
+                "https://f8645d32-e2b5-48a3-a46d-21c39e8ed829/canvas_208",
+                "https://f8645d32-e2b5-48a3-a46d-21c39e8ed829/canvas_209",
                 "https://f8645d32-e2b5-48a3-a46d-21c39e8ed829/canvas_210",
                 "https://f8645d32-e2b5-48a3-a46d-21c39e8ed829/canvas_211",
                 "https://f8645d32-e2b5-48a3-a46d-21c39e8ed829/canvas_212",
@@ -69138,11 +69156,21 @@
                 "https://f8645d32-e2b5-48a3-a46d-21c39e8ed829/canvas_252",
                 "https://f8645d32-e2b5-48a3-a46d-21c39e8ed829/canvas_253",
                 "https://f8645d32-e2b5-48a3-a46d-21c39e8ed829/canvas_254",
-                "https://f8645d32-e2b5-48a3-a46d-21c39e8ed829/canvas_255",
-                "https://f8645d32-e2b5-48a3-a46d-21c39e8ed829/canvas_256",
-                "https://f8645d32-e2b5-48a3-a46d-21c39e8ed829/canvas_257",
-                "https://f8645d32-e2b5-48a3-a46d-21c39e8ed829/canvas_258",
-                "https://f8645d32-e2b5-48a3-a46d-21c39e8ed829/canvas_259",
+                "https://f8645d32-e2b5-48a3-a46d-21c39e8ed829/canvas_255"
+            ]
+        },
+        {
+            "@id": "https://f8645d32-e2b5-48a3-a46d-21c39e8ed829/range_1_2_3",
+            "@type": "sc:Range",
+            "label": "[3] Layl\u00e1 va Majn\u016bn",
+            "viewingHint": "individuals",
+            "metadata": [
+                {
+                    "label": "Identifier",
+                    "value": "[3] Layl\u00e1 va Majn\u016bn"
+                }
+            ],
+            "canvases": [
                 "https://f8645d32-e2b5-48a3-a46d-21c39e8ed829/canvas_260",
                 "https://f8645d32-e2b5-48a3-a46d-21c39e8ed829/canvas_261",
                 "https://f8645d32-e2b5-48a3-a46d-21c39e8ed829/canvas_262",
@@ -69191,21 +69219,8 @@
                 "https://f8645d32-e2b5-48a3-a46d-21c39e8ed829/canvas_305",
                 "https://f8645d32-e2b5-48a3-a46d-21c39e8ed829/canvas_306",
                 "https://f8645d32-e2b5-48a3-a46d-21c39e8ed829/canvas_307",
-                "https://f8645d32-e2b5-48a3-a46d-21c39e8ed829/canvas_308"
-            ]
-        },
-        {
-            "@id": "https://f8645d32-e2b5-48a3-a46d-21c39e8ed829/range_1_1_4",
-            "@type": "sc:Range",
-            "label": "[4] Haft paykar",
-            "viewingHint": "individuals",
-            "metadata": [
-                {
-                    "label": "Identifier",
-                    "value": "[4] Haft paykar"
-                }
-            ],
-            "canvases": [
+                "https://f8645d32-e2b5-48a3-a46d-21c39e8ed829/canvas_308",
+                "https://f8645d32-e2b5-48a3-a46d-21c39e8ed829/canvas_309",
                 "https://f8645d32-e2b5-48a3-a46d-21c39e8ed829/canvas_310",
                 "https://f8645d32-e2b5-48a3-a46d-21c39e8ed829/canvas_311",
                 "https://f8645d32-e2b5-48a3-a46d-21c39e8ed829/canvas_312",
@@ -69281,9 +69296,21 @@
                 "https://f8645d32-e2b5-48a3-a46d-21c39e8ed829/canvas_382",
                 "https://f8645d32-e2b5-48a3-a46d-21c39e8ed829/canvas_383",
                 "https://f8645d32-e2b5-48a3-a46d-21c39e8ed829/canvas_384",
-                "https://f8645d32-e2b5-48a3-a46d-21c39e8ed829/canvas_385",
-                "https://f8645d32-e2b5-48a3-a46d-21c39e8ed829/canvas_386",
-                "https://f8645d32-e2b5-48a3-a46d-21c39e8ed829/canvas_387",
+                "https://f8645d32-e2b5-48a3-a46d-21c39e8ed829/canvas_385"
+            ]
+        },
+        {
+            "@id": "https://f8645d32-e2b5-48a3-a46d-21c39e8ed829/range_1_2_4",
+            "@type": "sc:Range",
+            "label": "[4] Haft paykar",
+            "viewingHint": "individuals",
+            "metadata": [
+                {
+                    "label": "Identifier",
+                    "value": "[4] Haft paykar"
+                }
+            ],
+            "canvases": [
                 "https://f8645d32-e2b5-48a3-a46d-21c39e8ed829/canvas_388",
                 "https://f8645d32-e2b5-48a3-a46d-21c39e8ed829/canvas_389",
                 "https://f8645d32-e2b5-48a3-a46d-21c39e8ed829/canvas_390",
@@ -69313,21 +69340,9 @@
                 "https://f8645d32-e2b5-48a3-a46d-21c39e8ed829/canvas_414",
                 "https://f8645d32-e2b5-48a3-a46d-21c39e8ed829/canvas_415",
                 "https://f8645d32-e2b5-48a3-a46d-21c39e8ed829/canvas_416",
-                "https://f8645d32-e2b5-48a3-a46d-21c39e8ed829/canvas_417"
-            ]
-        },
-        {
-            "@id": "https://f8645d32-e2b5-48a3-a46d-21c39e8ed829/range_1_1_5",
-            "@type": "sc:Range",
-            "label": "[5] Iskandarn\u0101mah",
-            "viewingHint": "individuals",
-            "metadata": [
-                {
-                    "label": "Identifier",
-                    "value": "[5] Iskandarn\u0101mah"
-                }
-            ],
-            "canvases": [
+                "https://f8645d32-e2b5-48a3-a46d-21c39e8ed829/canvas_417",
+                "https://f8645d32-e2b5-48a3-a46d-21c39e8ed829/canvas_418",
+                "https://f8645d32-e2b5-48a3-a46d-21c39e8ed829/canvas_419",
                 "https://f8645d32-e2b5-48a3-a46d-21c39e8ed829/canvas_420",
                 "https://f8645d32-e2b5-48a3-a46d-21c39e8ed829/canvas_421",
                 "https://f8645d32-e2b5-48a3-a46d-21c39e8ed829/canvas_422",
@@ -69428,8 +69443,21 @@
                 "https://f8645d32-e2b5-48a3-a46d-21c39e8ed829/canvas_517",
                 "https://f8645d32-e2b5-48a3-a46d-21c39e8ed829/canvas_518",
                 "https://f8645d32-e2b5-48a3-a46d-21c39e8ed829/canvas_519",
-                "https://f8645d32-e2b5-48a3-a46d-21c39e8ed829/canvas_520",
-                "https://f8645d32-e2b5-48a3-a46d-21c39e8ed829/canvas_521",
+                "https://f8645d32-e2b5-48a3-a46d-21c39e8ed829/canvas_520"
+            ]
+        },
+        {
+            "@id": "https://f8645d32-e2b5-48a3-a46d-21c39e8ed829/range_1_2_5",
+            "@type": "sc:Range",
+            "label": "[5] Iskandarn\u0101mah (pt 1)",
+            "viewingHint": "individuals",
+            "metadata": [
+                {
+                    "label": "Identifier",
+                    "value": "[5] Iskandarn\u0101mah (pt 1)"
+                }
+            ],
+            "canvases": [
                 "https://f8645d32-e2b5-48a3-a46d-21c39e8ed829/canvas_522",
                 "https://f8645d32-e2b5-48a3-a46d-21c39e8ed829/canvas_523",
                 "https://f8645d32-e2b5-48a3-a46d-21c39e8ed829/canvas_524",
@@ -69554,63 +69582,7 @@
                 "https://f8645d32-e2b5-48a3-a46d-21c39e8ed829/canvas_643",
                 "https://f8645d32-e2b5-48a3-a46d-21c39e8ed829/canvas_644",
                 "https://f8645d32-e2b5-48a3-a46d-21c39e8ed829/canvas_645",
-                "https://f8645d32-e2b5-48a3-a46d-21c39e8ed829/canvas_646"
-            ]
-        },
-        {
-            "@id": "https://f8645d32-e2b5-48a3-a46d-21c39e8ed829/range_1_2",
-            "@type": "sc:Range",
-            "label": "Other images",
-            "viewingHint": "individuals",
-            "metadata": [
-                {
-                    "label": "Identifier",
-                    "value": "Other images"
-                }
-            ],
-            "ranges": [
-                "https://f8645d32-e2b5-48a3-a46d-21c39e8ed829/range_1_2_1",
-                "https://f8645d32-e2b5-48a3-a46d-21c39e8ed829/range_1_2_2"
-            ]
-        },
-        {
-            "@id": "https://f8645d32-e2b5-48a3-a46d-21c39e8ed829/range_1_2_1",
-            "@type": "sc:Range",
-            "label": "Other images pt 1",
-            "viewingHint": "individuals",
-            "metadata": [
-                {
-                    "label": "Identifier",
-                    "value": "Other images pt 1"
-                }
-            ],
-            "canvases": [
-                "https://f8645d32-e2b5-48a3-a46d-21c39e8ed829/canvas_1",
-                "https://f8645d32-e2b5-48a3-a46d-21c39e8ed829/canvas_2",
-                "https://f8645d32-e2b5-48a3-a46d-21c39e8ed829/canvas_3",
-                "https://f8645d32-e2b5-48a3-a46d-21c39e8ed829/canvas_4",
-                "https://f8645d32-e2b5-48a3-a46d-21c39e8ed829/canvas_5",
-                "https://f8645d32-e2b5-48a3-a46d-21c39e8ed829/canvas_6",
-                "https://f8645d32-e2b5-48a3-a46d-21c39e8ed829/canvas_7",
-                "https://f8645d32-e2b5-48a3-a46d-21c39e8ed829/canvas_8",
-                "https://f8645d32-e2b5-48a3-a46d-21c39e8ed829/canvas_9",
-                "https://f8645d32-e2b5-48a3-a46d-21c39e8ed829/canvas_10",
-                "https://f8645d32-e2b5-48a3-a46d-21c39e8ed829/canvas_11",
-                "https://f8645d32-e2b5-48a3-a46d-21c39e8ed829/canvas_12"
-            ]
-        },
-        {
-            "@id": "https://f8645d32-e2b5-48a3-a46d-21c39e8ed829/range_1_2_2",
-            "@type": "sc:Range",
-            "label": "Other images pt 2",
-            "viewingHint": "individuals",
-            "metadata": [
-                {
-                    "label": "Identifier",
-                    "value": "Other images pt 2"
-                }
-            ],
-            "canvases": [
+                "https://f8645d32-e2b5-48a3-a46d-21c39e8ed829/canvas_646",
                 "https://f8645d32-e2b5-48a3-a46d-21c39e8ed829/canvas_647",
                 "https://f8645d32-e2b5-48a3-a46d-21c39e8ed829/canvas_648",
                 "https://f8645d32-e2b5-48a3-a46d-21c39e8ed829/canvas_649",
@@ -69661,9 +69633,21 @@
                 "https://f8645d32-e2b5-48a3-a46d-21c39e8ed829/canvas_694",
                 "https://f8645d32-e2b5-48a3-a46d-21c39e8ed829/canvas_695",
                 "https://f8645d32-e2b5-48a3-a46d-21c39e8ed829/canvas_696",
-                "https://f8645d32-e2b5-48a3-a46d-21c39e8ed829/canvas_697",
-                "https://f8645d32-e2b5-48a3-a46d-21c39e8ed829/canvas_698",
-                "https://f8645d32-e2b5-48a3-a46d-21c39e8ed829/canvas_699",
+                "https://f8645d32-e2b5-48a3-a46d-21c39e8ed829/canvas_697"
+            ]
+        },
+        {
+            "@id": "https://f8645d32-e2b5-48a3-a46d-21c39e8ed829/range_1_2_6",
+            "@type": "sc:Range",
+            "label": "[6] Iskandarn\u0101mah (pt 2)",
+            "viewingHint": "individuals",
+            "metadata": [
+                {
+                    "label": "Identifier",
+                    "value": "[6] Iskandarn\u0101mah (pt 2)"
+                }
+            ],
+            "canvases": [
                 "https://f8645d32-e2b5-48a3-a46d-21c39e8ed829/canvas_700",
                 "https://f8645d32-e2b5-48a3-a46d-21c39e8ed829/canvas_701",
                 "https://f8645d32-e2b5-48a3-a46d-21c39e8ed829/canvas_702",
@@ -69758,7 +69742,52 @@
                 "https://f8645d32-e2b5-48a3-a46d-21c39e8ed829/canvas_791",
                 "https://f8645d32-e2b5-48a3-a46d-21c39e8ed829/canvas_792",
                 "https://f8645d32-e2b5-48a3-a46d-21c39e8ed829/canvas_793",
-                "https://f8645d32-e2b5-48a3-a46d-21c39e8ed829/canvas_794",
+                "https://f8645d32-e2b5-48a3-a46d-21c39e8ed829/canvas_794"
+            ]
+        },
+        {
+            "@id": "https://f8645d32-e2b5-48a3-a46d-21c39e8ed829/range_1_3",
+            "@type": "sc:Range",
+            "label": "Other images",
+            "viewingHint": "individuals",
+            "metadata": [
+                {
+                    "label": "Identifier",
+                    "value": "Other images"
+                }
+            ],
+            "ranges": [
+                "https://f8645d32-e2b5-48a3-a46d-21c39e8ed829/range_1_3_1",
+                "https://f8645d32-e2b5-48a3-a46d-21c39e8ed829/range_1_3_2"
+            ]
+        },
+        {
+            "@id": "https://f8645d32-e2b5-48a3-a46d-21c39e8ed829/range_1_3_1",
+            "@type": "sc:Range",
+            "label": "Other images pt 1",
+            "viewingHint": "individuals",
+            "metadata": [
+                {
+                    "label": "Identifier",
+                    "value": "Other images pt 1"
+                }
+            ],
+            "canvases": [
+                "https://f8645d32-e2b5-48a3-a46d-21c39e8ed829/canvas_1"
+            ]
+        },
+        {
+            "@id": "https://f8645d32-e2b5-48a3-a46d-21c39e8ed829/range_1_3_2",
+            "@type": "sc:Range",
+            "label": "Other images pt 2",
+            "viewingHint": "individuals",
+            "metadata": [
+                {
+                    "label": "Identifier",
+                    "value": "Other images pt 2"
+                }
+            ],
+            "canvases": [
                 "https://f8645d32-e2b5-48a3-a46d-21c39e8ed829/canvas_795",
                 "https://f8645d32-e2b5-48a3-a46d-21c39e8ed829/canvas_796",
                 "https://f8645d32-e2b5-48a3-a46d-21c39e8ed829/canvas_797",
