@@ -15,16 +15,16 @@ xmlns="http://www.w3.org/TR/REC-html40">
  <o:DocumentProperties>
   <o:Author>Julian Cook</o:Author>
   <o:LastAuthor>Julian Cook</o:LastAuthor>
-  <o:Revision>4</o:Revision>
-  <o:TotalTime>0</o:TotalTime>
+  <o:Revision>5</o:Revision>
+  <o:TotalTime>8</o:TotalTime>
   <o:Created>2022-09-17T19:58:00Z</o:Created>
-  <o:LastSaved>2022-09-17T20:00:00Z</o:LastSaved>
+  <o:LastSaved>2022-09-17T21:19:00Z</o:LastSaved>
   <o:Pages>1</o:Pages>
-  <o:Words>1117</o:Words>
-  <o:Characters>6367</o:Characters>
-  <o:Lines>53</o:Lines>
-  <o:Paragraphs>14</o:Paragraphs>
-  <o:CharactersWithSpaces>7470</o:CharactersWithSpaces>
+  <o:Words>1195</o:Words>
+  <o:Characters>6813</o:Characters>
+  <o:Lines>56</o:Lines>
+  <o:Paragraphs>15</o:Paragraphs>
+  <o:CharactersWithSpaces>7993</o:CharactersWithSpaces>
   <o:Version>16.00</o:Version>
  </o:DocumentProperties>
 </xml><![endif]-->
@@ -34,6 +34,7 @@ href="INDEX_TO_MANUSCRIPTS_FOR_ALEXANDER_files/themedata.thmx">
 href="INDEX_TO_MANUSCRIPTS_FOR_ALEXANDER_files/colorschememapping.xml">
 <!--[if gte mso 9]><xml>
  <w:WordDocument>
+  <w:SpellingState>Clean</w:SpellingState>
   <w:TrackMoves>false</w:TrackMoves>
   <w:TrackFormatting/>
   <w:ValidateAgainstSchemas/>
@@ -778,6 +779,9 @@ p.msopapdefault, li.msopapdefault, div.msopapdefault
 	font-family:"Times New Roman",serif;
 	mso-fareast-font-family:"Times New Roman";
 	mso-fareast-theme-font:minor-fareast;}
+span.SpellE
+	{mso-style-name:"";
+	mso-spl-e:yes;}
 .MsoChpDefault
 	{mso-style-type:export-only;
 	mso-default-props:yes;
@@ -852,8 +856,8 @@ href="https://cookjools.github.io/bl_universal_viewer_demo/INDEX_TO_MANUSCRIPTS_
   border-left:none;border-bottom:solid windowtext 1.0pt;border-right:none;
   padding:0cm 0cm 0cm 0cm'>
   <p class=MsoNormal style='margin-bottom:0cm;line-height:normal'>Demo
-  Universal Viewer embedded in a web-page similar to standard BL UV pages (hint:
-  right click to open in separate tab)</p>
+  Universal Viewer embedded in a web-page similar to standard BL UV pages
+  (hint: right click to open in separate tab)</p>
   </td>
   <td width=698 valign=top style='width:523.3pt;border:solid windowtext 1.0pt;
   border-left:none;padding:0cm 5.4pt 0cm 5.4pt'>
@@ -1080,19 +1084,29 @@ add_ms_27261) is at <a
 href="https://images.eap.bl.uk/EAP000/EAP000_1_2/1.jp2/full/full/0/default.jpg">https://images.eap.bl.uk/EAP000/EAP000_1_2/1.jp2/full/full/0/default.jpg</a>
 . </p>
 
-<p class=MsoNormal>The associated info.json file is at <a
-href="https://images.eap.bl.uk/EAP000/EAP000_1_2/1.jp2">https://images.eap.bl.uk/EAP000/EAP000_1_2/1.jp2</a></p>
+<p class=MsoNormal>The associated <span class=SpellE>info.json</span> file is
+at <a href="https://images.eap.bl.uk/EAP000/EAP000_1_2/1.jp2">https://images.eap.bl.uk/EAP000/EAP000_1_2/1.jp2</a></p>
 
 <p class=MsoNormal>&nbsp;</p>
 
 <h2><span style='mso-fareast-font-family:"Times New Roman"'>Manifests<o:p></o:p></span></h2>
 
-<p class=MsoNormal>The IIIF manifests are created by a PHP script
-create_tei_facsimile_element_from_info_json_files.php. That script is run by
-Julian who then uploads the manifest onto his Github Pages using Github
+<p class=MsoNormal>The IIIF manifests are created by a PHP script <span
+class=SpellE>create_tei_facsimile_element_from_info_json_files.php</span>. That
+script is run by Julian who then uploads the manifest onto his <span
+class=SpellE>Github</span> Pages using <span class=SpellE>Github</span>
 Desktop: for example, <a
 href="https://cookjools.github.io/bl_universal_viewer_demo/or_2265/script_created_manifest.json">https://cookjools.github.io/bl_universal_viewer_demo/or_2265/script_created_manifest.json</a>
 </p>
+
+<p class=MsoNormal>The script draws data from the <span class=SpellE>info.json</span>
+files for each of the images and combines that with data set up in an XML file
+which is exported from an Excel file (one per manuscript). In that Excel/XML ‘manifest
+definition’ file, Julian manually inserts the manuscript metadata, defines the
+ranges that make up the Index tab of UV, and assigns custom labels and an
+optional description for each canvas or image in the sequence (information that
+is displayed bottom right, below the BL logo when the user clicks About This
+Item).</p>
 
 <p class=MsoNormal><o:p>&nbsp;</o:p></p>
 
@@ -1111,8 +1125,8 @@ href="https://access.bl.uk/item/viewer/ark:/81055/vdc_100052141780.0x000001">htt
 href="https://api.bl.uk/configuration/universalviewer/v2/ark:/81055/vdc_100052141780.0x000001">https://api.bl.uk/configuration/universalviewer/v2/ark:/81055/vdc_100052141780.0x000001</a>
 ; which is that associated with Add MS 35021). For the embedded manifest
 they<span style='mso-spacerun:yes'>  </span>point at one of our script-created
-manifests on our Github Pages (see above). The HTML pages themselves also
-reside on our Github pages.</p>
+manifests on our <span class=SpellE>Github</span> Pages (see above). The HTML
+pages themselves also reside on our <span class=SpellE>Github</span> pages.</p>
 
 <p class=MsoNormal>Click Exit Full Screen (bottom right) to see the information
 around the embedded Universal Viewer.</p>
