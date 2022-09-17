@@ -50539,12 +50539,12 @@
         {
             "@id": "https://f8645d32-e2b5-48a3-a46d-21c39e8ed829/range_1_1_2",
             "@type": "sc:Range",
-            "label": "[1] ??",
+            "label": "[1] Makhzan al-asr\u0101r",
             "viewingHint": "individuals",
             "metadata": [
                 {
                     "label": "Identifier",
-                    "value": "[1] ??"
+                    "value": "[1] Makhzan al-asr\u0101r"
                 }
             ],
             "canvases": [
@@ -50575,12 +50575,12 @@
         {
             "@id": "https://f8645d32-e2b5-48a3-a46d-21c39e8ed829/range_1_1_3",
             "@type": "sc:Range",
-            "label": "[2] ??",
+            "label": "[2] Khusraw u Sh\u012br\u012bn",
             "viewingHint": "individuals",
             "metadata": [
                 {
                     "label": "Identifier",
-                    "value": "[2] ??"
+                    "value": "[2] Khusraw u Sh\u012br\u012bn"
                 }
             ],
             "canvases": [
@@ -50720,12 +50720,12 @@
         {
             "@id": "https://f8645d32-e2b5-48a3-a46d-21c39e8ed829/range_1_1_4",
             "@type": "sc:Range",
-            "label": "[3a] ??",
+            "label": "[3a] Layl\u0101 u Majn\u016bn (pt 1)",
             "viewingHint": "individuals",
             "metadata": [
                 {
                     "label": "Identifier",
-                    "value": "[3a] ??"
+                    "value": "[3a] Layl\u0101 u Majn\u016bn (pt 1)"
                 }
             ],
             "canvases": [
@@ -50825,12 +50825,12 @@
         {
             "@id": "https://f8645d32-e2b5-48a3-a46d-21c39e8ed829/range_1_1_5",
             "@type": "sc:Range",
-            "label": "[3b] ??",
+            "label": "[3b] Layl\u0101 u Majn\u016bn (pt 2)",
             "viewingHint": "individuals",
             "metadata": [
                 {
                     "label": "Identifier",
-                    "value": "[3b] ??"
+                    "value": "[3b] Layl\u0101 u Majn\u016bn (pt 2)"
                 }
             ],
             "canvases": [
@@ -50940,12 +50940,12 @@
         {
             "@id": "https://f8645d32-e2b5-48a3-a46d-21c39e8ed829/range_1_1_6",
             "@type": "sc:Range",
-            "label": "[4] ??",
+            "label": "[4] Haft paykar",
             "viewingHint": "individuals",
             "metadata": [
                 {
                     "label": "Identifier",
-                    "value": "[4] ??"
+                    "value": "[4] Haft paykar"
                 }
             ],
             "canvases": [
@@ -51092,12 +51092,12 @@
         {
             "@id": "https://f8645d32-e2b5-48a3-a46d-21c39e8ed829/range_1_1_7",
             "@type": "sc:Range",
-            "label": "[5] ??",
+            "label": "[5] Iskandarn\u0101mah",
             "viewingHint": "individuals",
             "metadata": [
                 {
                     "label": "Identifier",
-                    "value": "[5] ??"
+                    "value": "[5] Iskandarn\u0101mah"
                 }
             ],
             "canvases": [
