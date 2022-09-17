@@ -58147,12 +58147,12 @@
         {
             "@id": "https://f8645d32-e2b5-48a3-a46d-21c39e8ed829/range_1_1_1",
             "@type": "sc:Range",
-            "label": "Makhzan al-asr\u0101r",
+            "label": "[1] Makhzan al-asr\u0101r",
             "viewingHint": "individuals",
             "metadata": [
                 {
                     "label": "Identifier",
-                    "value": "Makhzan al-asr\u0101r"
+                    "value": "[1] Makhzan al-asr\u0101r"
                 }
             ],
             "canvases": [
@@ -58212,12 +58212,12 @@
         {
             "@id": "https://f8645d32-e2b5-48a3-a46d-21c39e8ed829/range_1_1_2",
             "@type": "sc:Range",
-            "label": "Khusraw u Sh\u012br\u012bn",
+            "label": "[2] Khusraw u Sh\u012br\u012bn",
             "viewingHint": "individuals",
             "metadata": [
                 {
                     "label": "Identifier",
-                    "value": "Khusraw u Sh\u012br\u012bn"
+                    "value": "[2] Khusraw u Sh\u012br\u012bn"
                 }
             ],
             "canvases": [
@@ -58365,12 +58365,12 @@
         {
             "@id": "https://f8645d32-e2b5-48a3-a46d-21c39e8ed829/range_1_1_3",
             "@type": "sc:Range",
-            "label": "Layl\u0101 u Majn\u016bn",
+            "label": "[3] Layl\u0101 u Majn\u016bn",
             "viewingHint": "individuals",
             "metadata": [
                 {
                     "label": "Identifier",
-                    "value": "Layl\u0101 u Majn\u016bn"
+                    "value": "[3] Layl\u0101 u Majn\u016bn"
                 }
             ],
             "canvases": [
@@ -58478,12 +58478,12 @@
         {
             "@id": "https://f8645d32-e2b5-48a3-a46d-21c39e8ed829/range_1_1_4",
             "@type": "sc:Range",
-            "label": "Haft paykar",
+            "label": "[4] Haft paykar",
             "viewingHint": "individuals",
             "metadata": [
                 {
                     "label": "Identifier",
-                    "value": "Haft paykar"
+                    "value": "[4] Haft paykar"
                 }
             ],
             "canvases": [
@@ -58600,12 +58600,12 @@
         {
             "@id": "https://f8645d32-e2b5-48a3-a46d-21c39e8ed829/range_1_1_5",
             "@type": "sc:Range",
-            "label": "Iskandarn\u0101mah",
+            "label": "[5] Iskandarn\u0101mah",
             "viewingHint": "individuals",
             "metadata": [
                 {
                     "label": "Identifier",
-                    "value": "Iskandarn\u0101mah"
+                    "value": "[5] Iskandarn\u0101mah"
                 }
             ],
             "canvases": [
