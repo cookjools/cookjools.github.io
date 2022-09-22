@@ -12348,7 +12348,7 @@
                         },
                         {
                             "label": "Description",
-                            "value": "The suicide of Farh\u0101d on Mt. Bisitun. Ascribed to M\u012brak and Bihz\u0101d.(93r) Sh\u012br\u016by murders Khusraw while he sleeps in bed. Architectural inscriptions containing Persian quatrain. Ascribed to Bihz\u0101d."
+                            "value": "The suicide of Farh\u0101d on Mt. Bisitun. Ascribed to M\u012brak and Bihz\u0101d."
                         }
                     ],
                     "height": 6658,
@@ -15829,11 +15829,15 @@
                 {
                     "@id": "https://f8645d32-e2b5-48a3-a46d-21c39e8ed829/canvas_185",
                     "@type": "sc:Canvas",
-                    "label": "f.93r",
+                    "label": "f.93r (illust.)",
                     "metadata": [
                         {
                             "label": "Identifier",
-                            "value": "f.93r"
+                            "value": "f.93r (illust.)"
+                        },
+                        {
+                            "label": "Description",
+                            "value": "Sh\u012br\u016by murders Khusraw while he sleeps in bed. Architectural inscriptions containing Persian quatrain. Ascribed to Bihz\u0101d."
                         }
                     ],
                     "height": 6747,
