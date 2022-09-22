@@ -88,15 +88,15 @@
     "license": "https://creativecommons.org/licenses/by/3.0/",
     "attribution": "The British Library",
     "thumbnail": {
-        "@id": "https://f8645d32-e2b5-48a3-a46d-21c39e8ed829/canvas_1",
+        "@id": "https://f8645d32-e2b5-48a3-a46d-21c39e8ed829/canvas_3",
         "@type": "dctypes:Image",
         "format": "image/jpg",
         "service": {
             "@context": "http://iiif.io/api/image/2/context.json",
-            "@id": "https://images.eap.bl.uk/EAP000/EAP000_1_1/1.jp2",
+            "@id": "https://images.eap.bl.uk/EAP000/EAP000_1_1/3.jp2",
             "protocol": "http://iiif.io/api/image",
-            "width": 8513,
-            "height": 3529,
+            "width": 4166,
+            "height": 4985,
             "tiles": [
                 {
                     "width": 256,
@@ -107,8 +107,7 @@
                         4,
                         8,
                         16,
-                        32,
-                        64
+                        32
                     ]
                 }
             ],
@@ -148,7 +147,7 @@
             ],
             "viewingHint": "individuals",
             "viewingDirection": "right-to-left",
-            "startCanvas": "https://f8645d32-e2b5-48a3-a46d-21c39e8ed829/canvas_1",
+            "startCanvas": "https://f8645d32-e2b5-48a3-a46d-21c39e8ed829/canvas_3",
             "canvases": [
                 {
                     "@id": "https://f8645d32-e2b5-48a3-a46d-21c39e8ed829/canvas_1",
@@ -34796,17 +34795,15 @@
         {
             "@id": "https://f8645d32-e2b5-48a3-a46d-21c39e8ed829/range_1_1",
             "@type": "sc:Range",
-            "label": "Texts",
+            "label": "Ni\u02bfmatn\u0101mah N\u0101\u1e63irsh\u0101h\u012b",
             "viewingHint": "individuals",
             "metadata": [
                 {
                     "label": "Identifier",
-                    "value": "Texts"
+                    "value": "Ni\u02bfmatn\u0101mah N\u0101\u1e63irsh\u0101h\u012b"
                 }
             ],
             "canvases": [
-                "https://f8645d32-e2b5-48a3-a46d-21c39e8ed829/canvas_1",
-                "https://f8645d32-e2b5-48a3-a46d-21c39e8ed829/canvas_2",
                 "https://f8645d32-e2b5-48a3-a46d-21c39e8ed829/canvas_3",
                 "https://f8645d32-e2b5-48a3-a46d-21c39e8ed829/canvas_4",
                 "https://f8645d32-e2b5-48a3-a46d-21c39e8ed829/canvas_5",
@@ -35198,18 +35195,7 @@
                 "https://f8645d32-e2b5-48a3-a46d-21c39e8ed829/canvas_391",
                 "https://f8645d32-e2b5-48a3-a46d-21c39e8ed829/canvas_392",
                 "https://f8645d32-e2b5-48a3-a46d-21c39e8ed829/canvas_393",
-                "https://f8645d32-e2b5-48a3-a46d-21c39e8ed829/canvas_394",
-                "https://f8645d32-e2b5-48a3-a46d-21c39e8ed829/canvas_395",
-                "https://f8645d32-e2b5-48a3-a46d-21c39e8ed829/canvas_396",
-                "https://f8645d32-e2b5-48a3-a46d-21c39e8ed829/canvas_397",
-                "https://f8645d32-e2b5-48a3-a46d-21c39e8ed829/canvas_398",
-                "https://f8645d32-e2b5-48a3-a46d-21c39e8ed829/canvas_399",
-                "https://f8645d32-e2b5-48a3-a46d-21c39e8ed829/canvas_400",
-                "https://f8645d32-e2b5-48a3-a46d-21c39e8ed829/canvas_401",
-                "https://f8645d32-e2b5-48a3-a46d-21c39e8ed829/canvas_402",
-                "https://f8645d32-e2b5-48a3-a46d-21c39e8ed829/canvas_403",
-                "https://f8645d32-e2b5-48a3-a46d-21c39e8ed829/canvas_404",
-                "https://f8645d32-e2b5-48a3-a46d-21c39e8ed829/canvas_405"
+                "https://f8645d32-e2b5-48a3-a46d-21c39e8ed829/canvas_394"
             ]
         },
         {
@@ -35240,7 +35226,8 @@
                 }
             ],
             "canvases": [
-                "https://f8645d32-e2b5-48a3-a46d-21c39e8ed829/canvas_1"
+                "https://f8645d32-e2b5-48a3-a46d-21c39e8ed829/canvas_1",
+                "https://f8645d32-e2b5-48a3-a46d-21c39e8ed829/canvas_2"
             ]
         },
         {
@@ -35255,6 +35242,16 @@
                 }
             ],
             "canvases": [
+                "https://f8645d32-e2b5-48a3-a46d-21c39e8ed829/canvas_395",
+                "https://f8645d32-e2b5-48a3-a46d-21c39e8ed829/canvas_396",
+                "https://f8645d32-e2b5-48a3-a46d-21c39e8ed829/canvas_397",
+                "https://f8645d32-e2b5-48a3-a46d-21c39e8ed829/canvas_398",
+                "https://f8645d32-e2b5-48a3-a46d-21c39e8ed829/canvas_399",
+                "https://f8645d32-e2b5-48a3-a46d-21c39e8ed829/canvas_400",
+                "https://f8645d32-e2b5-48a3-a46d-21c39e8ed829/canvas_401",
+                "https://f8645d32-e2b5-48a3-a46d-21c39e8ed829/canvas_402",
+                "https://f8645d32-e2b5-48a3-a46d-21c39e8ed829/canvas_403",
+                "https://f8645d32-e2b5-48a3-a46d-21c39e8ed829/canvas_404",
                 "https://f8645d32-e2b5-48a3-a46d-21c39e8ed829/canvas_405"
             ]
         }

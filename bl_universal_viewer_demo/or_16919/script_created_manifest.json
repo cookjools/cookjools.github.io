@@ -6367,6 +6367,10 @@
                         {
                             "label": "Identifier",
                             "value": "f.37v (illust.)"
+                        },
+                        {
+                            "label": "Description",
+                            "value": "Khusraw, Shirin and the lion"
                         }
                     ],
                     "height": 6007,
@@ -21237,11 +21241,11 @@
                 {
                     "@id": "https://f8645d32-e2b5-48a3-a46d-21c39e8ed829/canvas_249",
                     "@type": "sc:Canvas",
-                    "label": "f.125r (illust.)",
+                    "label": "f.125r",
                     "metadata": [
                         {
                             "label": "Identifier",
-                            "value": "f.125r (illust.)"
+                            "value": "f.125r"
                         }
                     ],
                     "height": 6007,
@@ -21322,11 +21326,11 @@
                 {
                     "@id": "https://f8645d32-e2b5-48a3-a46d-21c39e8ed829/canvas_250",
                     "@type": "sc:Canvas",
-                    "label": "f.125v",
+                    "label": "f.125v (illust.)",
                     "metadata": [
                         {
                             "label": "Identifier",
-                            "value": "f.125v"
+                            "value": "f.125v (illust.)"
                         }
                     ],
                     "height": 6007,
