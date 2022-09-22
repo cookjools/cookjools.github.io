@@ -58141,7 +58141,8 @@
                 "https://f8645d32-e2b5-48a3-a46d-21c39e8ed829/range_1_1_2",
                 "https://f8645d32-e2b5-48a3-a46d-21c39e8ed829/range_1_1_3",
                 "https://f8645d32-e2b5-48a3-a46d-21c39e8ed829/range_1_1_4",
-                "https://f8645d32-e2b5-48a3-a46d-21c39e8ed829/range_1_1_5"
+                "https://f8645d32-e2b5-48a3-a46d-21c39e8ed829/range_1_1_5",
+                "https://f8645d32-e2b5-48a3-a46d-21c39e8ed829/range_1_1_6"
             ]
         },
         {
@@ -58600,12 +58601,12 @@
         {
             "@id": "https://f8645d32-e2b5-48a3-a46d-21c39e8ed829/range_1_1_5",
             "@type": "sc:Range",
-            "label": "[5] Iskandarn\u0101mah",
+            "label": "[5.1] Iskandarn\u0101mah (pt 1)",
             "viewingHint": "individuals",
             "metadata": [
                 {
                     "label": "Identifier",
-                    "value": "[5] Iskandarn\u0101mah"
+                    "value": "[5.1] Iskandarn\u0101mah (pt 1)"
                 }
             ],
             "canvases": [
@@ -58758,9 +58759,21 @@
                 "https://f8645d32-e2b5-48a3-a46d-21c39e8ed829/canvas_566",
                 "https://f8645d32-e2b5-48a3-a46d-21c39e8ed829/canvas_567",
                 "https://f8645d32-e2b5-48a3-a46d-21c39e8ed829/canvas_568",
-                "https://f8645d32-e2b5-48a3-a46d-21c39e8ed829/canvas_569",
-                "https://f8645d32-e2b5-48a3-a46d-21c39e8ed829/canvas_570",
-                "https://f8645d32-e2b5-48a3-a46d-21c39e8ed829/canvas_571",
+                "https://f8645d32-e2b5-48a3-a46d-21c39e8ed829/canvas_569"
+            ]
+        },
+        {
+            "@id": "https://f8645d32-e2b5-48a3-a46d-21c39e8ed829/range_1_1_6",
+            "@type": "sc:Range",
+            "label": "[5.2] Iskandarn\u0101mah (pt 2)",
+            "viewingHint": "individuals",
+            "metadata": [
+                {
+                    "label": "Identifier",
+                    "value": "[5.2] Iskandarn\u0101mah (pt 2)"
+                }
+            ],
+            "canvases": [
                 "https://f8645d32-e2b5-48a3-a46d-21c39e8ed829/canvas_572",
                 "https://f8645d32-e2b5-48a3-a46d-21c39e8ed829/canvas_573",
                 "https://f8645d32-e2b5-48a3-a46d-21c39e8ed829/canvas_574",
