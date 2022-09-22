@@ -3054,15 +3054,11 @@
                 {
                     "@id": "https://f8645d32-e2b5-48a3-a46d-21c39e8ed829/canvas_35",
                     "@type": "sc:Canvas",
-                    "label": "f.17r (illust.)",
+                    "label": "f.17r",
                     "metadata": [
                         {
                             "label": "Identifier",
-                            "value": "f.17r (illust.)"
-                        },
-                        {
-                            "label": "Description",
-                            "value": "Imam Ja'far Sadiq and al-Hasan."
+                            "value": "f.17r"
                         }
                     ],
                     "height": 6165,
@@ -3143,11 +3139,15 @@
                 {
                     "@id": "https://f8645d32-e2b5-48a3-a46d-21c39e8ed829/canvas_36",
                     "@type": "sc:Canvas",
-                    "label": "f.17v",
+                    "label": "f.17v (illust.)",
                     "metadata": [
                         {
                             "label": "Identifier",
-                            "value": "f.17v"
+                            "value": "f.17v (illust.)"
+                        },
+                        {
+                            "label": "Description",
+                            "value": "Imam Ja'far Sadiq and al-Hasan."
                         }
                     ],
                     "height": 6165,
@@ -34862,15 +34862,11 @@
                 {
                     "@id": "https://f8645d32-e2b5-48a3-a46d-21c39e8ed829/canvas_407",
                     "@type": "sc:Canvas",
-                    "label": "f.203r (illust.)",
+                    "label": "f.203r",
                     "metadata": [
                         {
                             "label": "Identifier",
-                            "value": "f.203r (illust.)"
-                        },
-                        {
-                            "label": "Description",
-                            "value": "Courtly entertainment."
+                            "value": "f.203r"
                         }
                     ],
                     "height": 5948,
@@ -34951,11 +34947,15 @@
                 {
                     "@id": "https://f8645d32-e2b5-48a3-a46d-21c39e8ed829/canvas_408",
                     "@type": "sc:Canvas",
-                    "label": "f.203v",
+                    "label": "f.203v (illust.)",
                     "metadata": [
                         {
                             "label": "Identifier",
-                            "value": "f.203v"
+                            "value": "f.203v (illust.)"
+                        },
+                        {
+                            "label": "Description",
+                            "value": "Courtly entertainment."
                         }
                     ],
                     "height": 6403,
