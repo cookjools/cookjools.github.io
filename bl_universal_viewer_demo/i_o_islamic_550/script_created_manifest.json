@@ -7,7 +7,7 @@
         "individuals"
     ],
     "viewingHint": "individuals",
-    "viewingDirection": "left-to-right",
+    "viewingDirection": "right-to-left",
     "description": [
         {
             "@value": "UNKNOWN",
@@ -147,7 +147,7 @@
                 }
             ],
             "viewingHint": "individuals",
-            "viewingDirection": "left-to-right",
+            "viewingDirection": "right-to-left",
             "startCanvas": "https://f8645d32-e2b5-48a3-a46d-21c39e8ed829/canvas_3",
             "canvases": [
                 {

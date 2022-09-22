@@ -7,7 +7,7 @@
         "individuals"
     ],
     "viewingHint": "individuals",
-    "viewingDirection": "left-to-right",
+    "viewingDirection": "right-to-left",
     "description": [
         {
             "@value": "The five poems making up the Khamsah by Ni\u1e93\u0101m\u012b Ganjav\u012b (1140 or 41-1202 or 3), containing 19 whole-page miniatures, one (f. 41r) contemporary; 14 in the Herat later-Timurid style; and four (ff 234v, 245v, 250v and 271v) in the Tabriz/Safavid style of c. 1535-40. Three paintings ( ff. 121v, 161r and 231v) are attributed to Bihzad. Consists of: Add MS 25900, ff 5v-30v: Makhzan al-asr\u0101r Add MS 25900, ff 31v-100v: Khusraw u Sh\u012br\u012bnAdd MS 25900, ff 101v-150v: Layl\u0101 u Majn\u016bnAdd MS 25900, ff 151v-205r: Haft paykarAdd MS 25900, ff 206v-319v: Iskandarn\u0101mah",
@@ -147,7 +147,7 @@
                 }
             ],
             "viewingHint": "individuals",
-            "viewingDirection": "left-to-right",
+            "viewingDirection": "right-to-left",
             "startCanvas": "https://f8645d32-e2b5-48a3-a46d-21c39e8ed829/canvas_14",
             "canvases": [
                 {

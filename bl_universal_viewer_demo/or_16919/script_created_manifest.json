@@ -7,7 +7,7 @@
         "individuals"
     ],
     "viewingHint": "individuals",
-    "viewingDirection": "left-to-right",
+    "viewingDirection": "right-to-left",
     "description": [
         {
             "@value": "The five poems making up the Khamsah by Ni\u1e93\u0101m\u012b Ganjav\u012b (1140 or 41-1202 or 3), containing one double and 20 single miniatures in the Herat later Timurid style. The attributions to various artists beneath the lower margins of the miniatures were added later but the miniatures on ff. 37v, 135v, 190r, 214r, 225v,and 273r are considered to be possibly the work of Bihz\u0101d. One of the paintings (f 284r) is clearly dated 900 AH (1494/95). The history of the manuscript is documented with more than 70 inscriptions and seal impressions dating from 1564/65 to 1782.",
@@ -147,7 +147,7 @@
                 }
             ],
             "viewingHint": "individuals",
-            "viewingDirection": "left-to-right",
+            "viewingDirection": "right-to-left",
             "startCanvas": "https://f8645d32-e2b5-48a3-a46d-21c39e8ed829/canvas_1",
             "canvases": [
                 {
