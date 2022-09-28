@@ -164,10 +164,10 @@
       },
       "content": {
         "attribution": "Usage Terms",
-        "collapse": "Collapse Information",
+        "collapse": "Collapse About This Item",
         "collapseFull": "Collapse Gallery",
         "description": "Description",
-        "expand": "Expand Information",
+        "expand": "Expand About This Item",
         "expandFull": "Expand Gallery",
         "holdingText": "Your module goes here!",
         "less": "less",
