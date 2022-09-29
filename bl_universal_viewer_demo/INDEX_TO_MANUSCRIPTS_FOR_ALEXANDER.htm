@@ -15,16 +15,16 @@ xmlns="http://www.w3.org/TR/REC-html40">
  <o:DocumentProperties>
   <o:Author>Julian Cook</o:Author>
   <o:LastAuthor>Julian Cook</o:LastAuthor>
-  <o:Revision>27</o:Revision>
-  <o:TotalTime>51</o:TotalTime>
+  <o:Revision>31</o:Revision>
+  <o:TotalTime>75</o:TotalTime>
   <o:Created>2022-09-17T19:58:00Z</o:Created>
-  <o:LastSaved>2022-09-29T11:32:00Z</o:LastSaved>
+  <o:LastSaved>2022-09-29T11:56:00Z</o:LastSaved>
   <o:Pages>1</o:Pages>
-  <o:Words>3050</o:Words>
-  <o:Characters>17388</o:Characters>
-  <o:Lines>144</o:Lines>
-  <o:Paragraphs>40</o:Paragraphs>
-  <o:CharactersWithSpaces>20398</o:CharactersWithSpaces>
+  <o:Words>3160</o:Words>
+  <o:Characters>18017</o:Characters>
+  <o:Lines>150</o:Lines>
+  <o:Paragraphs>42</o:Paragraphs>
+  <o:CharactersWithSpaces>21135</o:CharactersWithSpaces>
   <o:Version>16.00</o:Version>
  </o:DocumentProperties>
 </xml><![endif]-->
@@ -1696,7 +1696,7 @@ around the embedded Universal Viewer.</p>
 
 <p class=MsoNormal><o:p>&nbsp;</o:p></p>
 
-<h2>A Simple Exhibit.so storyline built upon one of these manifests</h2>
+<h2>A simple Exhibit.so storyline built upon one of these manifests</h2>
 
 <p class=MsoNormal>See <a
 href="https://www.exhibit.so/exhibits/K6u3yIzB1ADlHg6rIsMZ">https://www.exhibit.so/exhibits/K6u3yIzB1ADlHg6rIsMZ</a>
@@ -1716,24 +1716,35 @@ wanted to move the images to a different server. One would have to recreate the
 entire Exhibit.so storyline as far as I can see. (Another possibility might be
 to contact the UV developer via Adi).</p>
 
-<p class=MsoNormal>I have created a mockup version of the Exhibit on my Github
-pages with all the .js and .css files served from there rather than from Exhibit
-itself. See <a href="https://cookjools.github.io/exhibits/K6u3yIzB1ADlHg6rIsMZ">https://cookjools.github.io/exhibits/K6u3yIzB1ADlHg6rIsMZ</a>
-(an .html page equivalent to page at <a
-href="https://www.exhibit.so/exhibits/K6u3yIzB1ADlHg6rIsMZ">https://www.exhibit.so/exhibits/K6u3yIzB1ADlHg6rIsMZ</a>).
+<p class=MsoNormal>I have created a mockup HTML version of that Exhibit
+storyline on my Github pages with all the .js and .css files served from there rather
+than from Exhibit itself. See <a
+href="https://cookjools.github.io/exhibits/K6u3yIzB1ADlHg6rIsMZ">https://cookjools.github.io/exhibits/K6u3yIzB1ADlHg6rIsMZ</a>
+. This serves up an .html page K6u3yIzB1ADlHg6rIsM.html which is equivalent to page
+at <a href="https://www.exhibit.so/exhibits/K6u3yIzB1ADlHg6rIsMZ">https://www.exhibit.so/exhibits/K6u3yIzB1ADlHg6rIsMZ</a>).
 </p>
 
-<p class=MsoNormal style='margin-left:36.0pt'>Creating this mockup involved making
-numerous changes. Firstly, removing _ from the start of any folder or file name
-(which Github pages seems to object to) and making corresponding edits (_next becoming
-next) in K6u3yIzB1ADlHg6rIsMZ.html and also in <span
-style='mso-spacerun:yes'> </span>./next/static/chunks/main-02d79fe8c2a509ed.js
+<p class=MsoNormal style='margin-left:36.0pt'>Creating this mockup Exhibit involved
+making numerous changes to the source code served up by www.exhbit.so. Firstly,
+removing _ from the start of any folder or file name (which Github Pages seems
+to object to) and making corresponding edits (_next becoming next) in K6u3yIzB1ADlHg6rIsMZ.html
+and also in <span style='mso-spacerun:yes'> </span>./next/static/chunks/main-02d79fe8c2a509ed.js
 and <span style='mso-spacerun:yes'> </span>…/webpack-f31e6168c6209b9c.js . To
 work out which files were needed, I watched the console browser complaining
 about not being able to load various .js or .css files and in each case saved
 the file from <span style='mso-spacerun:yes'> </span><a
 href="https://www.exhibit.so/">https://www.exhibit.so/</a> into the equivalent
 location under /cookjools.github.io/ .</p>
+
+<p class=MsoNormal style='margin-left:36.0pt'>This demonstrates in principle
+how one might replicate an Exhibit storyline (as HTML with its own JS and CSS) without
+having it served up from <a href="http://www.exhibit.so">www.exhibit.so</a>. It
+would enable one to modify the JSON within the page to use a different manifest,
+or different canvases, and to modify the annotations. Of course this is much
+easier and safer to do on Exhibit itself but it would provide a possible means
+of dealing with problems with an Exhbit if we were to delete, rename, or move to
+a different URL the underlying IIIIF manifest (say from my Github pages to a
+more permanent BL URL).</p>
 
 <p class=MsoNormal><o:p>&nbsp;</o:p></p>
 
