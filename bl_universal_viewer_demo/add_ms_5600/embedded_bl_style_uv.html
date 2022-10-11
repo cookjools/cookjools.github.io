@@ -28,6 +28,10 @@ var feedbacksite = 'https://access.bl.uk/item/feedback/Default.aspx';
 </script><script src="//access.bl.uk/UVR7/scripts/uv.js" type="text/javascript"></script><link href="//access.bl.uk/UVR7/styles/uv.css" type="text/css" rel="stylesheet" /><link href="//access.bl.uk/UVR7/styles/share.css" type="text/css" rel="stylesheet" />
 
 <script type="text/javascript">
+		$(document).ready(function() {
+		reorderDivs();
+		console.log( "ready!" );
+});
         $(window).on('load', reorderDivs());
       
         function reorderDivs() {
