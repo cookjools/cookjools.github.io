@@ -31,7 +31,7 @@ var feedbacksite = 'https://access.bl.uk/item/feedback/Default.aspx';
         $(window).on('load', reorderDivs());
       
         function reorderDivs() {
-            $('div.groups > div.group > div.items').insertAfter($('div.groups > div.group:last-child"'));
+            $('div.iiif-metadata-component > div.groups > div.group:first').insertAfter($('div.iiif-metadata-component > div.groups > div.group:last"'));
 			alert("Have reordered divs to place logo etc after canvas level");
         }
     </script>	
