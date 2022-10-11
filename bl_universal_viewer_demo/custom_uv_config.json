@@ -21,7 +21,7 @@
     "searchWithinEnabled": true,
     "termsOfUseEnabled": true,
     "theme": "uv-en-GB-theme",
-    "tokenStorage": "session",
+    "tokenStorage": "memory",
     "useArrowKeysToNavigate": false,
     "zoomToSearchResultEnabled": false
   },
