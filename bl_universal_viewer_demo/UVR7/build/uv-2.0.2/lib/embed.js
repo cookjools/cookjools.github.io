@@ -539,6 +539,7 @@ docReady(function() {
                                 break;
                             case "uv.onRedirect":
                                 redirect(message.eventObject);
+								alert("In embed.js redirect was triggered");
                                 break;
                             case "uv.onRefresh":
                                 refresh();
