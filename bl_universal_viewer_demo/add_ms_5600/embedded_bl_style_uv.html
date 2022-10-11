@@ -41,13 +41,13 @@ var feedbacksite = 'https://access.bl.uk/item/feedback/Default.aspx';
                 <div id="panelMain" class="main xFullscreen xHideOverflow">
 	
 <script type="text/javascript">
-        $(window).on('load', showDatetime());
+        $(window).on('load', reorderDivs());
       
-        function showDatetime() {
-            document.querySelector(".date").textContent
-                    = new Date();
+        function reorderDivs() {
+            $('div.groups > div.group > div.items').insertAfter($('div.groups > div.group:last-child"'));
         }
     </script>	
+	
                     <!--output here-->
                     
 	<div class="uv xFullscreen xHideOverflow" data-fullscreen="true" data-config="https://cookjools.github.io/bl_universal_viewer_demo/custom_uv_config.json" data-uri="https://cookjools.github.io/bl_universal_viewer_demo/add_ms_5600/script_created_manifest.json" data-canvasindex="4" ></div><script type="text/javascript" id="embedUV" src="https://access.bl.uk/UVR7/build/uv-2.0.2/lib/embed.js"></script>
