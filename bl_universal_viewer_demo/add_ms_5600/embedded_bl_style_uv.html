@@ -33,8 +33,9 @@ var feedbacksite = 'https://access.bl.uk/item/feedback/Default.aspx';
         function reorderDivs() {
  //           $('div.iiif-metadata-component > div.groups > div.group:first').insertAfter($('div.iiif-metadata-component > div.groups > div.group:last'));
 			$('div._citation').insertAfter($('div._logo'));
-			$('div._logo').hide();
-			$('div.item._logo').hide();
+			$('div._logo').delay( 5000 ).hide();
+			
+			$('div.item._logo')..delay( 5000 ).hide();
 			alert("Should have reordered divs to place logo etc after canvas level");
 			console.log( "ready!" );
         }
