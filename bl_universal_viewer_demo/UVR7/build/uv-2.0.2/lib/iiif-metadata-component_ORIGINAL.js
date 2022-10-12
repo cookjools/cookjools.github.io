@@ -114,7 +114,7 @@ var IIIFComponents;
                 licenseFormatter: null,
                 limit: 4,
                 limitType: IIIFComponents.MetadataComponentOptions.LimitType.LINES,
-                manifestDisplayOrder: "logo license",
+                manifestDisplayOrder: "",
                 manifestExclude: "",
                 range: null,
                 rtlLanguageCodes: "ar, ara, dv, div, he, heb, ur, urd",

@@ -298,7 +298,7 @@ docReady(function() {
                 // store current location in cookie.
                 createCookie('uvredirect', window.location.href);
                 window.location.replace(uri);
-				alert("In embed.js in function redirect() to URI: " + uri);
+//				alert("In embed.js in function redirect() to URI: " + uri);
             }
 
             function refresh() {
@@ -307,7 +307,7 @@ docReady(function() {
 
             function triggerSocket(eventName, eventObject) {
                 socket.postMessage(JSON.stringify({ eventName: eventName, eventObject: eventObject }));
-				alert("In embed.js in function triggerSocket()");
+//				alert("In embed.js in function triggerSocket()");
             }
 
             function getDimensions() {
@@ -541,7 +541,7 @@ docReady(function() {
                                 break;
                             case "uv.onRedirect":
                                 redirect(message.eventObject);
-								alert("In embed.js redirect was triggered");
+//								alert("In embed.js redirect was triggered");
                                 break;
                             case "uv.onRefresh":
                                 refresh();
