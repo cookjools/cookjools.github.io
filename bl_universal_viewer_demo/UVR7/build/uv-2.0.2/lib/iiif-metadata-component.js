@@ -239,7 +239,8 @@ var IIIFComponents;
             var _this = this;
             $.each(this._metadataGroups, function (index, metadataGroup) {
                 var $metadataGroup = _this._buildMetadataGroup(metadataGroup);
-                _this._$metadataGroups.append($metadataGroup);
+//                _this._$metadataGroups.append($metadataGroup); // reverse order by using prepend instead
+				_this._$metadataGroups.prepend($metadataGroup);
                 if (_this.options.limitType === IIIFComponents.MetadataComponentOptions.LimitType.LINES) {
                     $metadataGroup.find('.value').toggleExpandTextByLines(_this.options.limit, _this.options.content.less, _this.options.content.more, function () { });
                 }
