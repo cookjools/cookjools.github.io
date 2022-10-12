@@ -151,7 +151,7 @@
         "canvasDisplayOrder": "",
         "canvasExclude": "",
         "copyToClipboardEnabled": false,
-        "manifestDisplayOrder": "license logo",
+        "manifestDisplayOrder": "license, logo",
         "manifestExclude": "",
         "panelAnimationDuration": 250,
         "panelCollapsedWidth": 30,
