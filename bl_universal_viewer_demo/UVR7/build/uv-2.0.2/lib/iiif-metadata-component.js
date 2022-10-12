@@ -123,12 +123,11 @@ var IIIFComponents;
             };
         };
         MetadataComponent.prototype._getManifestGroup = function () {
-//            return this._metadataGroups.en().where(function (x) { return x.resource.isManifest(); }).first();
-			return this._metadataGroups.en().where(function (x) { return x.resource.isCanvas(); }).toArray();
+            return this._metadataGroups.en().where(function (x) { return x.resource.isManifest(); }).first();
+
         };
         MetadataComponent.prototype._getCanvasGroups = function () {
-//            return this._metadataGroups.en().where(function (x) { return x.resource.isCanvas(); }).toArray();
-			return this._metadataGroups.en().where(function (x) { return x.resource.isManifest(); }).first();
+            return this._metadataGroups.en().where(function (x) { return x.resource.isCanvas(); }).toArray();
         };
         MetadataComponent.prototype.databind = function () {
             var _this = this;
