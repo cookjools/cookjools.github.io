@@ -123,10 +123,12 @@ var IIIFComponents;
             };
         };
         MetadataComponent.prototype._getManifestGroup = function () {
-            return this._metadataGroups.en().where(function (x) { return x.resource.isManifest(); }).first();
+//            return this._metadataGroups.en().where(function (x) { return x.resource.isManifest(); }).first();
+			return this._metadataGroups.en().where(function (x) { return x.resource.isCanvas(); }).toArray();
         };
         MetadataComponent.prototype._getCanvasGroups = function () {
-            return this._metadataGroups.en().where(function (x) { return x.resource.isCanvas(); }).toArray();
+//            return this._metadataGroups.en().where(function (x) { return x.resource.isCanvas(); }).toArray();
+			return this._metadataGroups.en().where(function (x) { return x.resource.isManifest(); }).first();
         };
         MetadataComponent.prototype.databind = function () {
             var _this = this;
@@ -239,8 +241,10 @@ var IIIFComponents;
             var _this = this;
             $.each(this._metadataGroups, function (index, metadataGroup) {
                 var $metadataGroup = _this._buildMetadataGroup(metadataGroup);
-//                _this._$metadataGroups.append($metadataGroup); // reverse order by using prepend instead
-				_this._$metadataGroups.prepend($metadataGroup);
+                _this._$metadataGroups.append($metadataGroup); // we tried using prepend instead...
+// but only works for items within the metadata group that have been named in manifestDisplayOrder 
+// and anyway we wanted to reverse of the groups themselves (placing canvas group prior to manifest group)
+//				_this._$metadataGroups.prepend($metadataGroup); // reverse order by using prepend instead
                 if (_this.options.limitType === IIIFComponents.MetadataComponentOptions.LimitType.LINES) {
                     $metadataGroup.find('.value').toggleExpandTextByLines(_this.options.limit, _this.options.content.less, _this.options.content.more, function () { });
                 }
