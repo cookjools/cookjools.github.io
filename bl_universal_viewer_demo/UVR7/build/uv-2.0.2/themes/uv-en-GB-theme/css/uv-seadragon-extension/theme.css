@@ -2927,6 +2927,7 @@ input[type=range]:focus::-ms-fill-upper {
   overflow: hidden;
   word-wrap: break-word;
   line-height: 1.6em;
+  color:red;
 }
 
 
