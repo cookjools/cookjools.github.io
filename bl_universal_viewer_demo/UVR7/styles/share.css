@@ -254,5 +254,5 @@ border-color: #5e5e5e;
 
 /* testing div of class="value" containing text 'epic' then set color to red */
 div.value {
-	color:red; !important;
+	color:red !important;
 }
