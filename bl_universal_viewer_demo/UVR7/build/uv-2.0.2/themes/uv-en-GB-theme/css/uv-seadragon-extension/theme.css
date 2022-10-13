@@ -2928,6 +2928,13 @@ input[type=range]:focus::-ms-fill-upper {
   word-wrap: break-word;
   line-height: 1.6em;
 }
+
+
+/* testing div of class="value" containing text 'epic' then set color to red */
+.iiif-metadata-component .groups .group .items .item .value .contains("epic") {
+	color:red !important;
+}
+
 .iiif-metadata-component .groups .group .items .item .value a.toggle {
   color: #14a4c3;
   font-weight: normal;

@@ -331,8 +331,3 @@ div.detail
 
 }
 
-
-/* testing div of class="value" containing text 'epic' then set color to red */
-div {
-	color:red !important;
-}
