@@ -330,3 +330,9 @@ div.detail
     }
 
 }
+
+
+/* testing div of class="value" containing text 'epic' then set color to red */
+div.value {
+	color:red !important;
+}
