@@ -253,6 +253,6 @@ border-color: #5e5e5e;
 }
 
 /* testing div of class="value" containing text 'epic' then set color to red */
-div[class|="value"]:contains("epic") {
+div.value:contains("epic") {
 	color:red;
 }
