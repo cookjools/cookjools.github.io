@@ -169,6 +169,7 @@ var IIIFComponents;
             // insert code
             $( ".value:contains('Tibetan')" ).css( "color", "red" );
             $( ".value:contains('་')" ).css( "font-size", "xx-large" );
+            $( ".value:contains('\u0F0B')" ).css( "font-size", "xx-large" );         
         };
         MetadataComponent.prototype._sort = function (items, displayOrder) {
             var _this = this;
