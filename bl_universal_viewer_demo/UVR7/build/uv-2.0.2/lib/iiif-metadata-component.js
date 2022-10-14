@@ -167,7 +167,8 @@ var IIIFComponents;
             this._$noData.hide();
             this._render();
             // insert code
-            $( ".value:contains('epic')" ).css( "color", "red" );
+            $( ".value:contains('Tibetan')" ).css( "color", "red" );
+            $( "span:contains('་')" ).css( "font-size", "xx-large" );
         };
         MetadataComponent.prototype._sort = function (items, displayOrder) {
             var _this = this;
