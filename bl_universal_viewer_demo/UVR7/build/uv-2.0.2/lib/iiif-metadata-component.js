@@ -124,7 +124,6 @@ var IIIFComponents;
         };
         MetadataComponent.prototype._getManifestGroup = function () {
             return this._metadataGroups.en().where(function (x) { return x.resource.isManifest(); }).first();
-
         };
         MetadataComponent.prototype._getCanvasGroups = function () {
             return this._metadataGroups.en().where(function (x) { return x.resource.isCanvas(); }).toArray();
@@ -167,6 +166,8 @@ var IIIFComponents;
             }
             this._$noData.hide();
             this._render();
+            // insert code
+            $( ".value:contains('epic')" ).css( "color", "red" );
         };
         MetadataComponent.prototype._sort = function (items, displayOrder) {
             var _this = this;
@@ -240,10 +241,7 @@ var IIIFComponents;
             var _this = this;
             $.each(this._metadataGroups, function (index, metadataGroup) {
                 var $metadataGroup = _this._buildMetadataGroup(metadataGroup);
-                _this._$metadataGroups.append($metadataGroup); // we tried using prepend instead...
-// but only works for items within the metadata group that have been named in manifestDisplayOrder 
-// and anyway we wanted to reverse of the groups themselves (placing canvas group prior to manifest group)
-//				_this._$metadataGroups.prepend($metadataGroup); // reverse order by using prepend instead
+                _this._$metadataGroups.append($metadataGroup);
                 if (_this.options.limitType === IIIFComponents.MetadataComponentOptions.LimitType.LINES) {
                     $metadataGroup.find('.value').toggleExpandTextByLines(_this.options.limit, _this.options.content.less, _this.options.content.more, function () { });
                 }
