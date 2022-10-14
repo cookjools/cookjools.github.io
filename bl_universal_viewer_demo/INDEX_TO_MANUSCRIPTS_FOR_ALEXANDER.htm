@@ -15,16 +15,16 @@ xmlns="http://www.w3.org/TR/REC-html40">
  <o:DocumentProperties>
   <o:Author>Julian Cook</o:Author>
   <o:LastAuthor>Julian Cook</o:LastAuthor>
-  <o:Revision>43</o:Revision>
-  <o:TotalTime>108</o:TotalTime>
+  <o:Revision>44</o:Revision>
+  <o:TotalTime>112</o:TotalTime>
   <o:Created>2022-09-17T19:58:00Z</o:Created>
-  <o:LastSaved>2022-10-13T08:20:00Z</o:LastSaved>
+  <o:LastSaved>2022-10-14T15:31:00Z</o:LastSaved>
   <o:Pages>1</o:Pages>
-  <o:Words>3546</o:Words>
-  <o:Characters>20213</o:Characters>
-  <o:Lines>168</o:Lines>
-  <o:Paragraphs>47</o:Paragraphs>
-  <o:CharactersWithSpaces>23712</o:CharactersWithSpaces>
+  <o:Words>3614</o:Words>
+  <o:Characters>20603</o:Characters>
+  <o:Lines>171</o:Lines>
+  <o:Paragraphs>48</o:Paragraphs>
+  <o:CharactersWithSpaces>24169</o:CharactersWithSpaces>
   <o:Version>16.00</o:Version>
  </o:DocumentProperties>
 </xml><![endif]-->
@@ -1903,9 +1903,17 @@ than to <a href="https://access.bl.uk/UVR7/build/uv-2.0.2/lib/embed.js">https://
 The <span class=SpellE>Github</span> pages files are mostly identical to the
 equivalent files on access.bl.uk. </p>
 
-<p class=MsoNormal>We experimented with modifying bundle.min.js to modify the order
-in which groups of items in the right panel are display <span
-style='mso-spacerun:yes'> </span>- but we later reversed those mods.</p>
+<p class=MsoNormal>We have modified <b>bundle.min.js</b> to reverse the conventional
+BL order in which groups of items in the right-hand metadata panel are displayed.
+About this page (canvas level) now appears at the top, followed by About this
+part (range level), and finally About this manuscript (so-called
+manifest-level).</p>
+
+<p class=MsoNormal>We have also modified <b>iiif-metadata-component.js to</b>
+include some code to vary the display of items class ‘value’ in the right-hand metadata
+panel. In the example manifest, we have inserted some text in Tibetan which the
+script should cause to be rendered in a red extra-large font (so that the
+Tibetan is legible).</p>
 
 <p class=MsoNormal><o:p>&nbsp;</o:p></p>
 
