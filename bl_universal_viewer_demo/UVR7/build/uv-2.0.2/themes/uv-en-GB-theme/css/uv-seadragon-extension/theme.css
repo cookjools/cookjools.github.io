@@ -2888,9 +2888,6 @@ input[type=range]:focus::-ms-fill-upper {
   color: #14a4c3 !important;
 }
 
-.iiif-metadata-component  {
-    font-family: "Tibetan";
-}
 
 .iiif-metadata-component .groups .group .header {
   font-weight: bold;
@@ -2938,7 +2935,7 @@ input[type=range]:focus::-ms-fill-upper {
   overflow: hidden;
   word-wrap: break-word;
   line-height: 1.6em;
-  font-family: "Tibetan";
+  font-family: "Tibetan", sans-serif; /* see font-face for definition - large size font for any chars in Tibetan unicode */
   
 }
 
