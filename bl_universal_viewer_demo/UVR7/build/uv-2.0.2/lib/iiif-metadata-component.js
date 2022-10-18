@@ -168,8 +168,8 @@ var IIIFComponents;
             this._render();
             // insert code
  //           $( ".value:contains('Tibetan')" ).css( "color", "red" );
-            $( ".value:contains('་')" ).css( "font-size", "x-large" );
-            $( ".value:contains('\u0F0B')" ).css( "font-size", "x-large" );         
+ //           $( ".value:contains('་')" ).css( "font-size", "x-large" );
+ //           $( ".value:contains('\u0F0B')" ).css( "font-size", "x-large" );         
         };
         MetadataComponent.prototype._sort = function (items, displayOrder) {
             var _this = this;
