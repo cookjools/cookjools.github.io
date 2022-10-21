@@ -1,7 +1,8 @@
 @font-face {
         font-family: "Tibetan";
-		src: url("https://cookjools.github.io/bl_universal_viewer_demo/fonts/BabelStoneTibetan.ttf") format("ttf");
-		size-adjust: 300%;
+		src: url("https://cookjools.github.io/bl_universal_viewer_demo/fonts/BabelStoneTibetan.ttf");
+		/* src: url("https://cookjools.github.io/bl_universal_viewer_demo/fonts/BabelStoneTibetan.ttf") format("ttf"); */
+		size-adjust: 150%;
 		unicode-range: U+0F00-0FFF;   /* Unicode range for Tibetan (syllable marker is U0F0B) */;
       }
 #app .overlay {
