@@ -8,6 +8,7 @@
 	/*	ascent-override: 200%; */ /* attempt to push the enlarged Tibetan down in mixed content (but this probably only affects font-size) */
 	/*	descent-override: 100%; */
 	/*	line-gap-override: 200%; */ /* possibly help Firefox to display pure Tibetan without cutting top off when using a font such as TibMachUni-1.901b.ttf  */
+	color: red;
       }
 #app .overlay {
   color: #000;
