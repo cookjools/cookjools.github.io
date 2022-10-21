@@ -1,12 +1,13 @@
 @font-face {
         font-family: "Tibetan";
 	/*	src: url("https://cookjools.github.io/bl_universal_viewer_demo/fonts/BabelStoneTibetan.ttf"); */ /* without specifying format - fine except in Firefox? */
-		src: url("https://cookjools.github.io/bl_universal_viewer_demo/fonts/TibMachUni-1.901b.ttf") format('truetype');  /* format possibly required by Firefox? (but Firefox messes up formatting of metadata in right panel, with overlap of title and content in each element) */
+	/*	src: url("https://cookjools.github.io/bl_universal_viewer_demo/fonts/TibMachUni-1.901b.ttf") format('truetype'); */  /* format possibly required by Firefox? (but Firefox messes up formatting of metadata in right panel, with overlap of title and content in each element) */
+		src: url("https://cookjools.github.io/bl_universal_viewer_demo/fonts/Jomolhari-ID-a3d.ttf") format('truetype');
 		size-adjust: 150%;
 		unicode-range: U+0F00-0FFF;   /* Unicode range for Tibetan (syllable marker is U0F0B) */
 	/*	ascent-override: 200%; */ /* attempt to push the enlarged Tibetan down in mixed content (but this probably only affects font-size) */
 	/*	descent-override: 100%; */
-		line-gap-override: 400%; /* seems to help Firefox to display pure Tibetan without cutting top off */
+	/*	line-gap-override: 200%; */ /* possibly help Firefox to display pure Tibetan without cutting top off when using a font such as TibMachUni-1.901b.ttf  */
       }
 #app .overlay {
   color: #000;
