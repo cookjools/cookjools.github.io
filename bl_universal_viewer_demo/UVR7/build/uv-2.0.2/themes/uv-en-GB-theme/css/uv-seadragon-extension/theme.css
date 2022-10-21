@@ -1,7 +1,7 @@
 @font-face {
         font-family: "Tibetan";
 	/*	src: url("https://cookjools.github.io/bl_universal_viewer_demo/fonts/BabelStoneTibetan.ttf"); */ /* without specifying format - fine except in Firefox? */
-	/*	src: url("https://cookjools.github.io/bl_universal_viewer_demo/fonts/TibMachUni-1.901b.ttf") format('truetype'); */  /* format possibly required by Firefox? (but Firefox messes up formatting of metadata in right panel, with overlap of title and content in each element) at least for some fonts such as BabelStoneTibetan.ttf */
+		src: url("https://cookjools.github.io/bl_universal_viewer_demo/fonts/TibMachUni-1.901b.ttf") format('truetype');   /* format possibly required by Firefox? (but Firefox messes up formatting of metadata in right panel, with overlap of title and content in each element) at least for some fonts such as BabelStoneTibetan.ttf */
 		/* src: url("https://cookjools.github.io/bl_universal_viewer_demo/fonts/Jomolhari-ID-a3d.ttf") format('truetype');  */
 		/* src: url("https://cookjools.github.io/bl_universal_viewer_demo/fonts/BabelStoneTibetan.ttf") format('truetype'); */ /* avoid this - messes up metadata! */
 		size-adjust: 150%;
@@ -13,13 +13,13 @@
 
 	font-style: normal; /* recommended for Jomolhari Tibetan here: http://google-webfonts-helper.herokuapp.com/fonts/jomolhari?subsets=tibetan */
 	font-weight: 400;
-  src: url('https://cookjools.github.io/bl_universal_viewer_demo/fonts/jomolhari-v14-tibetan-regular.eot'); /* IE9 Compat Modes */
-  src: local(''),
-       url('https://cookjools.github.io/bl_universal_viewer_demo/fonts/jomolhari-v14-tibetan-regular.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
-       url('https://cookjools.github.io/bl_universal_viewer_demo/fonts/jomolhari-v14-tibetan-regular.woff2') format('woff2'), /* Super Modern Browsers */
-       url('https://cookjools.github.io/bl_universal_viewer_demo/fonts/jomolhari-v14-tibetan-regular.woff') format('woff'), /* Modern Browsers */
-       url('https://cookjools.github.io/bl_universal_viewer_demo/fonts/jomolhari-v14-tibetan-regular.ttf') format('truetype'), /* Safari, Android, iOS */
-       url('https://cookjools.github.io/bl_universal_viewer_demo/fonts/jomolhari-v14-tibetan-regular.svg#Jomolhari') format('svg'); /* Legacy iOS */
+ /* src: url('https://cookjools.github.io/bl_universal_viewer_demo/fonts/jomolhari-v14-tibetan-regular.eot');  /*  /* IE9 Compat Modes */
+  /*  src: local(''),
+       url('https://cookjools.github.io/bl_universal_viewer_demo/fonts/jomolhari-v14-tibetan-regular.eot?#iefix') format('embedded-opentype'), */ /* IE6-IE8 */
+      /* url('https://cookjools.github.io/bl_universal_viewer_demo/fonts/jomolhari-v14-tibetan-regular.woff2') format('woff2'), */ /* Super Modern Browsers */
+       /* url('https://cookjools.github.io/bl_universal_viewer_demo/fonts/jomolhari-v14-tibetan-regular.woff') format('woff'), */ /* Modern Browsers */
+      /*  url('https://cookjools.github.io/bl_universal_viewer_demo/fonts/jomolhari-v14-tibetan-regular.ttf') format('truetype'), */ /* Safari, Android, iOS */
+       /* url('https://cookjools.github.io/bl_universal_viewer_demo/fonts/jomolhari-v14-tibetan-regular.svg#Jomolhari') format('svg'); */ /* Legacy iOS */
 }
       }
 #app .overlay {
