@@ -1,7 +1,7 @@
 @font-face {
         font-family: "Tibetan";
 	/*	src: url("https://cookjools.github.io/bl_universal_viewer_demo/fonts/BabelStoneTibetan.ttf"); */ /* without specifying format - fine except in Firefox? */
-	/*	src: url("https://cookjools.github.io/bl_universal_viewer_demo/fonts/TibMachUni-1.901b.ttf") format('truetype'); */  /* format possibly required by Firefox? (but Firefox messes up formatting of metadata in right panel, with overlap of title and content in each element) at least for some fonts such as BabelStoneTibetan.ttf */
+		src: url("https://cookjools.github.io/bl_universal_viewer_demo/fonts/TibMachUni-1.901b.ttf") format('truetype');   /* format possibly required by Firefox? (but Firefox messes up formatting of metadata in right panel, with overlap of title and content in each element) at least for some fonts such as BabelStoneTibetan.ttf */
 		/* src: url("https://cookjools.github.io/bl_universal_viewer_demo/fonts/Jomolhari-ID-a3d.ttf") format('truetype');  */
 		/* src: url("https://cookjools.github.io/bl_universal_viewer_demo/fonts/BabelStoneTibetan.ttf") format('truetype'); */ /* avoid this - messes up metadata! */
 		size-adjust: 100%;
@@ -23,13 +23,13 @@
 	   
 /* noto-serif-tibetan-regular - tibetan */
 
-  src: url('https://cookjools.github.io/bl_universal_viewer_demo/fonts/noto-serif-tibetan-v16-tibetan-regular.eot'); /* IE9 Compat Modes */
-  src: local(''),
-       url('https://cookjools.github.io/bl_universal_viewer_demo/fonts/noto-serif-tibetan-v16-tibetan-regular.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
-       url('https://cookjools.github.io/bl_universal_viewer_demo/fonts/noto-serif-tibetan-v16-tibetan-regular.woff2') format('woff2'), /* Super Modern Browsers */
-       url('https://cookjools.github.io/bl_universal_viewer_demo/fonts/noto-serif-tibetan-v16-tibetan-regular.woff') format('woff'), /* Modern Browsers */
-       url('https://cookjools.github.io/bl_universal_viewer_demo/fonts/noto-serif-tibetan-v16-tibetan-regular.ttf') format('truetype'), /* Safari, Android, iOS */
-       url('https://cookjools.github.io/bl_universal_viewer_demo/fonts/noto-serif-tibetan-v16-tibetan-regular.svg#NotoSerifTibetan') format('svg'); /* Legacy iOS */
+ /* src: url('https://cookjools.github.io/bl_universal_viewer_demo/fonts/noto-serif-tibetan-v16-tibetan-regular.eot'); */ /* IE9 Compat Modes */
+ /* src: local(''),
+       url('https://cookjools.github.io/bl_universal_viewer_demo/fonts/noto-serif-tibetan-v16-tibetan-regular.eot?#iefix') format('embedded-opentype'), */ /* IE6-IE8 */
+/*       url('https://cookjools.github.io/bl_universal_viewer_demo/fonts/noto-serif-tibetan-v16-tibetan-regular.woff2') format('woff2'), */ /* Super Modern Browsers */
+/*       url('https://cookjools.github.io/bl_universal_viewer_demo/fonts/noto-serif-tibetan-v16-tibetan-regular.woff') format('woff'), */ /* Modern Browsers */
+/*       url('https://cookjools.github.io/bl_universal_viewer_demo/fonts/noto-serif-tibetan-v16-tibetan-regular.ttf') format('truetype'), */ /* Safari, Android, iOS */
+ /*      url('https://cookjools.github.io/bl_universal_viewer_demo/fonts/noto-serif-tibetan-v16-tibetan-regular.svg#NotoSerifTibetan') format('svg'); */ /* Legacy iOS */
 
 }
       }
@@ -2963,8 +2963,8 @@ input[type=range]:focus::-ms-fill-upper {
   margin: 5px 10px 0 0; /* was:  5px 10px 0 0; */
   overflow: hidden; /* was: hidden */
   word-wrap: break-word;
-  line-height: 2.5em; /* was: 1.6em */
-  padding-top: 5px; /* was absent */
+  line-height: 1.6em; /* was: 1.6em */
+  /* padding-top: 5px; */ /* was absent */
   font-family: "Tibetan", sans-serif; /* see @font-face for definition - large size font for any chars in Tibetan unicode */
   
 }
