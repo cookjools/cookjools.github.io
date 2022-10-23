@@ -2960,8 +2960,8 @@ input[type=range]:focus::-ms-fill-upper {
 }
 .iiif-metadata-component .groups .group .items .item .value {
   color: #fff;
-  margin: 5px 10px 0 0;
-  overflow: visible; /* was: hidden */
+  margin: 10px 10px 0 0; /* was:  5px 10px 0 0; */
+  overflow: hidden; /* was: hidden */
   word-wrap: break-word;
   line-height: 1.6em;
   font-family: "Tibetan", sans-serif; /* see @font-face for definition - large size font for any chars in Tibetan unicode */
