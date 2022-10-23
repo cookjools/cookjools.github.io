@@ -4,7 +4,7 @@
 	/*	src: url("https://cookjools.github.io/bl_universal_viewer_demo/fonts/TibMachUni-1.901b.ttf") format('truetype'); */  /* format possibly required by Firefox? (but Firefox messes up formatting of metadata in right panel, with overlap of title and content in each element) at least for some fonts such as BabelStoneTibetan.ttf */
 		/* src: url("https://cookjools.github.io/bl_universal_viewer_demo/fonts/Jomolhari-ID-a3d.ttf") format('truetype');  */
 		/* src: url("https://cookjools.github.io/bl_universal_viewer_demo/fonts/BabelStoneTibetan.ttf") format('truetype'); */ /* avoid this - messes up metadata! */
-		size-adjust: 150%;
+		size-adjust: 120%;
 		unicode-range: U+0F00-0FFF;   /* Unicode range for Tibetan (syllable marker is U0F0B) */
 	/*	ascent-override: 200%; */ /* attempt to push the enlarged Tibetan down in mixed content (but this probably only affects font-size) */
 	/*	descent-override: 100%; */
