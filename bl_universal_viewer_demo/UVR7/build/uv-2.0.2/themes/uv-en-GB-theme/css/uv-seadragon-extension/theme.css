@@ -8,9 +8,9 @@
 		size-adjust: 150%; /* 100 for Noto but perhaps 150% for others */
 		unicode-range: U+0F00-0FFF;   /* Unicode range for Tibetan (syllable marker is U0F0B) */
 		
-	/*	ascent-override: 200%; */ /* attempt to push the enlarged Tibetan down in mixed content (but this probably only affects font-size) */
-	/*	descent-override: 100%; */
-	/*	line-gap-override: 200%; */ /* possibly help Firefox to display pure Tibetan without cutting top off when using a font such as TibMachUni-1.901b.ttf ?  */
+		ascent-override: 200%;  /* attempt to push the enlarged Tibetan down in mixed content (but this probably only affects font-size) */
+		descent-override: 200%;
+		line-gap-override: 200%;  /* possibly help Firefox to display pure Tibetan without cutting top off when using a font such as TibMachUni-1.901b.ttf ?  */
 	
 
 /*	font-style: normal; */ /* recommended for Jomolhari Tibetan here: http://google-webfonts-helper.herokuapp.com/fonts/jomolhari?subsets=tibetan */
