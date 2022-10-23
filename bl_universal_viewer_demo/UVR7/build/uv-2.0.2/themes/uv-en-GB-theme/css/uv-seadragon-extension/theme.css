@@ -2967,7 +2967,7 @@ input[type=range]:focus::-ms-fill-upper {
   margin: 5px 10px 0 0; /* was:  5px 10px 0 0; */
   overflow: hidden; /* was: hidden */
   word-wrap: break-word;
-  line-height: 1.6em; /* was: 1.6em */
+  line-height: 200%; /* was: 1.6em but for Jomolhari in Firefox (and others) need 200% not to clip top and bottom */
   /* padding-top: 5px; */ /* was absent */
   font-family: "Tibetan", sans-serif; /* see @font-face for definition - large size font for any chars in Tibetan unicode */
   
