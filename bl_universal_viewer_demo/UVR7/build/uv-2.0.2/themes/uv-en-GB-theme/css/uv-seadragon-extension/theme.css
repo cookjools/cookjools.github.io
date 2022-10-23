@@ -2968,7 +2968,7 @@ input[type=range]:focus::-ms-fill-upper {
   overflow: hidden; /* was: hidden */
   word-wrap: break-word;
   line-height: 200%; /* was: 1.6em but for Jomolhari in Firefox (and others) need 200% or even 250% not to clip top and bottom */
-  padding-top: 2px;  /* was absent - seems to stop clipping of Jomolhari at 200% line height */
+  padding-top: 10px;  /* was absent - seems to stop clipping of Jomolhari at 200% line height (browser/os  dependent) */
   padding-bottom: 2px; /* was absent */
   font-family: "Tibetan", sans-serif; /* see @font-face for definition - large size font for any chars in Tibetan unicode */
   
