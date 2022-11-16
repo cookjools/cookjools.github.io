@@ -1,29 +1,48 @@
 @font-face {
+	/* Any element CSS with font-family: "Tibetan",... will use this font-face definition and apply it ONLY to Unicode characters in the range used for Tibetan characters (all other characters will be ignored and fallback to the default font, or the next font-family in the chain). */
+	/* WARNING: any such element might also need to have vertical padding and line-height increased if Tibetan is not to be clipped, or rendered with lines overlapping (see below for details)  */
+	
         font-family: "Tibetan";
-	/*	src: url("https://cookjools.github.io/bl_universal_viewer_demo/fonts/BabelStoneTibetan.ttf"); */ /* without specifying format - fine except in Firefox? */
-		/* src: url("https://cookjools.github.io/bl_universal_viewer_demo/fonts/TibMachUni-1.901b.ttf") format('truetype'); */  /* format possibly required by Firefox? (but Firefox messes up formatting of metadata in right panel, with overlap of title and content in each element) at least for some fonts such as BabelStoneTibetan.ttf */
-		/* src: url("https://cookjools.github.io/bl_universal_viewer_demo/fonts/Jomolhari-ID-a3d.ttf") format('truetype');  */
-		/* src: url("https://cookjools.github.io/bl_universal_viewer_demo/fonts/BabelStoneTibetan.ttf") format('truetype'); */ /* avoid this - messes up metadata! */
-		
-		size-adjust: 150%; /* 100 for Noto but perhaps 150% for others */
+	
+		/* increase the size of the font so that Tibetan does not display in microscopic form  */
+		size-adjust: 150%; /* 100 for Noto but perhaps 150% for others */ 
+		/* warning: if size-adjust value is more than 100% it can cause clipping and or lines of text overlapping unless any element using this font-family "Tibetan" also has CSS specifying enough vertical space around it via padding & line-height, e.g. line-height: 200%;  padding-bottom: 2px; padding-top: 10px;   */
+
+		/* specify the characters to which this family should apply */
 		unicode-range: U+0F00-0FFF;   /* Unicode range for Tibetan (syllable marker is U0F0B) */
 		
-		ascent-override: 200%;  /* attempt to push the enlarged Tibetan down in mixed content (but this probably only affects font-size) */
-		descent-override: 200%;
-		line-gap-override: 200%;  /* possibly help Firefox to display pure Tibetan without cutting top off when using a font such as TibMachUni-1.901b.ttf ?  */
+		/* comment out ascent-override, descent-override, line-gap-override - these seem to be used to avoid noticeable jumps in layout while a web font such as our is being loaded by the browser - until someone reports a problem with such jumps can safely leave them out - and if needed will have t experiment with values required */
+		/* ascent-override: 100%;  
+		descent-override: 100%;
+		line-gap-override: 100%; 
+		*/
 	
-		font-weight: 600; /* font-weight: 600; seems to turn off emboldening (smudging) of Tibetan; in fact, font-weight: bold; will achieve the same thing (surprisingly) while font-weight: normal; (again surprisingly) results in smudging when the underlying element is set to bold */
+		/* the following font-weight: bold; switches OFF emboldening (smudging) of Tibetan  - whether the element itself is font-weight normal or bold it will always display characters with the standard font; it is as if to say the font is already bold so do not attempt to emboldern it further (but also even if you ask for normal the font will display in its the same 'bold', but not overbold way!) */
+		font-weight: bold; /* or alternatively font-weight: 600; - this statement in the @font-face (somewhat suprisingly) turns off over-emboldening (smudging) of Tibetan when an element is set to bold; by contrast font-weight: normal;  here would result in over-bold smudging whenever the underlying element is set to bold */
 
-/*	font-style: normal; */ /* recommended for Jomolhari Tibetan here: http://google-webfonts-helper.herokuapp.com/fonts/jomolhari?subsets=tibetan */
-/*	font-weight: 400; */
+/*		font-style: normal; */ /* recommended (perhaps wrongly) for Jomolhari Tibetan here: http://google-webfonts-helper.herokuapp.com/fonts/jomolhari?subsets=tibetan */
+/*		font-weight: 400; */
 
-  src: url('https://cookjools.github.io/bl_universal_viewer_demo/fonts/jomolhari-v14-tibetan-regular.eot');    /* IE9 Compat Modes */
+
+	/* use Jomolhari font - seems to be the best font for Tibetan across browsers/operating systems/devices */
+	src: url('https://cookjools.github.io/bl_universal_viewer_demo/fonts/jomolhari-v14-tibetan-regular.eot');    /* IE9 Compat Modes */
     src: local(''),
        url('https://cookjools.github.io/bl_universal_viewer_demo/fonts/jomolhari-v14-tibetan-regular.eot?#iefix') format('embedded-opentype'),  /* IE6-IE8 */
        url('https://cookjools.github.io/bl_universal_viewer_demo/fonts/jomolhari-v14-tibetan-regular.woff2') format('woff2'), /* Super Modern Browsers */
         url('https://cookjools.github.io/bl_universal_viewer_demo/fonts/jomolhari-v14-tibetan-regular.woff') format('woff'),  /* Modern Browsers */
         url('https://cookjools.github.io/bl_universal_viewer_demo/fonts/jomolhari-v14-tibetan-regular.ttf') format('truetype'), /* Safari, Android, iOS */
         url('https://cookjools.github.io/bl_universal_viewer_demo/fonts/jomolhari-v14-tibetan-regular.svg#Jomolhari') format('svg');  /* Legacy iOS */
+	   
+	   
+	   
+	
+	/* VARIOUS OTHER FONTS THAT WERE TRIED AND REJECTED */
+	
+	/*	src: url("https://cookjools.github.io/bl_universal_viewer_demo/fonts/BabelStoneTibetan.ttf"); */ /* without specifying format - fine except in Firefox? */
+		/* src: url("https://cookjools.github.io/bl_universal_viewer_demo/fonts/TibMachUni-1.901b.ttf") format('truetype'); */  /* format possibly required by Firefox? (but Firefox messes up formatting of metadata in right panel, with overlap of title and content in each element) at least for some fonts such as BabelStoneTibetan.ttf */
+		/* src: url("https://cookjools.github.io/bl_universal_viewer_demo/fonts/Jomolhari-ID-a3d.ttf") format('truetype');  */
+		/* src: url("https://cookjools.github.io/bl_universal_viewer_demo/fonts/BabelStoneTibetan.ttf") format('truetype'); */ /* avoid this - messes up metadata! */
+		
 	   
 /* noto-serif-tibetan-regular - tibetan */
 /* this seems to require line-height: 200% in Firefox not to clip top but still the bottom is clipped */
