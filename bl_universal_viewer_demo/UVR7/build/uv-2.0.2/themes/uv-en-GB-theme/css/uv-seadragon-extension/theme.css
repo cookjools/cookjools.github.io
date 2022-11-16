@@ -56,7 +56,32 @@
 /*       url('https://cookjools.github.io/bl_universal_viewer_demo/fonts/noto-serif-tibetan-v16-tibetan-regular.svg#NotoSerifTibetan') format('svg');  /* Legacy iOS */
 
 }
-      }
+
+@font-face {
+	/* to turn off emboldening of Chinese on some elt(s) use e.g. body {
+font-family: "Tibetan", "Chinese_non_bold", Arial, sans-serif, Microsoft Himalaya, Arial Unicode MS;
+…
+}
+ */
+ 
+    font-family: "Chinese_non_bold";
+	
+	size-adjust: 100%; /* no need to resize Chinese */ 
+ 
+   /* include all Chinese unicode values (but no other characters) */
+  	unicode-range: U+4E00-9FCC, U+3400-4DB5, U+20000-2A6D6, U+2A700-2B734,  U+2B740-2B81D; 
+
+	font-weight: bold; /* trick to turn OFF emboldening of Chinese characters */
+
+
+
+	/* use a regular font (even though this family also has bold versions) */
+    /* source: https://fonts.google.com/noto/specimen/Noto+Sans+SC?subset=chinese-simplified */
+    /* QN: are there other versions more suitable to other browsers/operating systems? */	
+	src: url('https://cookjools.github.io/bl_universal_viewer_demo/fonts/NotoSansSC-Regular.otf') format("opentype");
+   
+}
+
 #app .overlay {
   color: #000;
 }
