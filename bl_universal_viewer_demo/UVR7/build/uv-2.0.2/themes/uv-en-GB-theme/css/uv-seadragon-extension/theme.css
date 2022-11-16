@@ -6,7 +6,7 @@
 	
 		/* increase the size of the font so that Tibetan does not display in microscopic form  */
 		size-adjust: 150%; /* 100 for Noto but perhaps 150% for others */ 
-		/* warning: if size-adjust value is more than 100% it can cause clipping and or lines of text overlapping unless any element using this font-family "Tibetan" also has CSS specifying enough vertical space around it via padding & line-height, e.g. line-height: 200%;  padding-bottom: 2px; padding-top: 10px;   */
+		/* warning: if size-adjust value is more than 100% it can cause vertcial clipping and or lines of text to overlap unless any element using this font-family "Tibetan" ALSO has CSS specifying enough vertical space around it via padding & line-height; for example in BL Universal Viewer, we find we need the following: line-height: 200%;  padding-bottom: 2px; padding-top: 10px;  for an element with font-family: "Tibetan";*/
 
 		/* specify the characters to which this family should apply */
 		unicode-range: U+0F00-0FFF;   /* Unicode range for Tibetan (syllable marker is U0F0B) */
