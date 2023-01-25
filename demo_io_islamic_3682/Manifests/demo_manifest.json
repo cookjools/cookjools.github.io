@@ -151,8 +151,6 @@
             "startCanvas": "https://f8645d32-e2b5-48a3-a46d-21c39e8ed829/canvas_8",
             "canvases": [
                 {
-                    
-                {
                     "@id": "https://f8645d32-e2b5-48a3-a46d-21c39e8ed829/canvas_8",
                     "@type": "sc:Canvas",
                     "label": "f.1v (illum.)",
