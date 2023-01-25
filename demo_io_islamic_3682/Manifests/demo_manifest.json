@@ -1,0 +1,287 @@
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@id": "https://f8645d32-e2b5-48a3-a46d-21c39e8ed829/manifest_0",
+    "@type": "sc:Manifest",
+    "label": "Demo manifest - various images of IO Islamic 3682 via Cantaloupe or via EAP AWS",
+    "behavior": [
+        "individuals"
+    ],
+    "viewingHint": "individuals",
+    "viewingDirection": "right-to-left",
+    "description": [
+        {
+            "@value": "Demo manifest - various images of IO Islamic 3682 via Cantaloupe or via EAP AWS",
+            "@language": "en"
+        }
+    ],
+    "metadata": [
+        {
+            "label": "Identifier",
+            "value": "IO Islamic 3682"
+        },
+        {
+            "label": "Held by",
+            "value": "<a href=\"https://www.bl.uk\">The British Library</a>"
+        },
+        {
+            "label": "Title",
+            "value": "Sh\u0101hn\u0101mah"
+        },
+        {
+            "label": "Creator",
+            "value": "Firdaws\u012b"
+        },
+        {
+            "label": "Date",
+            "value": "17th century"
+        },
+        {
+            "label": "Language",
+            "value": "Persian"
+        },
+        {
+            "label": "Catalogue record",
+            "value": "<a href=\"http://searcharchives.bl.uk/IAMS_VU2:IAMSUNKNOWN\">View the catalogue record</a>"
+        },
+        {
+            "label": "Citation",
+            "value": "<span>IO Islamic 3682, &lt;??&gt;</span>"
+        }
+    ],
+    "related": [
+        {
+            "@id": "??",
+            "format": "text/html",
+            "label": "View at The British Library"
+        }
+    ],
+    "service": [
+        {
+            "@context": "http://iiif.io/api/auth/0/context.json",
+            "@id": "https://api.bl.uk/auth/iiif/login",
+            "profile": "http://iiif.io/api/auth/0/login",
+            "description": "Some content may only be available to registered readers or staff. Please log-in to The British Library to continue.",
+            "header": "Please Log-In",
+            "label": "Login to The British Library",
+            "service": {
+                "@id": "https://api.bl.uk/auth/iiif/token",
+                "profile": "http://iiif.io/api/auth/0/token"
+            }
+        },
+        {
+            "@context": "http://universalviewer.io/context.json",
+            "@id": "http://access.bl.uk/item/share/ark:/81055/vdc_100052141780.0x000001",
+            "profile": "http://universalviewer.io/share-extensions-profile"
+        },
+        {
+            "@context": "http://universalviewer.io/context.json",
+            "@id": "http://access.bl.uk/item/feedback/ark:/81055/vdc_100052141780.0x000001",
+            "profile": "http://universalviewer.io/feedback-extensions-profile"
+        },
+        {
+            "@context": "http://universalviewer.io/context.json",
+            "@id": "http://access.bl.uk/item/print/ark:/81055/vdc_100052141780.0x000001",
+            "profile": "http://universalviewer.io/print-extensions-profile"
+        }
+    ],
+    "logo": "https://www.bl.uk/images/bl_logo_100.gif",
+    "license": "https://creativecommons.org/licenses/by/3.0/",
+    "attribution": "The British Library",
+    "thumbnail": {
+        "@id": "https://f8645d32-e2b5-48a3-a46d-21c39e8ed829/canvas_8",
+        "@type": "dctypes:Image",
+        "format": "image/jpg",
+        "service": {
+            "@context": "http://iiif.io/api/image/2/context.json",
+            "@id": "https://images.eap.bl.uk/EAP000/EAP000_1_1/8.jp2",
+            "protocol": "http://iiif.io/api/image",
+            "width": 8421,
+            "height": 2273,
+            "tiles": [
+                {
+                    "width": 256,
+                    "height": 256,
+                    "scaleFactors": [
+                        1,
+                        2,
+                        4,
+                        8,
+                        16,
+                        32,
+                        64
+                    ]
+                }
+            ],
+            "profile": [
+                "http://iiif.io/api/image/2/level1.json",
+                {
+                    "formats": [
+                        "jpg"
+                    ],
+                    "qualities": [
+                        "native",
+                        "color",
+                        "gray"
+                    ],
+                    "supports": [
+                        "regionByPct",
+                        "regionSquare",
+                        "sizeByForcedWh",
+                        "sizeByWh",
+                        "sizeAboveFull",
+                        "rotationBy90s",
+                        "mirroring"
+                    ]
+                }
+            ]
+        }
+    },
+    "sequences": [
+        {
+            "@id": "https://f8645d32-e2b5-48a3-a46d-21c39e8ed829/sequence_0",
+            "@type": "sc:Sequence",
+            "label": [
+                {
+                    "@value": "Normal Sequence",
+                    "@language": "en"
+                }
+            ],
+            "viewingHint": "individuals",
+            "viewingDirection": "right-to-left",
+            "startCanvas": "https://f8645d32-e2b5-48a3-a46d-21c39e8ed829/canvas_8",
+            "canvases": [
+                {
+                    
+                {
+                    "@id": "https://f8645d32-e2b5-48a3-a46d-21c39e8ed829/canvas_8",
+                    "@type": "sc:Canvas",
+                    "label": "f.1v (illum.)",
+                    "metadata": [
+                        {
+                            "label": "Identifier",
+                            "value": "f.1v (illum.)"
+                        }
+                    ],
+                    "height": 9911,
+                    "width": 6434,
+                    "images": [
+                        {
+                            "@context": "http://iiif.io/api/presentation/2/context.json",
+                            "@id": "https://f8645d32-e2b5-48a3-a46d-21c39e8ed829/image_8",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "resource": {
+                                "@id": "https://images.eap.bl.uk/EAP000/EAP000_1_19/8.jp2/full/full/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpg",
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "https://images.eap.bl.uk/EAP000/EAP000_1_19/8.jp2",
+                                    "protocol": "http://iiif.io/api/image",
+                                    "profile": [
+                                        "http://iiif.io/api/image/2/level1.json",
+                                        {
+                                            "formats": [
+                                                "jpg"
+                                            ],
+                                            "qualities": [
+                                                "native",
+                                                "color",
+                                                "gray"
+                                            ],
+                                            "supports": [
+                                                "regionByPct",
+                                                "regionSquare",
+                                                "sizeByForcedWh",
+                                                "sizeByWh",
+                                                "sizeAboveFull",
+                                                "rotationBy90s",
+                                                "mirroring"
+                                            ]
+                                        }
+                                    ]
+                                },
+                                "tiles": [
+                                    {
+                                        "width": 256,
+                                        "height": 256,
+                                        "scaleFactors": [
+                                            1,
+                                            2,
+                                            4,
+                                            8,
+                                            16,
+                                            32,
+                                            64
+                                        ]
+                                    }
+                                ],
+                                "sizes": [
+                                    {
+                                        "width": 100,
+                                        "height": 154
+                                    },
+                                    {
+                                        "width": 201,
+                                        "height": 309
+                                    },
+                                    {
+                                        "width": 402,
+                                        "height": 619
+                                    }
+                                ],
+                                "height": 9911,
+                                "width": 6434
+                            },
+                            "on": "https://f8645d32-e2b5-48a3-a46d-21c39e8ed829/canvas_8"
+                        }
+                    ],
+                    "related": ""
+                }
+            ]
+        }
+    ],
+    "structures": [
+        {
+            "@id": "https://f8645d32-e2b5-48a3-a46d-21c39e8ed829/range_1",
+            "@type": "sc:Range",
+            "label": "Table of Contents",
+            "viewingHint": "top",
+            "ranges": [
+                "https://f8645d32-e2b5-48a3-a46d-21c39e8ed829/range_1_1"
+            ]
+        },
+        {
+            "@id": "https://f8645d32-e2b5-48a3-a46d-21c39e8ed829/range_1_1",
+            "@type": "sc:Range",
+            "label": "Texts",
+            "viewingHint": "individuals",
+            "metadata": [
+                {
+                    "label": "Identifier",
+                    "value": "Texts"
+                }
+            ],
+            "ranges": [
+                "https://f8645d32-e2b5-48a3-a46d-21c39e8ed829/range_1_1_1"
+            ]
+        },
+        {
+            "@id": "https://f8645d32-e2b5-48a3-a46d-21c39e8ed829/range_1_1_1",
+            "@type": "sc:Range",
+            "label": "UNKNOWN 1",
+            "viewingHint": "individuals",
+            "metadata": [
+                {
+                    "label": "Identifier",
+                    "value": "UNKNOWN 1"
+                }
+            ],
+            "canvases": [
+                "https://f8645d32-e2b5-48a3-a46d-21c39e8ed829/canvas_8"
+
+            ]
+ 
+        }
+    ]
+}			
