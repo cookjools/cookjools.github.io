@@ -157,7 +157,7 @@
                     "metadata": [
                         {
                             "label": "Identifier",
-                            "value": "f.1v (illum.)"
+                            "value": "f.1v (illum.) - served from EAP AWS (TIFF ingested as JP2)"
                         }
                     ],
                     "height": 9911,
@@ -267,12 +267,12 @@
         {
             "@id": "https://f8645d32-e2b5-48a3-a46d-21c39e8ed829/range_1_1_1",
             "@type": "sc:Range",
-            "label": "UNKNOWN 1",
+            "label": "Image served from EAP AWS (TIFF ingested as JP2)",
             "viewingHint": "individuals",
             "metadata": [
                 {
                     "label": "Identifier",
-                    "value": "UNKNOWN 1"
+                    "value": "Image served from EAP AWS (TIFF ingested as JP2)"
                 }
             ],
             "canvases": [
