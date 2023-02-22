@@ -2,10 +2,11 @@
 	/* Any element CSS with font-family: "Tibetan",... will use this font-face definition and apply it ONLY to Unicode characters in the range used for Tibetan characters (all other characters will be ignored and fallback to the default font, or the next font-family in the chain). */
 	/* WARNING: any such element might also need to have vertical padding and line-height increased if Tibetan is not to be clipped, or rendered with lines overlapping (see below for details)  */
 	
-	/* MODIFICATION: change location of font files from 
+	/* MODIFICATION: changed location of font files from 
 		https://cookjools.github.io/bl_universal_viewer_demo/fonts
 	to
 		https://github.com/britishlibrary/Asian-and-African-Collections-PUBLIC/raw/main/TEI%20Manuscript%20Cataloguing/Web%20resources/Fonts
+		HOWEVER, FOR NOW THESE FONTS ARE NOT LOADING - SEE CORS ERROR IN BROWSER CONSOLE!!!
 	*/
 	
         font-family: "Tibetan";
