@@ -2,12 +2,6 @@
 	/* Any element CSS with font-family: "Tibetan",... will use this font-face definition and apply it ONLY to Unicode characters in the range used for Tibetan characters (all other characters will be ignored and fallback to the default font, or the next font-family in the chain). */
 	/* WARNING: any such element might also need to have vertical padding and line-height increased if Tibetan is not to be clipped, or rendered with lines overlapping (see below for details)  */
 	
-	/* MODIFICATION: change location of font files from 
-		https://cookjools.github.io/bl_universal_viewer_demo/fonts
-	to
-		https://github.com/britishlibrary/Asian-and-African-Collections-PUBLIC/raw/main/TEI%20Manuscript%20Cataloguing/Web%20resources/Fonts
-	*/
-	
         font-family: "Tibetan";
 	
 		/* increase the size of the font so that Tibetan does not display in microscopic form  */
@@ -31,14 +25,13 @@
 
 
 	/* use Jomolhari font - seems to be the best font for Tibetan across browsers/operating systems/devices */
-	
-	src: url('https://github.com/britishlibrary/Asian-and-African-Collections-PUBLIC/raw/main/TEI%20Manuscript%20Cataloguing/Web%20resources/Fonts/jomolhari-v14-tibetan-regular.eot');    /* IE9 Compat Modes */
+	src: url('https://cookjools.github.io/bl_universal_viewer_demo/fonts/jomolhari-v14-tibetan-regular.eot');    /* IE9 Compat Modes */
     src: local(''),
-       url('https://github.com/britishlibrary/Asian-and-African-Collections-PUBLIC/raw/main/TEI%20Manuscript%20Cataloguing/Web%20resources/Fonts/jomolhari-v14-tibetan-regular.eot?#iefix') format('embedded-opentype'),  /* IE6-IE8 */
-       url('https://github.com/britishlibrary/Asian-and-African-Collections-PUBLIC/raw/main/TEI%20Manuscript%20Cataloguing/Web%20resources/Fonts/jomolhari-v14-tibetan-regular.woff2') format('woff2'), /* Super Modern Browsers */
-        url('https://github.com/britishlibrary/Asian-and-African-Collections-PUBLIC/raw/main/TEI%20Manuscript%20Cataloguing/Web%20resources/Fonts/jomolhari-v14-tibetan-regular.woff') format('woff'),  /* Modern Browsers */
-        url('https://github.com/britishlibrary/Asian-and-African-Collections-PUBLIC/raw/main/TEI%20Manuscript%20Cataloguing/Web%20resources/Fonts/jomolhari-v14-tibetan-regular.ttf') format('truetype'), /* Safari, Android, iOS */
-        url('https://github.com/britishlibrary/Asian-and-African-Collections-PUBLIC/raw/main/TEI%20Manuscript%20Cataloguing/Web%20resources/Fonts/jomolhari-v14-tibetan-regular.svg#Jomolhari') format('svg');  /* Legacy iOS */
+       url('https://cookjools.github.io/bl_universal_viewer_demo/fonts/jomolhari-v14-tibetan-regular.eot?#iefix') format('embedded-opentype'),  /* IE6-IE8 */
+       url('https://cookjools.github.io/bl_universal_viewer_demo/fonts/jomolhari-v14-tibetan-regular.woff2') format('woff2'), /* Super Modern Browsers */
+        url('https://cookjools.github.io/bl_universal_viewer_demo/fonts/jomolhari-v14-tibetan-regular.woff') format('woff'),  /* Modern Browsers */
+        url('https://cookjools.github.io/bl_universal_viewer_demo/fonts/jomolhari-v14-tibetan-regular.ttf') format('truetype'), /* Safari, Android, iOS */
+        url('https://cookjools.github.io/bl_universal_viewer_demo/fonts/jomolhari-v14-tibetan-regular.svg#Jomolhari') format('svg');  /* Legacy iOS */
 	   
 	   
 	   
@@ -85,7 +78,7 @@ font-family: "Tibetan", "Chinese_non_bold", Arial, sans-serif, Microsoft Himalay
 	/* use a regular font (even though this family also has bold versions) */
     /* source: https://fonts.google.com/noto/specimen/Noto+Sans+SC?subset=chinese-simplified */
     /* QN: are there other versions more suitable to other browsers/operating systems? */	
-	src: url('https://github.com/britishlibrary/Asian-and-African-Collections-PUBLIC/raw/main/TEI%20Manuscript%20Cataloguing/Web%20resources/Fonts/NotoSansSC-Regular.otf') format("opentype");
+	src: url('https://cookjools.github.io/bl_universal_viewer_demo/fonts/NotoSansSC-Regular.otf') format("opentype");
    
 }
 
