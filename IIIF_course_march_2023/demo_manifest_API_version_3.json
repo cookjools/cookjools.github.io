@@ -1,6 +1,6 @@
 {
   "@context": "http://iiif.io/api/presentation/3/context.json",
-  "id": "https://example.org/iiif/book1/manifest",
+  "id": "https://cookjools.github.io/IIIF_course_march_2023/demo_manifest_API_version_3.json",
   "type": "Manifest",
   "label": { "en": [ "Book 1" ] },
   "metadata": [
@@ -50,7 +50,7 @@
   "behavior": [ "paged" ],
   "navDate": "1856-01-01T00:00:00Z",
 
-  "rights": "https://creativecommons.org/licenses/by/4.0/",
+  "rights": "http://creativecommons.org/licenses/by/4.0/",
   "requiredStatement": {
     "label": { "en": [ "Attribution" ] },
     "value": { "en": [ "Provided by Example Organization" ] }
