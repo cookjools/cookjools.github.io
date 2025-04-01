@@ -4,7 +4,24 @@
 <title>
 	Demonstration of Star Chart embedded in IIIF viewers
 </title>
-<head>
+ <meta charset="UTF-8" />
+ <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+ <meta http-equiv="X-UA-Compatible" content="ie=edge" />
+  <link
+   rel="stylesheet"
+   href="https://cdn.jsdelivr.net/npm/universalviewer@4.0.0/dist/uv.css"
+ />
+ 
+  <script
+   type="application/javascript"
+   src="https://cdn.jsdelivr.net/npm/universalviewer@4.0.0/dist/umd/UV.js"
+ ></script>
+ <style>
+   #uv {
+     width: 924px;
+     height: 668px;
+   }
+ </style>
 </head>
 <body>
 <!-- run on localhost using: http://localhost/BRITISH_LIBRARY/universal_viewer_etc/BL Universal Viewer Modified/star_chart.html-->
@@ -115,6 +132,30 @@
 <h4>UV</h4>
 <p>Here is an embedded version with the config file and embed.js from old BL UV, both on Github</p>
 <div class="uv" data-locale="en-GB:English (GB),cy-GB:Cymraeg" data-config="https://cookjools.github.io/bl_universal_viewer_demo/custom_uv_config.json" data-uri="https://data.idp.bl.uk/iiif/3/manifest/7861395E5F814419BA05483EAB254832" data-collectionindex="0" data-manifestindex="0" data-sequenceindex="0" data-canvasindex="0" data-zoom="-777,-268,7780,5341" data-rotation="0" style="width:560px; height:420px; background-color: #000"></div><script type="text/javascript" id="embedUV" src="https://cookjools.github.io/bl_universal_viewer_demo/UVR7/build/uv-2.0.2/lib/embed.js"></script><script type="text/javascript">/* wordpress fix */</script>
+
+<h4>UV configured</h4>
+<p>see https://training.iiif.io/dhsi/day-two/uv.html </p>
+<div class="uv" id="uv"></div>
+
+ <script>
+   var urlAdaptor = new UV.IIIFURLAdaptor();
+
+   const data = urlAdaptor.getInitialData({
+     manifest: "https://data.idp.bl.uk/iiif/3/manifest/7861395E5F814419BA05483EAB254832",
+     embedded: true // needed for codesandbox frame
+   });
+
+   uv = UV.init("uv", data);
+   urlAdaptor.bindTo(uv);
+
+   // override config using an inline json object
+   uv.on("configure", function ({ config, cb }) {
+     cb({
+       options: { footerPanelEnabled: true }
+     });
+   });
+ </script>
+
 
 </body>
 </html>
