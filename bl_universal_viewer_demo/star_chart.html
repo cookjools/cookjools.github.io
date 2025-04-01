@@ -158,30 +158,33 @@
    uv.on("configure", function ({ config, cb }) {
      cb({
        options: { 
-	   dropEnabled: false,
-	   footerPanelEnabled: false,
-	   footerPanelEnabled: false,
-	   headerPanelEnabled: false,
-	   leftPanelEnabled: false,
-	   navigatorEnabled: false,
-	   overrideFullScreen: true,
-	   pagingEnabled: false,
-	   pagingOptionEnabled: false,
-	   pessimisticAccessControl: true,
-	   preserveViewport: true,
-	   rightPanelEnabled: false,
-	   saveUserSettings: false,
-	   searchWithinEnabled: false,
-	   termsOfUseEnabled: false
+		   dropEnabled: false,
+		   footerPanelEnabled: false,
+		   headerPanelEnabled: false,
+		   leftPanelEnabled: false,
+		   navigatorEnabled: false,
+		   overrideFullScreen: true,
+		   pagingEnabled: false,
+		   pagingOptionEnabled: false,
+		   pessimisticAccessControl: true,
+		   preserveViewport: true,
+		   rightPanelEnabled: false,
+		   saveUserSettings: false,
+		   searchWithinEnabled: false,
+		   termsOfUseEnabled: false
 	   },
-	   modules: { contentLeftPanel: {options: {
-			thumbsEnabled:false
-		} } },
+	   modules: { 
+		   contentLeftPanel: {options: {
+				thumbsEnabled:false
+			} } },
 	   seadragonCenterPanel: {options: {
 			autoHideControls: true,
 			attributionEnabled: false,
-			defaultZoomLevel: 4,
+			defaultZoomLevel: 3,
 			maxZoomLevel: 16
+		} },
+		footerPanel: {options: {
+				navigationEnabled: false
 		} }
      });
    });
