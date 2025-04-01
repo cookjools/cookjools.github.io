@@ -157,9 +157,23 @@
    // for options see config file at https://cookjools.github.io/bl_universal_viewer_demo/custom_uv_config.json
    uv.on("configure", function ({ config, cb }) {
      cb({
-       options: { footerPanelEnabled: false, footerPanelEnabled: false,
-    headerPanelEnabled: false,
-    leftPanelEnabled: false },
+       options: { 
+	   dropEnabled: false,
+	   footerPanelEnabled: false,
+	   footerPanelEnabled: false,
+	   headerPanelEnabled: false,
+	   leftPanelEnabled: false,
+	   navigatorEnabled: false,
+	   overrideFullScreen: true,
+	   pagingEnabled: false,
+	   pagingOptionEnabled: false,
+	   pessimisticAccessControl: true,
+	   preserveViewport: true,
+	   rightPanelEnabled: false,
+	   saveUserSettings: false,
+	   searchWithinEnabled: false,
+	   termsOfUseEnabled: false
+	   },
 	   modules: { contentLeftPanel: {options: {thumbsEnabled:false} } }
      });
    });
