@@ -157,7 +157,9 @@
    // for options see config file at https://cookjools.github.io/bl_universal_viewer_demo/custom_uv_config.json
    uv.on("configure", function ({ config, cb }) {
      cb({
-       options: { footerPanelEnabled: true },
+       options: { footerPanelEnabled: true, footerPanelEnabled: true,
+    headerPanelEnabled: true,
+    leftPanelEnabled: true },
 	   modules: { contentLeftPanel: {options: {thumbsEnabled:false} } }
      });
    });
