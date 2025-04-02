@@ -1,0 +1,1 @@
+var collectionBlockBaseURL = document.location.protocol+'//'+document.location.hostname;
