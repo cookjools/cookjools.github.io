@@ -22,6 +22,9 @@
      height: 668px;
    }
  </style>
+ 
+  <script src="https://unpkg.com/mirador@latest/dist/mirador.min.js"></script>
+  
 </head>
 <body>
 <!-- run on localhost using: http://localhost/BRITISH_LIBRARY/universal_viewer_etc/BL Universal Viewer Modified/star_chart.html-->
@@ -141,6 +144,51 @@
 <div class="uv" id="uv"></div>
 
 <hr/>
+
+<h4>Mirador embedded</h4>
+<p>See https://training.iiif.io/dhsi/day-two/configuring-viewers.html</p>
+<div id="mirador"></div>
+
+   <script>
+
+var miradorInstance = Mirador.viewer({
+  id: "mirador",
+  selectedTheme: 'dark', // i've chosen the light theme, you could try dark
+  window: {
+    defaultView: "scroll", 
+    sideBarOpen: true, // try changing to false
+    sideBarPanel: "canvas",
+    views: [
+      { key: "single", behaviors: ["individuals", "paged"] },
+      { key: "book", behaviors: ["individuals"] },
+      { key: "scroll", behaviors: ["continuous"] },
+      { key: "gallery" }
+    ]
+  },
+  windows: [
+    // {
+    //   manifestId: "https://scta.info/iiif/plaoulcommentary/sorb/manifest", //add a manifest here that you want to miror to display onload
+    //   canvasId: "http://scta.info/iiif/sorb/canvas/S2r" //add a canvas here within the above manifest that you want mirador to open on load
+    // },
+    {
+      manifestId: "https://iiif.harvardartmuseums.org/manifests/object/299843",
+      canvasId: "https://iiif.harvardartmuseums.org/manifests/object/299843/canvas/canvas-18737483"
+    }
+    // if you want into open another canvas, add another block here
+  ],
+  // list any of the manifest you want your mirador instance to load; any manifest listed above must be included below
+  catalog: [
+    {
+      manifestId: "https://iiif.harvardartmuseums.org/manifests/object/299843"
+    },
+    {
+      manifestId: "https://scta.info/iiif/plaoulcommentary/sorb/manifest"
+    }
+    // add more manifests here if desired
+  ]
+});
+      </script>
+
 
  <script>
    var urlAdaptor = new UV.IIIFURLAdaptor();
